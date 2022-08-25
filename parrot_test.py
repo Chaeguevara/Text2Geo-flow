@@ -21,7 +21,9 @@ parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5", use_gpu=True)
 
 phrases = ["Can you recommed some upscale restaurants in Newyork?",
            "What are the famous places we should not miss in Russia?",
-           "What is the slope in Utrecht"
+           "What is the slope in Utrecht",
+           "What are the four fire stations with shortest network-based paths to 1202 Twin Peaks Blvd in San Francisco",
+           "What is the number of stores for each warehouse service area in Paris"
 ]
 
 for phrase in phrases:
