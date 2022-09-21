@@ -3,6 +3,8 @@ from numpy.core.fromnumeric import sort
 import pandas as pd
 import json
 import numpy as np
+from pandas._libs.algos import unique_deltas
+from pandas.core import series
 
 
 def get_data_from_csv():
@@ -67,8 +69,7 @@ def handle_dup_siGunGu(geo_lv2):
 
 
 def write_geo_lv2(kor_geo_data):
-    geo_lv2 = kor_geo_data.copy()
-    nested_sigungu_df = handle_dup_siGunGu(geo_lv2)
+    nested_sigungu_df = handle_dup_siGunGu(kor_geo_data)
     geo_lv2 = nested_sigungu_df.copy()
     geo_lv2 = geo_lv2[geo_lv2.T.count() == 5]
     geo_lv2.drop(columns=["읍면동", "소분류", "중분류"], inplace=True)
@@ -104,14 +105,64 @@ def write_geo_lv1(kor_geo_data):
             )
 
 
-def write_geo_lv3(kor_geo_data):
+def gen_nest_emd_english(kor_geo_data, u_myeon_dong, u_m_d_dup_df, write=False):
+    si_gun_gu = kor_geo_data[(kor_geo_data["소분류"].isna())
+                             &
+                             (kor_geo_data.T.count() == 5)
+                             ]
+    u_m_d_dup_df_left = u_m_d_dup_df.copy()
+    u_m_d_dup_df_left = u_m_d_dup_df_left.merge(
+        si_gun_gu,
+        how="left",
+        on="중분류"
+    )
+    u_m_d_dup_df_left.index = u_m_d_dup_df.index
+    u_m_d_dup_df.loc[u_m_d_dup_df.index, "영문 표기"] = \
+        u_m_d_dup_df_left.loc[u_m_d_dup_df.index, "영문 표기_x"]\
+        + " in "\
+        + u_m_d_dup_df_left.loc[u_m_d_dup_df.index, "영문 표기_y"]
+    u_m_d_dup_df.loc[u_m_d_dup_df.index, "지명 갯수"] = \
+        u_m_d_dup_df.loc[u_m_d_dup_df.index, "영문 표기"].copy().apply(
+        lambda x: len(x.split("in"))
+    )
+    if write:
+        u_m_d_dup_df.copy().\
+            sort_values(by=["읍면동"]).to_csv("../Data/lv3_dup_handled_name.csv")
+    kor_geo_data.loc[u_m_d_dup_df.index] = u_m_d_dup_df.loc[u_m_d_dup_df.index]
+    return kor_geo_data
+
+def write_geo_lv3(kor_geo_data, write=False):
     u_myeon_dong = kor_geo_data[kor_geo_data["소분류"].notna()]
-    print(kor_geo_data["소분류"].notna())
-    return
+    u_m_d_column = u_myeon_dong["읍면동"]
+    u_m_d_count = u_m_d_column.value_counts()
+    u_m_d_dup_name = u_m_d_count[u_m_d_count != 1].index
+    u_m_d_dup_df = u_myeon_dong[u_myeon_dong["읍면동"].isin(u_m_d_dup_name)]
+    if write:
+        u_m_d_dup_df.copy().\
+            sort_values(by=["읍면동"]).to_csv("../Data/lv3_dup_name.csv")
+    gen_nest_emd_english(kor_geo_data, u_myeon_dong, u_m_d_dup_df)
+
+    u_myeon_dong_json = kor_geo_data.copy()[kor_geo_data["소분류"].notna()]
+    u_myeon_dong_json.drop(columns=["소분류", "중분류"], inplace=True)
+    u_myeon_dong_json_test = u_myeon_dong_json.copy().groupby(["시군구"])
+
+    print(u_myeon_dong_json_test)
+    j_lv3 = u_myeon_dong_json.groupby(["시도", "시군구"])\
+        .apply(lambda x: x[["읍면동", "영문 표기", "지명 갯수"]].to_dict('records'))\
+        .reset_index()\
+        .rename(columns={0: "읍면동_영어"})\
+        .to_json(orient="records")
+    with open("../Data/lv3_korea_geo.json", "w") as outfile:
+        outfile.write(
+            json.dumps(json.loads(j_lv3),
+                       indent=2,
+                       sort_keys=False,
+                       ensure_ascii=False)
+        )
 
 
 if __name__ == "__main__":
     kor_geo_data = get_data_from_csv()
     nested_sigungu_df = write_geo_lv2(kor_geo_data)
-    write_geo_lv3(nested_sigungu_df)
+    write_geo_lv3(kor_geo_data)
 
