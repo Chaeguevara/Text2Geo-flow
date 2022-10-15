@@ -1,0 +1,3797 @@
+,영문 표기
+0,Seoul
+1,Busan
+2,Daegu
+3,Incheon
+4,Gwangju
+5,Daejeon
+6,Ulsan
+7,Sejong City
+8,Gyeonggi-do
+9,Gangwon-do
+10,Chungcheongbuk-do
+11,Chungcheongnam-do
+12,Jeollabuk-do
+13,Jeollanam-do
+14,Gyeongsangbuk-do
+15,Gyeongsangnam-do
+16,Jeju
+0,Chuncheon-si
+1,Wonju-si
+2,Gangneung-si
+3,Donghae-si
+4,Taebaek-si
+5,Sokcho-si
+6,Samcheok-si
+7,Hongcheon-gun
+8,Hoengseong-gun
+9,Yeongwol-gun
+10,Pyeongchang-gun
+11,Jeongseon-gun
+12,Cheorwon-gun
+13,Hwacheon-gun
+14,Yanggu-gun
+15,Inje-gun
+16,Goseong-gun in Gangwon-do
+17,Yangyang-gun
+18,Suwon-si
+19,Jangan-gu
+20,Gwonseon-gu
+21,Paldal-gu
+22,Yeongtong-gu
+23,Seongnam-si
+24,Sujeong-gu
+25,Jungwon-gu
+26,Bundang-gu
+27,Uijeongbu-si
+28,Anyang-si
+29,Manan-gu
+30,Dongan-gu
+31,Bucheon-si
+32,Gwangmyeong-si
+33,Pyeongtaek-si
+34,Dongducheon-si
+35,Ansan-si
+36,Sangnok-gu
+37,Danwon-gu
+38,Goyang-si
+39,Deogyang-gu
+40,Ilsandong-gu
+41,Ilsanseo-gu
+42,Gwacheon-si
+43,Guri-si
+44,Namyangju-si
+45,Osan-si
+46,Siheung-si
+47,Gunpo-si
+48,Uiwang-si
+49,Hanam-si
+50,Yongin-si
+51,Cheoin-gu
+52,Giheung-gu
+53,Suji-gu
+54,Paju-si
+55,Icheon-si
+56,Anseong-si
+57,Gimpo-si
+58,Hwaseong-si
+59,Gwangju-si
+60,Yangju-si
+61,Pocheon-si
+62,Yeoju-si
+63,Yeoncheon-gun
+64,Gapyeong-gun
+65,Yangpyeong-gun
+66,Changwon-si
+67,Uichang-gu
+68,seongsan-gu
+69,Masanhappo-gu
+70,Masanhoewon-gu
+71,Jinhae-gu
+72,Jinju-si
+73,Tongyeong-si
+74,Sacheon-si
+75,Gimhae-si
+76,Miryang-si
+77,Geoje-si
+78,Yangsan-si
+79,Uiryeong-gun
+80,Haman-gun
+81,Changnyeong-gun
+82,Goseong-gun in Gyeongsangnam-do
+83,Namhae-gun
+84,Hadong-gun
+85,Sancheong-gun
+86,Hamyang-gun
+87,Geochang-gun
+88,Hapcheon-gun
+89,Pohang-si
+90,Nam-gu in Gyeongsangbuk-do
+91,Buk-gu in Gyeongsangbuk-do
+92,Gyeongju-si
+93,Gimcheon-si
+94,Andong-si
+95,Gumi-si
+96,Yeongju-si
+97,Yeongcheon-si
+98,Sangju-si
+99,Mungyeong-si
+100,Gyeongsan-si
+101,Gunwi-gun
+102,Uiseong-gun
+103,Cheongsong-gun
+104,Yeongyang-gun
+105,Yeongdeok-gun
+106,Cheongdo-gun
+107,Goryeong-gun
+108,Seongju-gun
+109,Chilgok-gun
+110,Yecheon-gun
+111,Bonghwa-gun
+112,Uljin-gun
+113,Ulleung-gun
+114,Dong-gu in Gwangju
+115,Seo-gu in Gwangju
+116,Nam-gu in Gwangju
+117,Buk-gu in Gwangju
+118,Gwangsan-gu
+119,Jung-gu in Daegu
+120,Dong-gu in Daegu
+121,Seo-gu in Daegu
+122,Nam-gu in Daegu
+123,Buk-gu in Daegu
+124,Suseong-gu
+125,Dalseo-gu
+126,Dalseong-gun
+127,Dong-gu in Daejeon
+128,Jung-gu in Daejeon
+129,Seo-gu in Daejeon
+130,Yuseong-gu
+131,Daedeok-gu
+132,Jung-gu in Busan
+133,Seo-gu in Busan
+134,Dong-gu in Busan
+135,Yeongdo-gu
+136,Busanjin-gu
+137,Dongnae-gu
+138,Nam-gu in Busan
+139,Buk-gu in Busan
+140,Haeundae-gu
+141,Saha-gu
+142,Geumjeong-gu
+143,Gangseo-gu in Busan
+144,Yeonje-gu
+145,Suyeong-gu
+146,Sasang-gu
+147,Gijang-gun
+148,Jongno-gu
+149,Jung-gu in Seoul
+150,Yongsan-gu
+151,Seongdong-gu
+152,Gwangjin-gu
+153,Dongdaemun-gu
+154,Jungnang-gu
+155,Seongbuk-gu
+156,Gangbuk-gu
+157,Dobong-gu
+158,Nowon-gu
+159,Eunpyeong-gu
+160,Seodaemun-gu
+161,Mapo-gu
+162,Yangcheon-gu
+163,Gangseo-gu in Seoul
+164,Guro-gu
+165,Geumcheon-gu
+166,Yeongdeungpo-gu
+167,Dongjak-gu
+168,Gwanak-gu
+169,Seocho-gu
+170,Gangnam-gu
+171,Songpa-gu
+172,Gangdong-gu
+173,Sejong City
+174,Jung-gu in Ulsan
+175,Nam-gu in Ulsan
+176,Dong-gu in Ulsan
+177,Buk-gu in Ulsan
+178,Ulju-gun
+179,Jung-gu in Incheon
+180,Dong-gu in Incheon
+181,Michuhol-gu
+182,Yeonsu-gu
+183,Namdong-gu
+184,Bupyeong-gu
+185,Gyeyang-gu
+186,Seo-gu in Incheon
+187,Ganghwa-gun
+188,Ongjin-gun
+189,Mokpo-si
+190,Yeosu-si
+191,Suncheon-si
+192,Naju-si
+193,Gwangyang-si
+194,Damyang-gun
+195,Gokseong-gun
+196,Gurye-gun
+197,Goheung-gun
+198,Boseong-gun
+199,Hwasun-gun
+200,Jangheung-gun
+201,Gangjin-gun
+202,Haenam-gun
+203,Yeongam-gun
+204,Muan-gun
+205,Hampyeong-gun
+206,Yeonggwang-gun
+207,Jangseong-gun
+208,Wando-gun
+209,Jindo-gun
+210,Sinan-gun
+211,Jeonju-si
+212,Wansan-gu
+213,Deokjin-gu
+214,Gunsan-si
+215,Iksan-si
+216,Jeongeup-si
+217,Namwon-si
+218,Gimje-si
+219,Wanju-gun
+220,Jinan-gun
+221,Muju-gun
+222,Jangsu-gun
+223,Imsil-gun
+224,Sunchang-gun
+225,Gochang-gun
+226,Buan-gun
+227,Jeju-si
+228,Seogwipo-si
+229,Cheonan-si
+230,Dongnam-gu
+231,Sebuk-gu
+232,Gongju-si
+233,Boryeong-si
+234,Asan-si
+235,Seosan-si
+236,Nonsan-si
+237,Gyeryong-si
+238,Dangjin-si
+239,Geumsan-gun
+240,Buyeo-gun
+241,Seocheon-gun
+242,Cheongyang-gun
+243,Hongseong-gun
+244,Yesan-gun
+245,Taean-gun
+246,Cheongju-si
+247,Sangdang-gu
+248,Seowon-gu
+249,Heungdeok-gu
+250,Cheongwon-gu
+251,Chungju-si
+252,Jecheon-si
+253,Boeun-gun
+254,Okcheon-gun
+255,Yeongdong-gun
+256,Jeungpyeong-gun
+257,Jincheon-gun
+258,Goesan-gun
+259,Eumseong-gun
+260,Danyang-gun
+0,Jumunjin-eup
+1,Seongsan-myeon in Gangneung-si
+2,Wangsan-myeon
+3,Gujeong-myeon
+4,Gangdong-myeon in Gangneung-si
+5,Okgye-myeon
+6,Sacheon-myeon
+7,Yeongok-myeon
+8,Hongje-dong
+9,Jungang-dong in Gangneung-si
+10,Okcheon-dong
+11,Gyo 1(il)-dong
+12,Gyo 2(i)-dong
+13,Ponam 1(il)-dong
+14,Ponam 2(i)-dong
+15,Chodang-dong
+16,Songjeong-dong in Gangneung-si
+17,Naegok-dong in Gangneung-si
+18,Gangnam-dong in Gangneung-si
+19,Seongdeok-dong
+20,Gyeongpo-dong
+21,Ganseong-eup
+22,Geojin-eup
+23,Hyeonnae-myeon
+24,Jugwang-myeon
+25,Toseong-myeon
+26,Sudong-myeon in Goseong-gun in Gangwon-do
+27,Cheongok-dong
+28,Songjeong-dong in Donghae-si
+29,Buksam-dong
+30,Bugok-dong in Donghae-si
+31,Dongho-dong
+32,Balhan-dong
+33,Mukho-dong
+34,Bukpyeong-dong
+35,Mangsang-dong
+36,Samhwa-dong
+37,Dogye-eup
+38,Wondeok-eup
+39,Geundeok-myeon
+40,Hajang-myeon
+41,Nogok-myeon
+42,Miro-myeon
+43,Gagok-myeon in Samcheok-si
+44,Singi-myeon
+45,Namyang-dong in Samcheok-si
+46,Gyo-dong in Samcheok-si
+47,Jeongna-dong
+48,Seongnae-dong
+49,Yeongnang-dong
+50,Dongmyeong-dong in Sokcho-si
+51,Geumho-dong in Sokcho-si
+52,Gyo-dong in Sokcho-si
+53,Nohak-dong
+54,Joyang-dong
+55,Cheongho-dong
+56,Daepo-dong
+57,Yanggu-eup
+58,Guktojeongjungang-myeon
+59,Dong-myeon in Yanggu-gun
+60,Bangsan-myeon
+61,Haean-myeon
+62,Yangyang-eup
+63,Seo-myeon in Yangyang-gun
+64,Sonyang-myeon
+65,Hyeonbuk-myeon
+66,Hyeonnam-myeon
+67,Ganghyeon-myeon
+68,Yeongwol-eup
+69,Sangdong-eup
+70,Sansol-myeon
+71,Gimsatgat-myeon
+72,Buk-myeon in Yeongwol-gun
+73,Nam-myeon in Yeongwol-gun
+74,Hanbando-myeon
+75,Jucheon-myeon in Yeongwol-gun
+76,Muneungdowon-myeon
+77,Munmak-eup
+78,Socho-myeon
+79,Hojeo-myeon
+80,Jijeong-myeon in Wonju-si
+81,Buron-myeon
+82,Gwirae-myeon
+83,Heungeop-myeon
+84,Panbu-myeon
+85,Sillim-myeon in Wonju-si
+86,Jungang-dong in Wonju-si
+87,Wonin-dong
+88,Gaeun-dong
+89,Myeongnyun 1(il)-dong
+90,Myeongnyun 2(i)-dong
+91,Dangu-dong
+92,Ilsan-dong in Wonju-si
+93,Hakseong-dong in Wonju-si
+94,Dangye-dong
+95,Usan-dong in Wonju-si
+96,Taejang 1(il)-dong
+97,Taejang 2(i)-dong
+98,Bongsan-dong
+99,Haenggu-dong
+100,Musil-dong
+101,Bangokgwanseol-dong
+102,Inje-eup
+103,Nam-myeon in Inje-gun
+104,Buk-myeon in Inje-gun
+105,Girin-myeon
+106,Seohwa-myeon
+107,Sangnam-myeon in Inje-gun
+108,Jeongseon-eup
+109,Gohan-eup
+110,Sabuk-eup
+111,Sindong-eup
+112,Nam-myeon in Jeongseon-gun
+113,Bukpyeong-myeon in Jeongseon-gun
+114,Imgye-myeon
+115,Hwaam-myeon
+116,Yeoryang-myeon
+117,Cheorwon-eup
+118,Gimhwa-eup
+119,Galmal-eup
+120,Dongsong-eup
+121,Seo-myeon in Cheorwon-gun
+122,Geunnam-myeon in Cheorwon-gun
+123,Geunbuk-myeon
+124,Geundong-myeon
+125,Wondong-myeon in Cheorwon-gun
+126,Wonnam-myeon in Cheorwon-gun
+127,Imnam-myeon
+128,Sinbuk-eup
+129,Dong-myeon in Chuncheon-si
+130,Dongsan-myeon
+131,Sindong-myeon
+132,Nam-myeon in Chuncheon-si
+133,Seo-myeon in Chuncheon-si
+134,Sabuk-myeon
+135,Buksan-myeon
+136,Dongnae-myeon
+137,Namsan-myeon in Chuncheon-si
+138,Gyo-dong in Chuncheon-si
+139,Jowun-dong
+140,Yaksamyeong-dong
+141,Geunhwa-dong
+142,Soyang-dong
+143,Hupyeong 1(il)-dong
+144,Hupyeong 2(i)-dong
+145,Hupyeong 3(sam)-dong
+146,Hyoja 1(il)-dong in Chuncheon-si
+147,Hyoja 2(i)-dong in Chuncheon-si
+148,Hyoja 3(sam)-dong in Chuncheon-si
+149,Seoksa-dong
+150,Toegye-dong
+151,Gangnam-dong in Chuncheon-si
+152,Sinsau-dong
+153,Hwangji-dong
+154,Hwangyeon-dong
+155,Samsu-dong
+156,Sangjang-dong
+157,Mungoksodo-dong
+158,Jangseong-dong
+159,Gumunso-dong
+160,Cheoram-dong
+161,Pyeongchang-eup
+162,Mitan-myeon
+163,Bangnim-myeon
+164,Daehwa-myeon
+165,Bongpyeong-myeon
+166,Yongpyeong-myeon
+167,Jinbu-myeon
+168,Daegwallyeong-myeon
+169,Hongcheon-eup
+170,Hwachon-myeon
+171,Duchon-myeon
+172,Naechon-myeon in Hongcheon-gun
+173,Seoseok-myeon
+174,Yeonggwimi-myeon
+175,Nam-myeon in Hongcheon-gun
+176,Seo-myeon in Hongcheon-gun
+177,Bukbang-myeon
+178,Nae-myeon
+179,Hwacheon-eup
+180,Gandong-myeon
+181,Hanam-myeon
+182,Sangseo-myeon in Hwacheon-gun
+183,Sanae-myeon
+184,Hoengseong-eup
+185,Ucheon-myeon
+186,Anheung-myeon
+187,Dunnae-myeon
+188,Gapcheon-myeon
+189,Cheongil-myeon
+190,Gonggeun-myeon
+191,Seowon-myeon
+192,Gangnim-myeon
+193,Gapyeong-eup
+194,Seorak-myeon
+195,Cheongpyeong-myeon
+196,Sang-myeon
+197,Jojong-myeon
+198,Buk-myeon in Gapyeong-gun
+199,Jungang-dong in Gwacheon-si
+200,Galhyeon-dong
+201,Byeoryang-dong
+202,Burim-dong in Gwacheon-si
+203,Gwacheon-dong
+204,Munwon-dong
+205,Gwangmyeong 1(il)-dong
+206,Gwangmyeong 2(i)-dong
+207,Gwangmyeong 3(sam)-dong
+208,Gwangmyeong 4(sa)-dong
+209,Gwangmyeong 5(o)-dong
+210,Gwangmyeong 6(yuk)-dong
+211,Gwangmyeong 7(chil)-dong
+212,Cheolsan 1(il)-dong
+213,Cheolsan 2(i)-dong
+214,Cheolsan 3(sam)-dong
+215,Cheolsan 4(sa)-dong
+216,Haan 1(il)-dong
+217,Haan 2(i)-dong
+218,Haan 3(sam)-dong
+219,Haan 4(sa)-dong
+220,Soha 1(il)-dong
+221,Soha 2(i)-dong
+222,Iljik-dong
+223,Hagon-dong
+224,Opo-eup
+225,Chowol-eup
+226,gonjiam-eup
+227,Docheok-myeon
+228,Toechon-myeon
+229,Namjong-myeon
+230,Namhansanseong-myeon
+231,Gyeongan-dong
+232,Songjeong-dong in Gwangju-si
+233,Ssangnyeong-dong
+234,Tanbeol-dong
+235,Gwangnam 1(il)-dong
+236,Gwangnam 2(i)-dong
+237,Galmae-dong
+238,Donggu-dong
+239,Inchang-dong
+240,Gyomun 1(il)-dong
+241,Gyomun 2(i)-dong
+242,Sutaek 1(il)-dong
+243,Sutaek 2(i)-dong
+244,Sutaek 3(sam)-dong
+245,Gunpo 1(il)-dong
+246,Gunpo 2(i)-dong
+247,Sanbon 1(il)-dong
+248,Sanbon 2(i)-dong
+249,Geumjeong-dong
+250,Jaegung-dong
+251,Ogeum-dong in Gunpo-si
+252,Suri-dong
+253,Gungnae-dong
+254,Daeya-dong in Gunpo-si
+255,Gwangjeong-dong
+256,Songbu-dong
+257,Seryu 1(il)-dong
+258,Seryu 2(i)-dong
+259,Seryu 3(sam)-dong
+260,Pyeong-dong in Gwonseon-gu
+261,Seodun-dong
+262,Guun-dong
+263,Geumgok-dong in Gwonseon-gu
+264,Homaesil-dong
+265,Gwonseon 1(il)-dong
+266,Gwonseon 2(i)-dong
+267,Gokseon-dong
+268,Ipbuk-dong
+269,Singal-dong
+270,Yeongdeok 1(il)-dong
+271,Yeongdeok 2(i)-dong
+272,Gugal-dong
+273,Sanggal-dong
+274,Bora-dong
+275,Giheung-dong
+276,Seonong-dong
+277,Guseong-dong
+278,Mabuk-dong
+279,Dongbaek 1(il)-dong
+280,Dongbaek 2(i)-dong
+281,Dongbaek 3(sam)-dong
+282,Sangha-dong
+283,Bojeong-dong
+284,Tongjin-eup
+285,Gochon-eup
+286,Yangchon-eup
+287,Daegot-myeon
+288,Wolgot-myeon
+289,Haseong-myeon
+290,Gimpobon-dong
+291,Janggibon-dong
+292,Sau-dong
+293,Pungmu-dong
+294,Janggi-dong in Gimpo-si
+295,Gurae-dong
+296,Masan-dong
+297,Woonyang-dong
+298,Wabu-eup
+299,Jinjeop-eup
+300,Hwado-eup
+301,Jingeon-eup
+302,Onam-eup
+303,Toegyewon-eup
+304,Byeolnae-myeon
+305,Sudong-myeon in Namyangju-si
+306,Joan-myeon
+307,Hopyeong-dong
+308,Pyeongnae-dong
+309,Geumgok-dong in Namyangju-si
+310,Yangjeong-dong in Namyangju-si
+311,Dasan 1(il)-dong
+312,Dasan 2(i)-dong
+313,Byeolnae-dong
+314,Wa-dong
+315,Gojan-dong
+316,Jungang-dong in Danwon-gu
+317,Hosu-dong
+318,Wongok-dong
+319,Baekgun-dong
+320,Singil-dong
+321,Choji-dong
+322,Seonbu 1(il)-dong
+323,Seonbu 2(i)-dong
+324,Seonbu 3(sam)-dong
+325,Daebu-dong
+326,Jugyo-dong
+327,Wonsin-dong
+328,Heungdo-dong
+329,Seongsa 1(il)-dong
+330,Seongsa 2(i)-dong
+331,Hyoja-dong
+332,Samsong 1(il)-dong
+333,Samsong 2(i)-dong
+334,Changneung-dong
+335,Goyang-dong
+336,Gwansan-dong
+337,Neunggok-dong in Deogyang-gu
+338,Hwajeong 1(il)-dong in Deogyang-gu
+339,Hwajeong 2(i)-dong in Deogyang-gu
+340,Haengju-dong
+341,Haengsin 1(il)-dong
+342,Haengsin 2(i)-dong
+343,Haengsin 3(sam)-dong
+344,Haengsin 4(sa)-dong
+345,Hwajeon-dong
+346,Daedeok-dong
+347,Saengyeon 1(il)-dong
+348,Saengyeon 2(i)-dong
+349,Jungang-dong in Dongducheon-si
+350,Bosan-dong
+351,Bulhyeon-dong
+352,Songnae-dong
+353,Soyo-dong
+354,Sangpae-dong
+355,Bisan 1(il)-dong in Dongan-gu
+356,Bisan 2(i)-dong
+357,Bisan 3(sam)-dong
+358,Buheung-dong in Dongan-gu
+359,Daran-dong
+360,Gwanyang 1(il)-dong
+361,Gwanyang 2(i)-dong
+362,Burim-dong in Dongan-gu
+363,Pyeongchon-dong
+364,Pyeongan-dong
+365,Gwiin-dong
+366,Hogye 1(il)-dong
+367,Hogye 2(i)-dong
+368,Hogye 3(sam)-dong
+369,Beomgye-dong
+370,Sinchon-dong in Dongan-gu
+371,Galsan-dong
+372,Anyang 1(il)-dong
+373,Anyang 2(i)-dong
+374,Anyang 3(sam)-dong
+375,Anyang 4(sa)-dong
+376,Anyang 5(o)-dong
+377,Anyang 6(yuk)-dong
+378,Anyang 7(chil)-dong
+379,Anyang 8(pal)-dong
+380,Anyang 9(gu)-dong
+381,Seoksu 1(il)-dong
+382,Seoksu 2(i)-dong
+383,Seoksu 3(sam)-dong
+384,Bakdal 1(il)-dong
+385,Bakdal 2(i)-dong
+386,Simgok-dong
+387,Bucheon-dong
+388,Jung-dong in Bucheon-si
+389,shinjung-dong
+390,Sang-dong in Bucheon-si
+391,Daesan-dong
+392,Sosabon-dong
+393,Beoman-dong
+394,Seonggok-dong
+395,Ojeong-dong in Bucheon-si
+396,Bundang-dong
+397,Sunae 1(il)-dong
+398,Sunae 2(i)-dong
+399,Sunae 3(sam)-dong
+400,Jeongja-dong
+401,Jeongja 1(il)-dong in Bundang-gu
+402,Jeongja 2(i)-dong in Bundang-gu
+403,Jeongja 3(sam)-dong in Bundang-gu
+404,Seohyeon 1(il)-dong
+405,Seohyeon 2(i)-dong
+406,Imae 1(il)-dong
+407,Imae 2(i)-dong
+408,Yatap 1(il)-dong
+409,Yatap 2(i)-dong
+410,Yatap 3(sam)-dong
+411,Pangyo-dong
+412,Sampyeong-dong
+413,Baekhyeon-dong
+414,Geumgok-dong in Bundang-gu
+415,Gumi 1(il)-dong
+416,Gumi-dong
+417,Unjung-dong
+418,Il-dong
+419,I-dong in Sangnok-gu
+420,Sa-dong
+421,Sai-dong
+422,Haeyang-dong
+423,Bono 1(il)-dong
+424,Bono 2(i)-dong
+425,Bono 3(sam)-dong
+426,Bugok-dong in Sangnok-gu
+427,Wolpi-dong
+428,Seongpo-dong
+429,Banwol-dong in Sangnok-gu
+430,Ansan-dong
+431,Sinheung 1(il)-dong
+432,Sinheung 2(i)-dong
+433,Sinheung 3(sam)-dong
+434,Taepyeong 1(il)-dong in Sujeong-gu
+435,Taepyeong 2(i)-dong in Sujeong-gu
+436,Taepyeong 3(sam)-dong
+437,Taepyeong 4(sa)-dong
+438,Sujin 1(il)-dong
+439,Sujin 2(i)-dong
+440,Dandae-dong
+441,Sanseong-dong in Sujeong-gu
+442,Yangji-dong
+443,Bokjeong-dong
+444,wirye-dong in Sujeong-gu
+445,Sinchon-dong in Sujeong-gu
+446,Godeung-dong in Sujeong-gu
+447,Siheung-dong
+448,Pungdoekcheon 1(il)-dong
+449,Pungdoekcheon 2(i)-dong
+450,Sinbong-dong
+451,Jukjeon 1(il)-dong
+452,Jukjeon 2(i)-dong
+453,Jukjeon 3(sam)-dong
+454,Dongcheon-dong in Suji-gu
+455,Sanghyeon 1(il)-dong
+456,Sanghyeon 2(i)-dong
+457,Sanghyeon 3(sam)-dong
+458,Seongbok-dong
+459,Daeya-dong in Siheung-si
+460,Sincheon-dong
+461,Sinhyeon-dong
+462,Eunhaeng-dong
+463,Maehwa-dong
+464,Mokgam-dong
+465,Gunja-dong in Siheung-si
+466,Wolgot-dong
+467,Jeongwangbon-dong
+468,Jeongwang 1(il)-dong
+469,Jeongwang 2(i)-dong
+470,Jeongwang 3(sam)-dong
+471,Jeongwang 4(sa)-dong
+472,Baegot 1(il)-dong
+473,Baegot 2(i)-dong
+474,Gwarim-dong
+475,Yeonseong-dong
+476,Janggok-dong
+477,Neunggok-dong in Siheung-si
+478,Gongdo-eup
+479,Bogae-myeon
+480,Geumgwang-myeon
+481,Seoun-myeon
+482,Miyang-myeon
+483,Daedeok-myeon in Anseong-si
+484,Yangseong-myeon
+485,Wongok-myeon
+486,Iljuk-myeon
+487,Juksan-myeon in Anseong-si
+488,Samjuk-myeon
+489,Gosam-myeon
+490,Anseong 1(il)-dong
+491,Anseong 2(i)-dong
+492,Anseong 3(sam)-dong
+493,Baekseok-eup
+494,Eunhyeon-myeon
+495,Nam-myeon in Yangju-si
+496,Gwangjeok-myeon
+497,Jangheung-myeon
+498,Yangju 1(il)-dong
+499,Yangju 2(i)-dong
+500,Hoecheon 1(il)-dong
+501,Hoecheon 2(i)-dong
+502,Hoecheon 3(sam)-dong
+503,Hoecheon 4(sa)-dong
+504,Yangpyeong-eup
+505,Gangsang-myeon
+506,Gangha-myeon
+507,Yangseo-myeon
+508,Okcheon-myeon in Yangpyeong-gun
+509,Seojong-myeon
+510,Danwol-myeon
+511,Cheongun-myeon
+512,Yangdong-myeon
+513,Jipyeong-myeon
+514,Yongmun-myeon in Yangpyeong-gun
+515,Gaegun-myeon
+516,Ganam-eup
+517,Jeomdong-myeon
+518,Heungcheon-myeon
+519,Geumsa-myeon
+520,Sejongdaewang-myeon
+521,Daesin-myeon
+522,Bungnae-myeon
+523,Gangcheon-myeon
+524,Sanbuk-myeon in Yeoju-si
+525,Yeoheung-dong
+526,Jungang-dong in Yeoju-si
+527,Ohak-dong
+528,Yeoncheon-eup
+529,Jeongok-eup
+530,Gunnam-myeon in Yeoncheon-gun
+531,Cheongsan-myeon in Yeoncheon-gun
+532,Baekhak-myeon
+533,Misan-myeon in Yeoncheon-gun
+534,Wangjing-myeon
+535,Sinseo-myeon
+536,Jung-myeon
+537,Jangnam-myeon
+538,Maetan 1(il)-dong
+539,Maetan 2(i)-dong
+540,Maetan 3(sam)-dong
+541,Maetan 4(sa)-dong
+542,Woncheon-dong
+543,Yeongtong 1(il)-dong
+544,Yeongtong 2(i)-dong
+545,Yeongtong 3(sam)-dong
+546,Mangpo 1(il)-dong
+547,Mangpo 2(i)-dong
+548,Gwoanggyo 1(il)-dong
+549,Gwoanggyo 2(i)-dong
+550,Jungang-dong in Osan-si
+551,Namchon-dong
+552,Sinjang-dong
+553,Sema-dong
+554,Chopyeong-dong
+555,Daewon-dong
+556,Gocheon-dong
+557,Bugok-dong in Uiwang-si
+558,Ojeon-dong
+559,Naeson 1(il)-dong
+560,Naeson 2(i)-dong
+561,Cheonggye-dong
+562,Uijeongbu 1(il)-dong
+563,Uijeongbu 2(i)-dong
+564,Howon 1(il)-dong
+565,Howon 2(i)-dong
+566,Jangam-dong
+567,Singok 1(il)-dong
+568,Singok 2(i)-dong
+569,Songsan 1(il)-dong
+570,Songsan 2(i)-dong
+571,Songsan 3(sam)-dong
+572,Jageum-dong
+573,Ganeung-dong
+574,Heungsun-dong
+575,Nogyang-dong
+576,Janghowon-eup
+577,Bubal-eup
+578,Sindun-myeon
+579,Baeksa-myeon
+580,Hobeop-myeon
+581,Majang-myeon
+582,Daewol-myeon
+583,Moga-myeon
+584,Seolseong-myeon
+585,Yul-myeon
+586,Changjeon-dong
+587,jeungpo-dong
+588,Jungni-dong in Icheon-si
+589,Gwango-dong
+590,Siksa-dong
+591,Jungsan 1(il)-dong
+592,Jungsan 2(i)-dong
+593,Jeongbalsan-dong
+594,Pungsan-dong in Ilsandong-gu
+595,Baekseok 1(il)-dong
+596,Baekseok 2(i)-dong
+597,Madu 1(il)-dong
+598,Madu 2(i)-dong
+599,Baekseok 1(il)-dong
+600,Baekseok 2(i)-dong
+601,Gobong-dong
+602,Ilsan 1(il)-dong
+603,Ilsan 2(i)-dong
+604,Ilsan 3(sam)-dong
+605,Tanhyeon 1(il)-dong
+606,Tanhyeon 2(i)-dong
+607,Juyeop 1(il)-dong
+608,Juyeop 2(i)-dong
+609,Daehwa-dong in Ilsanseo-gu
+610,Songpo-dong
+611,Deoki-dong
+612,Gajwa-dong
+613,Pajang-dong
+614,Yulcheon-dong
+615,Jeongja 1(il)-dong in Jangan-gu
+616,Jeongja 2(i)-dong in Jangan-gu
+617,Jeongja 3(sam)-dong in Jangan-gu
+618,Yeonghwa-dong
+619,Songjuk-dong
+620,Jowon 1(il)-dong
+621,Jowon 2(i)-dong
+622,Yeonmu-dong
+623,Seongnam-dong in Jungwon-gu
+624,Jungang-dong in Jungwon-gu
+625,Geumgwang 1(il)-dong
+626,Geumgwang 2(i)-dong
+627,Eunhaeng 1(il)-dong
+628,Eunhaeng 2(i)-dong
+629,Sangdaewon 1(il)-dong
+630,Sangdaewon 2(i)-dong
+631,Sangdaewon 3(sam)-dong
+632,Hadaewon-dong
+633,Dochon-dong
+634,Pogok-eup
+635,Mohyeon-eup
+636,Idong-eup
+637,Namsa-eup
+638,Wonsam-myeon
+639,Baegam-myeon
+640,Yangji-myeon
+641,Jungang-dong in Cheoin-gu
+642,Yeokbuk-dong
+643,Samga-dong
+644,Yurim-dong
+645,Dongbu-dong in Cheoin-gu
+646,Munsan-eup in Paju-si
+647,Paju-eup
+648,Beobwon-eup
+649,Jori-eup
+650,Wollong-myeon
+651,Tanhyeon-myeon
+652,Gwangtan-myeon
+653,Papyeong-myeon
+654,Jeokseong-myeon in Paju-si
+655,Jangdan-myeon
+656,Geumchon 1(il)-dong
+657,Geumchon 2(i)-dong
+658,Geumchon 3(sam)-dong
+659,Gyoha-dong
+660,Unjeong 1(il)-dong
+661,Unjeong 2(i)-dong
+662,Unjeong 3(sam)-dong
+663,Maegyo-dong
+664,Maesan-dong
+665,Godeung-dong in Paldal-gu
+666,Hwaseo 1(il)-dong
+667,Hwaseo 2(i)-dong
+668,Ji-dong
+669,Uman 1(il)-dong
+670,Uman 2(i)-dong
+671,Ingye-dong
+672,Haenggung-dong
+673,Paengseong-eup
+674,Anjung-eup
+675,Poseung-eup
+676,Cheongbuk-eup
+677,Jinwi-myeon
+678,Seotan-myeon
+679,Godeok-myeon in Pyeongtaek-si
+680,Oseong-myeon
+681,Hyeondeok-myeon
+682,Jungang-dong in Pyeongtaek-si
+683,Seojeong-dong
+684,Songtan-dong
+685,Jisan-dong in Pyeongtaek-si
+686,Songbuk-dong
+687,Sinjang 1(il)-dong in Pyeongtaek-si
+688,Sinjang 2(i)-dong in Pyeongtaek-si
+689,Sinpyeong-dong
+690,Wonpyeong-dong in Pyeongtaek-si
+691,Tongbok-dong
+692,Bijeon 1(il)-dong
+693,Bijeon 2(i)-dong
+694,Yongi-dong
+695,Segyo-dong
+696,Dongsak-dong
+697,Godeok-dong
+698,Sohol-eup
+699,Gunnae-myeon in Pocheon-si
+700,Naechon-myeon in Pocheon-si
+701,Gasan-myeon in Pocheon-si
+702,Sinbuk-myeon in Pocheon-si
+703,Changsu-myeon in Pocheon-si
+704,Yeongjung-myeon
+705,Ildong-myeon
+706,Idong-myeon in Pocheon-si
+707,Yeongbuk-myeon
+708,Gwanin-myeon
+709,Hwahyeon-myeon
+710,Pocheon-dong
+711,Seondan-dong
+712,Cheonhyeon-dong
+713,Sinjang 1(il)-dong in Hanam-si
+714,Sinjang 2(i)-dong in Hanam-si
+715,Deokpung 1(il)-dong
+716,Deokpung 2(i)-dong
+717,Deokpung 3(sam)-dong
+718,Pungsan-dong in Hanam-si
+719,Gambuk-dong
+720,Gamil-dong
+721,wirye-dong in Hanam-si
+722,Chungung-dong
+723,Choi-dong
+724,Misa 1(il)-dong
+725,Misa 2(i)-dong
+726,Bongdam-eup
+727,Ujeong-eup
+728,Hyangnam-eup
+729,Namyang-eup
+730,Maesong-myeon
+731,Bibong-myeon in Hwaseong-si
+732,Mado-myeon
+733,Songsan-myeon in Hwaseong-si
+734,Seosin-myeon
+735,Paltan-myeon
+736,Jangan-myeon in Hwaseong-si
+737,Yanggam-myeon
+738,Jeongnam-myeon
+739,Saesol-dong
+740,Jinan-dong
+741,Beyngjeom 1(il)-dong
+742,Beyngjeom 2(i)-dong
+743,Banwol-dong in Hwaseong-si
+744,Gibae-dong
+745,Hwasan-dong in Hwaseong-si
+746,Dongtan 1(il)-dong
+747,Dongtan 2(i)-dong
+748,Dongtan 3(sam)-dong
+749,Dongtan 4(sa)-dong
+750,Dongtan 5(o)-dong
+751,Dongtan 6(yuk)-dong
+752,Dongtan 7(chil)-dong
+753,Dongtan 8(pal)-dong
+754,Irun-myeon
+755,Dongbu-myeon
+756,Nambu-myeon
+757,Geoje-myeon
+758,Dundeok-myeon
+759,Sadeung-myeon
+760,Yeoncho-myeon
+761,Hacheong-myeon
+762,Jangmok-myeon
+763,Jangseungpo-dong
+764,Neungpo-dong
+765,Aju-dong
+766,Okpo 1(il)-dong
+767,Okpo 2(i)-dong
+768,Jangpyeong-dong
+769,Gohyeon-dong
+770,Sangmun-dong
+771,Suyang-dong
+772,Geochang-eup
+773,Jusang-myeon
+774,Ungyang-myeon
+775,Goje-myeon
+776,Buksang-myeon
+777,Wicheon-myeon
+778,Mari-myeon
+779,Namsang-myeon
+780,Namha-myeon
+781,Sinwon-myeon
+782,Gajo-myeon
+783,Gabuk-myeon
+784,Goseong-eup
+785,Samsan-myeon in Goseong-gun in Gyeongsangnam-do
+786,Hail-myeon
+787,Hai-myeon
+788,Sangni-myeon
+789,Daega-myeon in Goseong-gun in Gyeongsangnam-do
+790,Yeonghyeon-myeon
+791,Yeongo-myeon
+792,Gaecheon-myeon
+793,Guman-myeon
+794,Hoehwa-myeon
+795,Maam-myeon
+796,Donghae-myeon in Goseong-gun in Gyeongsangnam-do
+797,Georyu-myeon
+798,Jinyeong-eup
+799,Juchon-myeon
+800,Jillye-myeon
+801,Hallim-myeon
+802,Saengnim-myeon
+803,Sangdong-myeon in Gimhae-si
+804,Daedong-myeon in Gimhae-si
+805,Dongsang-dong
+806,Hoehyeon-dong in Gimhae-si
+807,Buwon-dong
+808,Naeoe-dong
+809,Bukbu-dong in Gimhae-si
+810,Chilsanseobu-dong
+811,Hwalcheon-dong
+812,Saman-dong
+813,Buram-dong
+814,Jangyu 1(il)-dong
+815,Jangyu 2(i)-dong
+816,Jangyu 3(sam)-dong
+817,Namhae-eup
+818,Idong-myeon in Namhae-gun
+819,Sangju-myeon
+820,Samdong-myeon in Namhae-gun
+821,Mijo-myeon
+822,Nam-myeon in Namhae-gun
+823,Seo-myeon in Namhae-gun
+824,Gohyeon-myeon
+825,Seolcheon-myeon in Namhae-gun
+826,Changseon-myeon
+827,Gusan-myeon
+828,Jindong-myeon
+829,Jinbuk-myeon
+830,Jinjeon-myeon
+831,Hyeon-dong
+832,Gapo-dong
+833,Woryeong-dong
+834,Munhwa-dong in Masanhappo-gu
+835,Banwol-jungang-dong
+836,Wanwol-dong
+837,Jasan-dong in Masanhappo-gu
+838,Gyobang-dong
+839,Odong-dong
+840,Happo-dong
+841,Sanho-dong
+842,Naeseo-eup
+843,Hoewon 1(il)-dong
+844,Hoewon 2(i)-dong
+845,Seokjeon -dong
+846,Hoeseong-dong
+847,Yangdeok 1(il)-dong
+848,Yangdeok 2(i)-dong
+849,Hapseong 1(il)-dong
+850,Hapseong 2(i)-dong
+851,Guam 1(il)-dong
+852,Guam 2(i)-dong
+853,Bongam-dong
+854,Samnangjin-eup
+855,Hanam-eup
+856,Bubuk-myeon
+857,Sangdong-myeon in Miryang-si
+858,Sanoe-myeon in Miryang-si
+859,Sannae-myeon in Miryang-si
+860,Danjang-myeon
+861,Sangnam-myeon in Miryang-si
+862,Chodong-myeon
+863,Muan-myeon
+864,Cheongdo-myeon
+865,Naeil-dong
+866,Naei-dong
+867,Sammun-dong
+868,Gagok-dong
+869,Gyo-dong in Miryang-si
+870,Sacheon-eup
+871,Jeongdong-myeon
+872,Sanam-myeon
+873,Yonghyeon-myeon
+874,Chukdong-myeon
+875,Gonyang-myeon
+876,Gonmyeong-myeon
+877,Seopo-myeon
+878,Dongseo-dong
+879,Seongu-dong
+880,Dongseogeum-dong
+881,Beollyong-dong
+882,Hyangchon-dong
+883,Namyang-dong in Sacheon-si
+884,Sancheong-eup
+885,Chahwang-myeon
+886,Obu-myeon
+887,Saengcho-myeon
+888,Geumseo-myeon
+889,Samjang-myeon
+890,Sicheon-myeon
+891,Danseong-myeon in Sancheong-gun
+892,Sinan-myeon
+893,Saengbiryang-myeon
+894,Sindeung-myeon
+895,Bansong-dong
+896,Yongji-dong
+897,Jungang-dong in seongsan-gu
+898,Sangnam-dong
+899,Sapa-dong
+900,Gaeumjeong-dong
+901,Seongju-dong
+902,Ungnam-dong
+903,Mulgeum-eup
+904,Dong-myeon in Yangsan-si
+905,Wondong-myeon in Yangsan-si
+906,Sangbuk-myeon in Yangsan-si
+907,Habuk-myeon
+908,Jungang-dong in Yangsan-si
+909,Yangju-dong
+910,Samseong-dong in Yangsan-si
+911,Gangseo-dong
+912,Seochang-dong in Yangsan-si
+913,Soju-dong
+914,Pyeongsan-dong
+915,Deokgye-dong
+916,Uiryeong-eup
+917,Garye-myeon
+918,Chilgok-myeon
+919,Daeui-myeon
+920,Hwajeong-myeon in Uiryeong-gun
+921,Yongdeok-myeon
+922,Jeonggok-myeon
+923,Jijeong-myeon in Uiryeong-gun
+924,Nakseo-myeon
+925,Burim-myeon
+926,Bongsu-myeon
+927,Gungnyu-myeon
+928,Yugok-myeon
+929,Dong-eup
+930,Buk-myeon in Uichang-gu
+931,Daesan-myeon in Uichang-gu
+932,Uichang-dong
+933,Pallyong-dong
+934,Myeonggok-dong
+935,Bongnim-dong
+936,Munsan-eup in Jinju-si
+937,Naedong-myeon
+938,Jeongchon-myeon
+939,Geumgok-myeon
+940,Jinseong-myeon
+941,Ilbanseong-myeon
+942,Ibanseong-myeon
+943,Sabong-myeon
+944,Jisu-myeon
+945,Daegok-myeon
+946,Geumsan-myeon in Jinju-si
+947,Jiphyeon-myeon
+948,Micheon-myeon
+949,Myeongseok-myeon
+950,Daepyeong-myeon
+951,Sugok-myeon
+952,cheonjeon-dong
+953,Seongbuk-dong in Jinju-si
+954,Jungang-dong in Jinju-si
+955,Sangbong_dong
+956,Sangdae-dong in Jinju-si
+957,Hadae-dong
+958,Sangpyeong-dong
+959,Chojang-dong in Jinju-si
+960,Pyeonggeo-dong
+961,Sinan-dong in Jinju-si
+962,Ihyeon-dong
+963,Panmun-dong
+964,Gahoe-dong
+965,Chungmugong-dong
+966,Chungmu-dong in Jinhae-gu
+967,Yeojwa-dong
+968,Taebaek-dong
+969,Gyeonghwa-dong
+970,Byeongam-dong
+971,Seok-dong
+972,I-dong in Jinhae-gu
+973,Jaeun-dong
+974,Deoksan-dong
+975,Pungho-dong
+976,Ungcheon-dong
+977,Ungdong 1(il)-dong
+978,Ungdong 2(i)-dong
+979,Changnyeong-eup
+980,Namji-eup
+981,Goam-myeon
+982,Seongsan-myeon in Changnyeong-gun
+983,Daehap-myeon
+984,Ibang-myeon
+985,Yueo-myeon
+986,Daeji-myeon
+987,Gyeseong-myeon
+988,Yeongsan-myeon
+989,Jangma-myeon
+990,Docheon-myeon
+991,Gilgok-myeon
+992,Bugok-myeon
+993,Sanyang-eup
+994,Yongnam-myeon
+995,Dosan-myeon in Tongyeong-si
+996,Gwangdo-myeon
+997,Yokji-myeon
+998,Hansan-myeon in Tongyeong-si
+999,Saryang-myeon
+1000,Docheon-dong
+1001,Myeongjeong-dong
+1002,Jungang-dong in Tongyeong-si
+1003,Jeongnyang-dong
+1004,Buksin-dong
+1005,Misu-dong
+1006,Bongpyeong-dong
+1007,Mujeon-dong
+1008,Hadong-eup
+1009,Hwagae-myeon
+1010,Agyang-myeon
+1011,Jeongnyang-myeon
+1012,Hoengcheon-myeon
+1013,Gojeon-myeon
+1014,Geumnam-myeon in Hadong-gun
+1015,Jingyo-myeon
+1016,Yangbo-myeon
+1017,Bukcheon-myeon
+1018,Cheongam-myeon
+1019,Okjong-myeon
+1020,Geumseong-myeon in Hadong-gun
+1021,Gaya-eup
+1022,Chirwon-eup
+1023,Haman-myeon
+1024,Gunbuk-myeon in Haman-gun
+1025,Beopsu-myeon
+1026,Daesan-myeon in Haman-gun
+1027,Chilseo-myeon
+1028,Chilbuk-myeon
+1029,Sanin-myeon
+1030,Yeohang-myeon
+1031,Hamyang-eup
+1032,Macheon-myeon
+1033,Hyucheon-myeon
+1034,Yurim-myeon
+1035,Sudong-myeon in Hamyang-gun
+1036,Jigok-myeon in Hamyang-gun
+1037,Anui-myeon
+1038,Seoha-myeon
+1039,Seosang-myeon
+1040,Baekjeon-myeon
+1041,Byeonggok-myeon in Hamyang-gun
+1042,Hapcheon-eup
+1043,Bongsan-myeon in Hapcheon-gun
+1044,Myosan-myeon
+1045,Gaya-myeon
+1046,Yaro-myeon
+1047,Yulgok-myeon
+1048,Chogye-myeon
+1049,Ssangchaek-myeon
+1050,Deokgok-myeon in Hapcheon-gun
+1051,Cheongdeok-myeon
+1052,Jeokjung-myeon
+1053,Daeyang-myeon
+1054,Ssangbaek-myeon
+1055,Samga-myeon
+1056,Gahoe-myeon
+1057,Daebyeong-myeon
+1058,Yongju-myeon
+1059,Hayang-eup
+1060,Jillyang-eup
+1061,Amnyang-eup
+1062,Wachon-myeon
+1063,Jain-myeon
+1064,Yongseong-myeon
+1065,Namsan-myeon in Gyeongsan-si
+1066,Namcheon-myeon
+1067,Jungbang-dong
+1068,Jungang-dong in Gyeongsan-si
+1069,Nambu-dong in Gyeongsan-si
+1070,Seobu 1(il)-dong
+1071,Seobu 2(i)-dong
+1072,Bukbu-dong in Gyeongsan-si
+1073,Dongbu-dong in Gyeongsan-si
+1074,Gampo-eup
+1075,Angang-eup
+1076,Geoncheon-eup
+1077,Oedong-eup
+1078,Munmudaewang-myeon
+1079,Yangnam-myeon
+1080,Naenam-myeon
+1081,Sannae-myeon in Gyeongju-si
+1082,Seo-myeon in Gyeongju-si
+1083,Hyeongok-myeon
+1084,Gangdong-myeon in Gyeongju-si
+1085,Cheonbuk-myeon in Gyeongju-si
+1086,Jungbu-dong
+1087,Hwango-dong
+1088,Seonggeon-dong
+1089,Hwangnam-dong
+1090,Seondo-dong
+1091,Wolseong-dong
+1092,Yonggang-dong in Gyeongju-si
+1093,Hwangseong-dong
+1094,Dongcheon-dong in Gyeongju-si
+1095,Bulguk-dong
+1096,Bodeok-dong
+1097,Daegaya-eup
+1098,Deokgok-myeon in Goryeong-gun
+1099,Unsu-myeon
+1100,Seongsan-myeon in Goryeong-gun
+1101,Dasan-myeon
+1102,Gaejin-myeon
+1103,Ugok-myeon
+1104,Ssangnim-myeon
+1105,Seonsan-eup
+1106,Goa-eup
+1107,Sandong-eup
+1108,Mueul-myeon
+1109,Okseong-myeon
+1110,Dogae-myeon
+1111,Haepyeong-myeon
+1112,Jangcheon-myeon
+1113,Songjeong-dong in Gumi-si
+1114,Wonpyeong-dong in Gumi-si
+1115,Doryang-dong
+1116,Jisan-dong in Gumi-si
+1117,Seonjuwonnam-dong
+1118,Hyeonggok 1(il)-dong
+1119,Hyeonggok 2(i)-dong
+1120,Sinpyeong 1(il)-dong in Gumi-si
+1121,Sinpyeong 2(i)-dong in Gumi-si
+1122,Bisan-dong
+1123,Gwangpyeong-dong
+1124,Sangmosagok-dong
+1125,Imo-dong
+1126,Indong-dong
+1127,Jinmi-dong
+1128,Yangpo-dong
+1129,Gongdan-dong
+1130,Gunwi-eup
+1131,Sobo-myeon
+1132,Hyoryeong-myeon
+1133,Bugye-myeon
+1134,Ubo-myeon
+1135,Uiheung-myeon
+1136,Sanseong-myeon
+1137,Samgugyusa-myeon
+1138,Apo-eup
+1139,Nongso-myeon
+1140,Nam-myeon in Gimcheon-si
+1141,Gaeryeong-myeon
+1142,Gammun-myeon
+1143,Eomo-myeon
+1144,Bongsan-myeon in Gimcheon-si
+1145,Daehang-myeon
+1146,Gamcheon-myeon in Gimcheon-si
+1147,Joma-myeon
+1148,Guseong-myeon
+1149,Jirye-myeon
+1150,Buhang-myeon
+1151,Daedeok-myeon in Gimcheon-si
+1152,Jeungsan-myeon
+1153,Jasan-dong in Gimcheon-si
+1154,Pyeonghwanamsan-dong
+1155,Yanggeum-dong
+1156,Daesin-dong in Gimcheon-si
+1157,Daegok-dong
+1158,Jijwa-dong
+1159,Yulgok-dong
+1160,Guryongpo-eup
+1161,Yeonil-eup
+1162,Ocheon-eup
+1163,Daesong-myeon
+1164,Donghae-myeon in Nam-gu in Gyeongsangbuk-do
+1165,Janggi-myeon
+1166,Homigot-myeon
+1167,Sangdae-dong in Nam-gu in Gyeongsangbuk-do
+1168,Haedo-dong
+1169,Songdo-dong
+1170,Cheongnim-dong in Nam-gu in Gyeongsangbuk-do
+1171,Jecheol-dong
+1172,Hyogok-dong
+1173,Daei-dong
+1174,Mungyeong-eup
+1175,Gaeun-eup
+1176,Yeongsun-myeon
+1177,Sanyang-myeon
+1178,Hogye-myeon
+1179,Sanbuk-myeon in Mungyeong-si
+1180,Dongno-myeon
+1181,Maseong-myeon
+1182,Nongam-myeon
+1183,Jeomchon 1(il)-dong
+1184,Jeomchon 2(i)-dong
+1185,Jeomchon 3(sam)-dong
+1186,Jeomchon 4(sa)-dong
+1187,Jeomchon 5(o)-dong
+1188,Bonghwa-eup
+1189,Murya-myeon
+1190,Bongseong-myeon
+1191,Beopjeon-myeon
+1192,Chunyang-myeon in Bonghwa-gun
+1193,Socheon-myeon
+1194,Jaesan-myeon
+1195,Myeongho-myeon
+1196,Sangun-myeon
+1197,Seokpo-myeon
+1198,Heunghae-eup
+1199,Singwang-myeon in Buk-gu in Gyeongsangbuk-do
+1200,Cheongha-myeon in Buk-gu in Gyeongsangbuk-do
+1201,Songna-myeon
+1202,Gigye-myeon
+1203,Jukjang-myeon
+1204,Gibuk-myeon
+1205,Jungang-dong in Buk-gu in Gyeongsangbuk-do
+1206,Yanghak-dong
+1207,Jukdo-dong
+1208,Yongheung-dong
+1209,Uchang-dong
+1210,Duho-dong
+1211,Jangnyang-dong
+1212,Hwanyeo-dong
+1213,Hamchang-eup
+1214,Jungdong-myeon
+1215,Sabeolguk-myeon
+1216,Nakdong-myeon
+1217,Cheongni-myeon
+1218,Gongseong-myeon
+1219,Oenam-myeon
+1220,Naeseo-myeon
+1221,Modong-myeon
+1222,Moseo-myeon
+1223,Hwadong-myeon
+1224,Hwaseo-myeon
+1225,Hwabuk-myeon in Sangju-si
+1226,Oeseo-myeon in Sangju-si
+1227,Euncheok-myeon
+1228,Gonggeom-myeon
+1229,Ian-myeon
+1230,Hwanam-myeon in Sangju-si
+1231,Namwon-dong
+1232,Bungmun-dong
+1233,Gyerim-dong
+1234,Dongmun-dong in Sangju-si
+1235,Dongseong-dong
+1236,Sinheung-dong in Sangju-si
+1237,Seongju-eup
+1238,Seonnam-myeon
+1239,Yongam-myeon
+1240,Suryun-myeon
+1241,Gacheon-myeon
+1242,Geumsu-myeon
+1243,Daega-myeon in Seongju-gun
+1244,Byeokjin-myeon
+1245,Chojeon-myeon
+1246,Wolhang-myeon
+1247,Pungsan-eup
+1248,Waryong-myeon
+1249,Bukhu-myeon
+1250,Seohu-myeon
+1251,Pungcheon-myeon
+1252,Iljik-myeon
+1253,Namhu-myeon
+1254,Namseon-myeon
+1255,Imha-myeon
+1256,Giran-myeon
+1257,Imdong-myeon
+1258,Yean-myeon
+1259,Dosan-myeon in Andong-si
+1260,Nokjeon-myeon
+1261,Junggu-dong
+1262,Myeongnyun-dong in Andong-si
+1263,Yongsang-dong
+1264,Seogu-dong
+1265,Taehwa-dong in Andong-si
+1266,Pyeonghwa-dong in Andong-si
+1267,Angi-dong
+1268,Ok-dong in Andong-si
+1269,Songha-dong
+1270,Gangnam-dong in Andong-si
+1271,Yeongdeok-eup
+1272,Ganggu-myeon
+1273,Namjeong-myeon
+1274,Dalsan-myeon
+1275,Jipum-myeon
+1276,Chuksan-myeon
+1277,Yeonghae-myeon
+1278,Byeonggok-myeon in Yeongdeok-gun
+1279,Changsu-myeon in Yeongdeok-gun
+1280,Yeongyang-eup
+1281,Ibam-myeon in Yeongyang-gun
+1282,Cheonggi-myeon
+1283,Irwol-myeon
+1284,Subi-myeon
+1285,Seokbo-myeon
+1286,Punggi-eup
+1287,Isan-myeon
+1288,Pyeongeun-myeon
+1289,Munsu-myeon
+1290,Jangsu-myeon
+1291,Anjeong-myeon
+1292,Bonghyeon-myeon
+1293,Sunheung-myeon
+1294,Dansan-myeon
+1295,Buseok-myeon in Yeongju-si
+1296,Sangmang-dong
+1297,Hamang-dong
+1298,Yeongju 1(il)-dong in Yeongju-si
+1299,Yeongju 2(i)-dong in Yeongju-si
+1300,Hyucheon 1(il)-dong
+1301,Hyucheon 2(i)-dong
+1302,Hyucheon 3(sam)-dong
+1303,Gaheung 1(il)-dong
+1304,Gaheung 2(i)-dong
+1305,Geumho-eup
+1306,Cheongtong-myeon
+1307,Sinnyeong-myeon
+1308,Hwasan-myeon in Yeongcheon-si
+1309,Hwabuk-myeon in Yeongcheon-si
+1310,Hwanam-myeon in Yeongcheon-si
+1311,Jayang-myeon
+1312,Imgo-myeon
+1313,Gogyeong-myeon
+1314,Bugan-myeon
+1315,Daechang-myeon
+1316,Dongbu-dong in Yeongcheon-si
+1317,Jungang-dong in Yeongcheon-si
+1318,Seobu-dong
+1319,Wansan-dong in Yeongcheon-si
+1320,Nambu-dong in Yeongcheon-si
+1321,Yecheon-eup
+1322,Yongmun-myeon in Yecheon-gun
+1323,Gamcheon-myeon in Yecheon-gun
+1324,Bomun-myeon
+1325,Homyeong-myeon
+1326,Yucheon-myeon
+1327,Yonggung-myeon
+1328,Gaepo-myeon
+1329,Jibo-myeon
+1330,Pungyang-myeon in Yecheon-gun
+1331,Hyoja-myeon
+1332,Eunpung-myeon
+1333,Ulleung-eup
+1334,Seo-myeon in Ulleung-gun
+1335,Buk-myeon in Ulleung-gun
+1336,Uljin-eup
+1337,Pyeonghae-eup
+1338,Buk-myeon in Uljin-gun
+1339,Geunnam-myeon in Uljin-gun
+1340,Giseong-myeon
+1341,Onjeong-myeon
+1342,Jukbyeon-myeon
+1343,Hupo-myeon
+1344,Geumgangsong-myeon
+1345,maehwa-myeon
+1346,Uiseong-eup
+1347,Danchon-myeon
+1348,Jeomgok-myeon
+1349,Oksan-myeon in Uiseong-gun
+1350,Sagok-myeon in Uiseong-gun
+1351,Chunsan-myeon
+1352,Gaeum-myeon
+1353,Geumseong-myeon in Uiseong-gun
+1354,Bongyang-myeon
+1355,Bian-myeon
+1356,Gucheon-myeon
+1357,Danmil-myeon
+1358,Danbuk-myeon
+1359,Angye-myeon
+1360,Dain-myeon
+1361,Sinpyeong-myeon in Uiseong-gun
+1362,Anpyeong-myeon
+1363,Ansa-myeon
+1364,Hwayang-eup
+1365,Cheongdo-eup
+1366,Gangnam-myeon
+1367,Punggak-myeon
+1368,Gakbuk-myeon
+1369,Iseo-myeon in Cheongdo-gun
+1370,Unmun-myeon
+1371,Geumcheon-myeon in Cheongdo-gun
+1372,Maejeon-myeon
+1373,Cheongsong-eup
+1374,Juwangsan-myeon
+1375,Bunam-myeon in Cheongsong-gun
+1376,Hyeondong-myeon
+1377,Hyeonseo-myeon
+1378,Andeok-myeon in Cheongsong-gun
+1379,Pacheon-myeon
+1380,Jinbo-myeon
+1381,Waegwan-eup
+1382,Buksam-eup
+1383,Seokjeok-eup
+1384,Jicheon-myeon
+1385,Dongmyeong-myeon
+1386,Gasan-myeon in Chilgok-gun
+1387,Yangmok-myeon
+1388,Gisan-myeon in Chilgok-gun
+1389,Songjeong 1(il)-dong
+1390,Songjeong 2(i)-dong
+1391,Dosan-dong
+1392,Sinheung-dong in Gwangsan-gu
+1393,Eoryong-dong
+1394,Usan-dong in Gwangsan-gu
+1395,Wolgok 1(il)-dong in Gwangsan-gu
+1396,Wolgok 2(i)-dong in Gwangsan-gu
+1397,Bia-dong
+1398,Cheomdan 1(il)-dong
+1399,Cheomdan 2(i)-dong
+1400,Singa-dong
+1401,Unnam-dong
+1402,Suwan-dong
+1403,Hanam-dong
+1404,Imgok-dong
+1405,Donggok-dong
+1406,Pyeong-dong in Gwangsan-gu
+1407,Samdo-dong
+1408,Bolyang-dong
+1409,Sinchang-dong
+1410,Yangnim-dong
+1411,Bangnim 1(il)-dong
+1412,Bangnim 2(i)-dong
+1413,Bongseon 1(il)-dong
+1414,Bongseon 2(i)-dong
+1415,Sajik-dong in Nam-gu in Gwangju
+1416,Wolsan-dong
+1417,Wolsan 4(sa)-dong
+1418,Wolsan 5(o)-dong
+1419,Baegun 1(il)-dong
+1420,Baegun 2(i)-dong
+1421,Juwol 1(il)-dong
+1422,Juwol 2(i)-dong
+1423,Jinwol-dong
+1424,Hyodeok-dong
+1425,Songam-dong
+1426,Daechon-dong
+1427,Chungjang-dong
+1428,Dongmyeong-dong in Dong-gu in Gwangju
+1429,Gyerim 1(il)-dong
+1430,Gyerim 2(i)-dong
+1431,Sansu 1(il)-dong
+1432,Sansu 2(i)-dong
+1433,Jisan 1(il)-dong in Dong-gu in Gwangju
+1434,Jisan 2(i)-dong in Dong-gu in Gwangju
+1435,Seonam-dong
+1436,Hak-dong
+1437,Hagun-dong
+1438,Jiwon 1(il)-dong
+1439,Jiwon 2(i)-dong
+1440,Jungheung 1(il)-dong
+1441,Jungheung 2(i)-dong
+1442,Jungheung 3(sam)-dong
+1443,Jungang-dong in Buk-gu in Gwangju
+1444,Im-dong
+1445,Sinan-dong in Buk-gu in Gwangju
+1446,Yongbong-dong
+1447,Unam 1(il)-dong
+1448,Unam 2(i)-dong
+1449,Unam 3(sam)-dong
+1450,Dongnim-dong
+1451,Usan-dong in Buk-gu in Gwangju
+1452,Punghyang-dong
+1453,Munhwa-dong in Buk-gu in Gwangju
+1454,Munheung 1(il)-dong
+1455,Munheung 2(i)-dong
+1456,Duam 1(il)-dong
+1457,Duam 2(i)-dong
+1458,Duam 3(sam)-dong
+1459,Samgak-dong
+1460,Ilgok-dong
+1461,Maegok-dong in Buk-gu in Gwangju
+1462,Ochi 1(il)-dong
+1463,Ochi 2(i)-dong
+1464,Seokgok-dong
+1465,Geonguk-dong
+1466,yangsan-dong
+1467,Sinyong-dong
+1468,Yang-dong
+1469,Yang 3(sam)-dong
+1470,Nongseong 1(il)-dong
+1471,Nongseong 2(i)-dong
+1472,Gwangcheon-dong
+1473,Yudeok-dong
+1474,Chipyeong-dong
+1475,Sangmu 1(il)-dong
+1476,Sangmu 2(i)-dong
+1477,Hwajeong 1(il)-dong in Seo-gu in Gwangju
+1478,Hwajeong 2(i)-dong in Seo-gu in Gwangju
+1479,Hwajeong 3(sam)-dong
+1480,Hwajeong 4(sa)-dong
+1481,Seochang-dong in Seo-gu in Gwangju
+1482,Geumho 1(il)-dong
+1483,Geumho 2(i)-dong
+1484,Pungam-dong
+1485,Dongcheon-dong in Seo-gu in Gwangju
+1486,Icheon-dong
+1487,Bongdeok 1(il)-dong
+1488,Bongdeok 2(i)-dong
+1489,Bongdeok 3(sam)-dong
+1490,Daemyeong 1(il)-dong
+1491,Daemyeong 2(i)-dong
+1492,Daemyeong 3(sam)-dong
+1493,Daemyeong 4(sa)-dong
+1494,Daemyeong 5(o)-dong
+1495,Daemyeong 6(yuk)-dong
+1496,Daemyeong 9(gu)-dong
+1497,Daemyeong 10(sip)-dong
+1498,Daemyeong 11(sibil)-dong
+1499,Seongdang-dong
+1500,Duryu 1.2(ili)-dong
+1501,Duryu 3(sam)-dong
+1502,Gamsam-dong
+1503,Jukjeon-dong
+1504,Janggi-dong in Dalseo-gu
+1505,Yongsan 1(il)-dong
+1506,Yongsan 2(i)-dong
+1507,Igok 1(il)-dong
+1508,Igok 2(i)-dong
+1509,Sindang-dong in Dalseo-gu
+1510,Bolli-dong
+1511,Wolseong 1(il)-dong
+1512,Wolseong 2(i)-dong
+1513,Jincheon-dong
+1514,Yucheon-dong
+1515,Sangin 1(il)-dong
+1516,Sangin 2(i)-dong
+1517,Sangin 3(sam)-dong
+1518,Dowon-dong in Dalseo-gu
+1519,Songhyeon 1(il)-dong
+1520,Songhyeon 2(i)-dong
+1521,Bon-dong
+1522,Hwawon-eup
+1523,Nongong-eup
+1524,Dasa-eup
+1525,Yuga-eup
+1526,Okpo-eup
+1527,Hyeonpung-eup
+1528,Gachang-myeon
+1529,Habin-myeon
+1530,Guji-myeon
+1531,Sinam 1(il)-dong
+1532,Sinam 2(i)-dong
+1533,Sinam 3(sam)-dong
+1534,Sinam 4(sa)-dong
+1535,Sinam 5(o)-dong
+1536,Sincheon 1.2(ili)-dong
+1537,Sincheon 3(sam)-dong
+1538,Sincheon 4(sa)-dong
+1539,Hyomok 1(il)-dong
+1540,Hyomok 2(i)-dong
+1541,Dopyeong-dong
+1542,Bullobongmu-dong
+1543,Jijeo-dong
+1544,Dongchon-dong
+1545,Bangchon-dong
+1546,Haean-dong
+1547,Ansim 1(il)-dong
+1548,Ansim 2(i)-dong
+1549,Ansim 3(sam)-dong
+1550,Ansim 4(sa)-dong
+1551,hyeoksin-dong in Dong-gu in Daegu
+1552,Gongsan-dong
+1553,Goseong-dong
+1554,Chilseong-dong
+1555,Chimsan 1(il)-dong
+1556,Chimsan 2(i)-dong
+1557,Chimsan 3(sam)-dong
+1558,Sangyeok 1(il)-dong
+1559,Sangyeok 2(i)-dong
+1560,Sangyeok 3(sam)-dong
+1561,Sangyeok 4(sa)-dong
+1562,Daehyeon-dong in Buk-gu in Daegu
+1563,Bokhyeon 1(il)-dong
+1564,Bokhyeon 2(i)-dong
+1565,Geomdan-dong in Buk-gu in Daegu
+1566,Mutaejoya-dong
+1567,Gwanmun-dong
+1568,Taejeon 1(il)-dong
+1569,Taejeon 2(i)-dong
+1570,Guam-dong in Buk-gu in Daegu
+1571,Gwaneum-dong
+1572,Eupnae-dong
+1573,Dongcheon-dong in Buk-gu in Daegu
+1574,Nowon-dong
+1575,Guku-dong
+1576,Naedang 1(il)-dong
+1577,Naedang 2.3(isam)-dong
+1578,Naedang 4(sa)-dong
+1579,Bisan 1(il)-dong in Seo-gu in Daegu
+1580,Bisan 2.3(isam)-dong
+1581,Bisan 4(sa)-dong
+1582,Bisan 5(o)-dong
+1583,Bisan 6(yuk)-dong
+1584,Bisan 7(chil)-dong
+1585,Pyeongni 1(il)-dong
+1586,Pyeongni 2(i)-dong
+1587,Pyeongni 3(sam)-dong
+1588,Pyeongni 4(sa)-dong
+1589,Pyeongni 5(o)-dong
+1590,Pyeongni 6(yuk)-dong
+1591,Sangjungi-dong
+1592,Wondae-dong
+1593,Beomeo 1(il)-dong
+1594,Beomeo 2(i)-dong
+1595,Beomeo 3(sam)-dong
+1596,Beomeo 4(sa)-dong
+1597,Manchon 1(il)-dong
+1598,Manchon 2(i)-dong
+1599,Manchon 3(sam)-dong
+1600,Suseong 1(il)-ga-dong
+1601,Suseong 2.3(isam)-ga-dong
+1602,Suseong 4(sa)-ga-dong
+1603,Hwanggeum 1(il)-dong
+1604,Hwanggeum 2(i)-dong
+1605,Jung-dong in Suseong-gu
+1606,Sang-dong in Suseong-gu
+1607,Pa-dong
+1608,Dusan-dong
+1609,Jisan 1(il)-dong in Suseong-gu
+1610,Jisan 2(i)-dong in Suseong-gu
+1611,Beommul 1(il)-dong
+1612,Beommul 2(i)-dong
+1613,Gosan 1(il)-dong
+1614,Gosan 2(i)-dong
+1615,Gosan 3(sam)-dong
+1616,Dongin-dong
+1617,Samdeok-dong
+1618,Seongnae 1(il)-dong in Jung-gu in Daegu
+1619,Seongnae 2(i)-dong in Jung-gu in Daegu
+1620,Seongnae 3(sam)-dong in Jung-gu in Daegu
+1621,Daesin-dong in Jung-gu in Daegu
+1622,Namsan 1(il)-dong
+1623,Namsan 2(i)-dong
+1624,Namsan 3(sam)-dong
+1625,Namsan 4(sa)-dong
+1626,Daebong 1(il)-dong
+1627,Daebong 2(i)-dong
+1628,Ojeong-dong in Daedeok-gu
+1629,Daehwa-dong in Daedeok-gu
+1630,Hoedeok-dong
+1631,Birae-dong
+1632,Songchon-dong
+1633,Jungni-dong in Daedeok-gu
+1634,Sintanjin-dong
+1635,Seokbong-dong
+1636,Deogam-dong
+1637,Moksang-dong
+1638,Beop 1(il)-dong
+1639,Beop 2(i)-dong
+1640,Jungang-dong in Dong-gu in Daejeon
+1641,Hyo-dong
+1642,Sinin-dong
+1643,Panam 1(il)-dong
+1644,Panam 2(i)-dong
+1645,Yongun-dong
+1646,Dae-dong
+1647,Jayang-dong
+1648,Gayang 1(il)-dong in Dong-gu in Daejeon
+1649,Gayang 2(i)-dong in Dong-gu in Daejeon
+1650,Yongjeon-dong
+1651,Seongnam-dong in Dong-gu in Daejeon
+1652,Hongdo-dong
+1653,Samseong-dong in Dong-gu in Daejeon
+1654,Daecheong-dong in Dong-gu in Daejeon
+1655,Sannae-dong
+1656,Boksu-dong
+1657,Doma 1(il)-dong
+1658,Doma 2(i)-dong
+1659,Jeongnim-dong
+1660,Byeon-dong
+1661,Yongmun-dong in Seo-gu in Daejeon
+1662,Tanbang-dong
+1663,Goejeong-dong
+1664,Gajang-dong
+1665,Nae-dong
+1666,Galma 1(il)-dong
+1667,Galma 2(i)-dong
+1668,Wolpyeong 1(il)-dong
+1669,Wolpyeong 2(i)-dong
+1670,Wolpyeong 3(sam)-dong
+1671,Gasuwon-dong
+1672,Doan-dong
+1673,Gwanjeo 1(il)-dong
+1674,Gwanjeo 2(i)-dong
+1675,Giseong-dong
+1676,Dunsan 1(il)-dong
+1677,Dunsan 2(i)-dong
+1678,Mannyeon-dong
+1679,Dunsan 3(sam)-dong
+1680,Jinjam-dong
+1681,Hakha-dong
+1682,Sangdae-dong in Yuseong-gu
+1683,Oncheon 1(il)-dong in Yuseong-gu
+1684,Oncheon 2(i)-dong in Yuseong-gu
+1685,Noeun 1(il)-dong
+1686,Noeun 2(i)-dong
+1687,Noeun 3(sam)-dong
+1688,Sinseong-dong
+1689,Jeonmin-dong
+1690,Gujeuk-dong
+1691,Gwanpyeong-dong
+1692,Wonsinheung-dong
+1693,Eunhaengseonhwa-dong
+1694,Mok-dong
+1695,Jungchon-dong
+1696,Daeheung-dong in Jung-gu in Daejeon
+1697,Munchang-dong
+1698,Seokgyo-dong
+1699,Daesa-dong
+1700,Busa-dong
+1701,Yongdu-dong in Jung-gu in Daejeon
+1702,Oryu-dong
+1703,Taepyeong 1(il)-dong in Jung-gu in Daejeon
+1704,Taepyeong 2(i)-dong in Jung-gu in Daejeon
+1705,Yucheon 1(il)-dong
+1706,Yucheon 2(i)-dong
+1707,Munhwa 1(il)-dong
+1708,Munhwa 2(i)-dong
+1709,Sanseong-dong in Jung-gu in Daejeon
+1710,Daejeo 1(il)-dong
+1711,Daejeo 2(i)-dong
+1712,Gangdong-dong in Gangseo-gu in Busan
+1713,Myeongji 1(il)-dong
+1714,Myeongji 2(i)-dong
+1715,Garak-dong
+1716,Noksan-dong
+1717,Gadeokdo-dong
+1718,Seo 1(il)-dong
+1719,Seo 2(i)-dong
+1720,Seo 3(sam)-dong
+1721,Geumsahoedong-dong
+1722,Bugok 1(il)-dong
+1723,Bugok 2(i)-dong
+1724,Bugok 3(sam)-dong
+1725,Bugok 4(sa)-dong
+1726,Jangjeon 1(il)-dong
+1727,Jangjeon 2(i)-dong
+1728,Seondugu-dong
+1729,Cheongnyongnopo-dong
+1730,Namsan-dong
+1731,Guseo 1(il)-dong
+1732,Guseo 2(i)-dong
+1733,Geumseong-dong
+1734,Gijang-eup
+1735,Jangan-eup
+1736,Jeonggwan-eup
+1737,Ilgwang-eup
+1738,Cheolma-myeon
+1739,Daeyeon 1(il)-dong
+1740,Daeyeon 3(sam)-dong
+1741,Daeyeon 4(sa)-dong
+1742,Daeyeon 5(o)-dong
+1743,Daeyeon 6(yuk)-dong
+1744,Yongho 1(il)-dong
+1745,Yongho 2(i)-dong
+1746,Yongho 3(sam)-dong
+1747,Yongho 4(sa)-dong
+1748,Yongdang-dong
+1749,Gamman 1(il)-dong
+1750,Gamman 2(i)-dong
+1751,Uam-dong in Nam-gu in Busan
+1752,Munhyeon 1(il)-dong
+1753,Munhyeon 2(i)-dong
+1754,Munhyeon 3(sam)-dong
+1755,Munhyeon 4(sa)-dong
+1756,Choryang 1(il)-dong
+1757,Choryang 2(i)-dong
+1758,Choryang 3(sam)-dong
+1759,Choryang 6(yuk)-dong
+1760,Sujeong 1(il)-dong
+1761,Sujeong 2(i)-dong
+1762,Sujeong 4(sa)-dong
+1763,Sujeong 5(o)-dong
+1764,Jwacheon-dong
+1765,Beomil 1(il)-dong
+1766,Beomil 2(i)-dong
+1767,Beomil 5(o)-dong
+1768,Sumin-dong
+1769,Boksan-dong
+1770,Myeongnyun-dong in Dongnae-gu
+1771,Oncheon 1(il)-dong in Dongnae-gu
+1772,Oncheon 2(i)-dong in Dongnae-gu
+1773,Oncheon 3(sam)-dong
+1774,Sajik 1(il)-dong in Dongnae-gu
+1775,Sajik 2(i)-dong in Dongnae-gu
+1776,Sajik 3(sam)-dong
+1777,Allak 1(il)-dong
+1778,Allak 2(i)-dong
+1779,Myeongjang 1(il)-dong
+1780,Myeongjang 2(i)-dong
+1781,Bujeon 1(il)-dong
+1782,Bujeon 2(i)-dong
+1783,Yeonji-dong in Busanjin-gu
+1784,Choeup-dong
+1785,Yangjeong 1(il)-dong
+1786,Yangjeong 2(i)-dong
+1787,Jeonpo 1(il)-dong
+1788,Jeonpo 2(i)-dong
+1789,Buam 1(il)-dong
+1790,Buam 3(sam)-dong
+1791,Danggam 1(il)-dong
+1792,Danggam 2(i)-dong
+1793,Danggam 4(sa)-dong
+1794,Gaya 1(il)-dong
+1795,Gaya 2(i)-dong
+1796,Gaegeum 1(il)-dong
+1797,Gaegeum 2(i)-dong
+1798,Gaegeum 3(sam)-dong
+1799,Beomcheon 1(il)-dong
+1800,Beomcheon 2(i)-dong
+1801,Gupo 1(il)-dong
+1802,Gupo 2(i)-dong
+1803,Gupo 3(sam)-dong
+1804,Geumgok-dong in Buk-gu in Busan
+1805,Hwamyeong 1(il)-dong
+1806,Hwamyeong 2(i)-dong
+1807,Hwamyeong 3(sam)-dong
+1808,Deokcheon 1(il)-dong
+1809,Deokcheon 2(i)-dong
+1810,Deokcheon 3(sam)-dong
+1811,Mandeok 1(il)-dong
+1812,Mandeok 2(i)-dong
+1813,Mandeok 3(sam)-dong
+1814,Samnak-dong
+1815,Mora 1(il)-dong
+1816,Mora 3(sam)-dong
+1817,Deokpo 1(il)-dong
+1818,Deokpo 2(i)-dong
+1819,Gwaebeop-dong
+1820,Gamjeon-dong
+1821,Jurye 1(il)-dong
+1822,Jurye 2(i)-dong
+1823,Jurye 3(sam)-dong
+1824,Hakjang-dong
+1825,Eomgung-dong
+1826,Goejeong 1(il)-dong
+1827,Goejeong 2(i)-dong
+1828,Goejeong 3(sam)-dong
+1829,Goejeong 4(sa)-dong
+1830,Dangni-dong
+1831,Hadan 1(il)-dong
+1832,Hadan 2(i)-dong
+1833,Sinpyeong 1(il)-dong in Saha-gu
+1834,Sinpyeong 2(i)-dong in Saha-gu
+1835,Jangnim 1(il)-dong
+1836,Jangnim 2(i)-dong
+1837,Dadae 1(il)-dong
+1838,Dadae 2(i)-dong
+1839,Gupyeong-dong
+1840,Gamcheon 1(il)-dong
+1841,Gamcheon 2(i)-dong
+1842,Dongdaesin 1(il)-dong
+1843,Dongdaesin 2(i)-dong
+1844,Dongdaesin 3(sam)-dong
+1845,Seodaesin 1(il)-dong
+1846,Seodaesin 3(sam)-dong
+1847,Seodaesin 4(sa)-dong
+1848,Bumin-dong
+1849,Ami-dong
+1850,Chojang-dong in Seo-gu in Busan
+1851,Chungmu-dong in Seo-gu in Busan
+1852,Nambumin 1(il)-dong
+1853,Nambumin 2(i)-dong
+1854,Amnam-dong
+1855,Namcheon 1(il)-dong
+1856,Namcheon 2(i)-dong
+1857,Suyeong-dong
+1858,Mangmi 1(il)-dong
+1859,Mangmi 2(i)-dong
+1860,Gwangan 1(il)-dong
+1861,Gwangan 2(i)-dong
+1862,Gwangan 3(sam)-dong
+1863,Gwangan 4(sa)-dong
+1864,Millak-dong
+1865,Geoje 1(il)-dong
+1866,Geoje 2(i)-dong
+1867,Geoje 3(sam)-dong
+1868,Geoje 4(sa)-dong
+1869,Yeonsan 1(il)-dong
+1870,Yeonsan 2(i)-dong
+1871,Yeonsan 3(sam)-dong
+1872,Yeonsan 4(sa)-dong
+1873,Yeonsan 5(o)-dong
+1874,Yeonsan 6(yuk)-dong
+1875,Yeonsan 8(pal)-dong
+1876,Yeonsan 9(gu)-dong
+1877,Namhang-dong
+1878,Yeongseon 1(il)-dong
+1879,Yeongseon 2(i)-dong
+1880,Sinseon-dong
+1881,Bongnae 1(il)-dong
+1882,Bongnae 2(i)-dong
+1883,Cheonghak 1(il)-dong
+1884,Cheonghak 2(i)-dong
+1885,Dongsam 1(il)-dong
+1886,Dongsam 2(i)-dong
+1887,Dongsam 3(sam)-dong
+1888,Jungang-dong in Jung-gu in Busan
+1889,Donggwang-dong
+1890,Daecheong-dong in Jung-gu in Busan
+1891,Bosu-dong
+1892,Bupyeong-dong
+1893,Gwangbok-dong
+1894,Nampo-dong
+1895,Yeongju 1(il)-dong in Jung-gu in Busan
+1896,Yeongju 2(i)-dong in Jung-gu in Busan
+1897,U 1(il)-dong
+1898,U 2(i)-dong
+1899,U 3(sam)-dong
+1900,Jung 1(il)-dong
+1901,Jung 2(i)-dong
+1902,Jwa 1(il)-dong
+1903,Jwa 2(i)-dong
+1904,Jwa 3(sam)-dong
+1905,Jwa 4(sa)-dong
+1906,Songjeong-dong in Haeundae-gu
+1907,Banyeo 1(il)-dong
+1908,Banyeo 2(i)-dong
+1909,Banyeo 3(sam)-dong
+1910,Banyeo 4(sa)-dong
+1911,Bansong 1(il)-dong
+1912,Bansong 2(i)-dong
+1913,Jaesong 1(il)-dong
+1914,Jaesong 2(i)-dong
+1915,Sinsa-dong in Gangnam-gu
+1916,Nonhyeon 1(il)-dong in Gangnam-gu
+1917,Nonhyeon 2(i)-dong in Gangnam-gu
+1918,Apgujeong-dong
+1919,Cheongdam-dong
+1920,Samseong 1(il)-dong
+1921,Samseong 2(i)-dong
+1922,Daechi 1(il)-dong
+1923,Daechi 2(i)-dong
+1924,Daechi 4(sa)-dong
+1925,Yeoksam 1(il)-dong
+1926,Yeoksam 2(i)-dong
+1927,Dogok 1(il)-dong
+1928,Dogok 2(i)-dong
+1929,Gaepo 1(il)-dong
+1930,Gaepo 2(i)-dong
+1931,Gaepo 4(sa)-dong
+1932,Segok-dong
+1933,Irwonbon-dong
+1934,Irwon 1(il)-dong
+1935,Irwon 2(i)-dong
+1936,Suseo-dong
+1937,Gangil-dong
+1938,Sangil 1(il)-dong
+1939,Sangil 2(i)-dong
+1940,Myeongil 1(il)-dong
+1941,Myeongil 2(i)-dong
+1942,Godeok 1(il)-dong
+1943,Godeok 2(i)-dong
+1944,Amsa 1(il)-dong
+1945,Amsa 2(i)-dong
+1946,Amsa 3(sam)-dong
+1947,Cheonho 1(il)-dong
+1948,Cheonho 2(i)-dong
+1949,Cheonho 3(sam)-dong
+1950,Seongnae 1(il)-dong in Gangdong-gu
+1951,Seongnae 2(i)-dong in Gangdong-gu
+1952,Seongnae 3(sam)-dong in Gangdong-gu
+1953,Gil-dong
+1954,Dunchon 1(il)-dong
+1955,Dunchon 2(i)-dong
+1956,Samyang-dong in Gangbuk-gu
+1957,Mia-dong
+1958,Songjung-dong
+1959,Songcheon-dong
+1960,Samgaksan-dong
+1961,Beon 1(il)-dong
+1962,Beon 2(i)-dong
+1963,Beon 3(sam)-dong
+1964,Suyu 1(il)-dong
+1965,Suyu 2(i)-dong
+1966,Suyu 3(sam)-dong
+1967,Ui-dong
+1968,Insu-dong
+1969,Yeomchang-dong
+1970,Deungchon 1(il)-dong
+1971,Deungchon 2(i)-dong
+1972,Deungchon 3(sam)-dong
+1973,Hwagok 1(il)-dong
+1974,Hwagok 2(i)-dong
+1975,Hwagok 3(sam)-dong
+1976,Hwagok 4(sa)-dong
+1977,Hwagokbon-dong
+1978,Hwagok 6(yuk)-dong
+1979,Hwagok 8(pal)-dong
+1980,Gayang 1(il)-dong in Gangseo-gu in Seoul
+1981,Gayang 2(i)-dong in Gangseo-gu in Seoul
+1982,Gayang 3(sam)-dong
+1983,Balsan 1(il)-dong
+1984,Ujangsan-dong
+1985,Gonghang-dong
+1986,Banghwa 1(il)-dong
+1987,Banghwa 2(i)-dong
+1988,Banghwa 3(sam)-dong
+1989,Boramae-dong
+1990,Cheongnim-dong in Gwanak-gu
+1991,Seonghyeon-dong
+1992,Haengun-dong
+1993,Nagseongdae-dong
+1994,Cheongnyong-dong in Gwanak-gu
+1995,Euncheon-dong
+1996,Jungang-dong in Gwanak-gu
+1997,Inheon-dong
+1998,Namhyeon-dong in Gwanak-gu
+1999,Sewon-dong
+2000,Sinwon-dong
+2001,Serim-dong
+2002,Sinsa-dong in Gwanak-gu
+2003,Sillim-dong
+2004,Nanhyang-dong
+2005,Jowon-dong
+2006,Daehak-dong
+2007,Samseong-dong in Gwanak-gu
+2008,Miseong-dong in Gwanak-gu
+2009,Nangok-dong
+2010,Hwayang-dong
+2011,Gunja-dong in Gwangjin-gu
+2012,Junggok 1(il)-dong
+2013,Junggok 2(i)-dong
+2014,Junggok 3(sam)-dong
+2015,Junggok 4(sa)-dong
+2016,Neung-dong
+2017,Gwangjang-dong
+2018,Jayang 1(il)-dong
+2019,Jayang 2(i)-dong
+2020,Jayang 3(sam)-dong
+2021,Jayang 4(sa)-dong
+2022,Guui 1(il)-dong
+2023,Guui 2(i)-dong
+2024,Guui 3(sam)-dong
+2025,Sindorim-dong
+2026,Guro 1(il)-dong
+2027,Guro 2(i)-dong
+2028,Guro 3(sam)-dong
+2029,Guro 4(sa)-dong
+2030,Guro 5(o)-dong
+2031,Garibong-dong
+2032,Gocheok 1(il)-dong
+2033,Gocheok 2(i)-dong
+2034,Gaebong 1(il)-dong
+2035,Gaebong 2(i)-dong
+2036,Gaebong 3(sam)-dong
+2037,Oryu 1(il)-dong
+2038,Oryu 2(i)-dong
+2039,Sugung-dong
+2040,Hang-dong
+2041,Gasan-dong
+2042,Doksan 1(il)-dong
+2043,Doksan 2(i)-dong
+2044,Doksan 3(sam)-dong
+2045,Doksan 4(sa)-dong
+2046,Siheung 1(il)-dong
+2047,Siheung 2(i)-dong
+2048,Siheung 3(sam)-dong
+2049,Siheung 4(sa)-dong
+2050,Siheung 5(o)-dong
+2051,Wolgye 1(il)-dong
+2052,Wolgye 2(i)-dong
+2053,Wolgye 3(sam)-dong
+2054,Gongneung 1(il)-dong
+2055,Gongneung 2(i)-dong
+2056,Hagye 1(il)-dong
+2057,Hagye 2(i)-dong
+2058,Junggyebon-dong
+2059,Junggye 1(il)-dong
+2060,Junggye 4(sa)-dong
+2061,Junggye 2.3(isam)-dong
+2062,Sanggye 1(il)-dong
+2063,Sanggye 2(i)-dong
+2064,Sanggye 3.4(samsa)-dong
+2065,Sanggye 5(o)-dong
+2066,Sanggye 6.7(yukchil)-dong
+2067,Sanggye 8(pal)-dong
+2068,Sanggye 9(gu)-dong
+2069,Sanggye 10(sip)-dong
+2070,Chang 1(il)-dong
+2071,Chang 2(i)-dong
+2072,Chang 3(sam)-dong
+2073,Chang 4(sa)-dong
+2074,Chang 5(o)-dong
+2075,Dobong 1(il)-dong
+2076,Dobong 2(i)-dong
+2077,Ssangmun 1(il)-dong
+2078,Ssangmun 2(i)-dong
+2079,Ssangmun 3(sam)-dong
+2080,Ssangmun 4(sa)-dong
+2081,Banghak 1(il)-dong
+2082,Banghak 2(i)-dong
+2083,Banghak 3(sam)-dong
+2084,Yongsin-dong
+2085,Jegi-dong
+2086,Jeonnong 1(il)-dong
+2087,Jeonnong 2(i)-dong
+2088,Dapsimni 1(il)-dong
+2089,Dapsimni 2(i)-dong
+2090,Jangan 1(il)-dong
+2091,Jangan 2(i)-dong
+2092,Cheongnyangni-dong
+2093,Hoegi-dong
+2094,Hwigyeong 1(il)-dong
+2095,Hwigyeong 2(i)-dong
+2096,Imun 1(il)-dong
+2097,Imun 2(i)-dong
+2098,Noryangjin 1(il)-dong
+2099,Noryangjin 2(i)-dong
+2100,Sangdo 1(il)-dong
+2101,Sangdo 2(i)-dong
+2102,Sangdo 3(sam)-dong
+2103,Sangdo 4(sa)-dong
+2104,Heukseok-dong
+2105,Sadang 1(il)-dong
+2106,Sadang 2(i)-dong
+2107,Sadang 3(sam)-dong
+2108,Sadang 4(sa)-dong
+2109,Sadang 5(o)-dong
+2110,Daebang-dong
+2111,Sindaebang 1(il)-dong
+2112,Sindaebang 2(i)-dong
+2113,Ahyeon-dong
+2114,gongdeok-dong
+2115,Dohwa-dong
+2116,Yonggang-dong in Mapo-gu
+2117,Daeheung-dong in Mapo-gu
+2118,Yeomni-dong
+2119,Sinsu-dong
+2120,Seogang-dong in Mapo-gu
+2121,Seogyo-dong
+2122,Hapjeong-dong
+2123,Mangwon 1(il)-dong
+2124,Mangwon 2(i)-dong
+2125,Yeonnam-dong
+2126,Seongsan 1(il)-dong
+2127,Seongsan 2(i)-dong
+2128,Sangam-dong
+2129,Cheonyeon-dong
+2130,Bugahyeon-dong
+2131,Chunghyeon-dong
+2132,Sinchon-dong in Seodaemun-gu
+2133,Yeonhui-dong in Seodaemun-gu
+2134,Hongje 1(il)-dong
+2135,Hongje 3(sam)-dong
+2136,Hongje 2(i)-dong
+2137,Hongeun 1(il)-dong
+2138,Hongeun 2(i)-dong
+2139,Namgajwa 1(il)-dong
+2140,Namgajwa 2(i)-dong
+2141,Bukgajwa 1(il)-dong
+2142,Bukgajwa 2(i)-dong
+2143,Seocho 1(il)-dong
+2144,Seocho 2(i)-dong
+2145,Seocho 3(sam)-dong
+2146,Seocho 4(sa)-dong
+2147,Jamwon-dong
+2148,Banpobon-dong
+2149,Banpo 1(il)-dong
+2150,Banpo 2(i)-dong
+2151,Banpo 3(sam)-dong
+2152,Banpo 4(sa)-dong
+2153,Bangbaebon-dong
+2154,Bangbae 1(il)-dong
+2155,Bangbae 2(i)-dong
+2156,Bangbae 3(sam)-dong
+2157,Bangbae 4(sa)-dong
+2158,Yangjae 1(il)-dong
+2159,Yangjae 2(i)-dong
+2160,Naegok-dong in Seocho-gu
+2161,Wangsimni 2(i)-dong
+2162,WangsimniDoseon-dong
+2163,Majang-dong
+2164,Sageun-dong
+2165,Haengdang 1(il)-dong
+2166,Haengdang 2(i)-dong
+2167,Eungbong-dong
+2168,Geumho 1(il)-ga-dong
+2169,Geumho 2.3(isam)-ga-dong
+2170,Geumho 4(sa)-ga-dong
+2171,Oksu-dong
+2172,Seongsu 1(il)-ga-1(il)-dong
+2173,Seongsu 1(il)-ga-2(i)-dong
+2174,Seongsu 2(i)-ga-1(il)-dong
+2175,Seongsu 2(i)-ga-3(sam)-dong
+2176,Songjeong-dong in Seongdong-gu
+2177,Yongdap-dong
+2178,Seongbuk-dong in Seongbuk-gu
+2179,Samseon-dong
+2180,Dongseon-dong
+2181,Donam 1(il)-dong
+2182,Donam 2(i)-dong
+2183,Anam-dong
+2184,Bomun-dong
+2185,Jeongneung 1(il)-dong
+2186,Jeongneung 2(i)-dong
+2187,Jeongneung 3(sam)-dong
+2188,Jeongneung 4(sa)-dong
+2189,Gireum 1(il)-dong
+2190,Gireum 2(i)-dong
+2191,Jongam-dong
+2192,Wolgok 1(il)-dong in Seongbuk-gu
+2193,Wolgok 2(i)-dong in Seongbuk-gu
+2194,Jangwi 1(il)-dong
+2195,Jangwi 2(i)-dong
+2196,Jangwi 3(sam)-dong
+2197,Seokgwan-dong
+2198,Pungnap 1(il)-dong
+2199,Pungnap 2(i)-dong
+2200,Geoyeo 1(il)-dong
+2201,Geoyeo 2(i)-dong
+2202,Macheon 1(il)-dong
+2203,Macheon 2(i)-dong
+2204,Bangi 1(il)-dong
+2205,Bangi 2(i)-dong
+2206,Oryun-dong
+2207,Ogeum-dong in Songpa-gu
+2208,Songpa 1(il)-dong
+2209,Songpa 2(i)-dong
+2210,Seokchon-dong
+2211,Samjeon-dong
+2212,Garakbon-dong
+2213,Garak 1(il)-dong
+2214,Garak 2(i)-dong
+2215,Munjeong 1(il)-dong
+2216,Munjeong 2(i)-dong
+2217,Jangji-dong
+2218,wirye-dong in Songpa-gu
+2219,Jamsilbon-dong
+2220,Jamsil 2(i)-dong
+2221,Jamsil 3(sam)-dong
+2222,Jamsil 4(sa)-dong
+2223,Jamsil 6(yuk)-dong
+2224,Jamsil 7(chil)-dong
+2225,Mok 1(il)-dong
+2226,Mok 2(i)-dong
+2227,Mok 3(sam)-dong
+2228,Mok 4(sa)-dong
+2229,Mok 5(o)-dong
+2230,Sinwol 1(il)-dong
+2231,Sinwol 2(i)-dong
+2232,Sinwol 3(sam)-dong
+2233,Sinwol 4(sa)-dong
+2234,Sinwol 5(o)-dong
+2235,Sinwol 6(yuk)-dong
+2236,Sinwol 7(chil)-dong
+2237,Sinjeong 1(il)-dong in Yangcheon-gu
+2238,Sinjeong 2(i)-dong in Yangcheon-gu
+2239,Sinjeong 3(sam)-dong in Yangcheon-gu
+2240,Sinjeong 4(sa)-dong in Yangcheon-gu
+2241,Sinjeong 6(yuk)-dong
+2242,Sinjeong 7(chil)-dong
+2243,Yeongdeungpobon-dong
+2244,Yeongdeungpo-dong
+2245,Yeoui-dong in Yeongdeungpo-gu
+2246,Dangsan 1(il)-dong
+2247,Dangsan  2(i)-dong
+2248,Dorim-dong
+2249,Mullae-dong
+2250,Yangpyeong 1(il)-dong
+2251,Yangpyeong 2(i)-dong
+2252,Singil 1(il)-dong
+2253,Singil 3(sam)-dong
+2254,Singil 4(sa)-dong
+2255,Singil 5(o)-dong
+2256,Singil 6(yuk)-dong
+2257,Singil 7(chil)-dong
+2258,Daerim 1(il)-dong
+2259,Daerim 2(i)-dong
+2260,Daerim 3(sam)-dong
+2261,Huam-dong
+2262,Yongsan 2(i)-ga-dong
+2263,Namyeong-dong
+2264,Cheongpa-dong
+2265,Wonhyoro 1(il)-dong
+2266,Wonhyoro 2(i)-dong
+2267,Hyochang-dong
+2268,Yongmun-dong in Yongsan-gu
+2269,Hangangno-dong
+2270,Ichon 1(il)-dong
+2271,Ichon 2(i)-dong
+2272,Itaewon 1(il)-dong
+2273,Itaewon 2(i)-dong
+2274,Hannam-dong
+2275,Seobinggo-dong
+2276,Bogwang-dong
+2277,Nokbeon-dong
+2278,Bulgwang 1(il)-dong
+2279,Bulgwang 2(i)-dong
+2280,Galhyeon 1(il)-dong
+2281,Galhyeon 2(i)-dong
+2282,Gusan-dong
+2283,Daejo-dong
+2284,Eungam 1(il)-dong
+2285,Eungam 2(i)-dong
+2286,Eungam 3(sam)-dong
+2287,Yeokchon-dong
+2288,Sinsa 1(il)-dong
+2289,Sinsa 2(i)-dong
+2290,Jeungsan-dong
+2291,Susaek-dong
+2292,Jingwan-dong
+2293,Cheongunhyoja-dong
+2294,Sajik-dong in Jongno-gu
+2295,Samcheong-dong
+2296,Buam-dong
+2297,Pyeongchang-dong
+2298,Muak-dong
+2299,Gyonam-dong
+2300,Gahoe-dong
+2301,Jongno 1.2.3.4(ilisamsa)-ga-dong
+2302,Jongno 5.6(oryuk)-ga-dong
+2303,Ihwa-dong
+2304,Hyehwa-dong
+2305,Changsin 1(il)-dong
+2306,Changsin 2(i)-dong
+2307,Changsin 3(sam)-dong
+2308,Sungin 1(il)-dong
+2309,Sungin 2(i)-dong
+2310,Sogong-dong
+2311,Hoehyeon-dong in Jung-gu in Seoul
+2312,Myeong-dong
+2313,Pil-dong
+2314,Jangchung-dong
+2315,Gwanghui-dong 
+2316,Euljiro-dong
+2317,Sindang-dong in Jung-gu in Seoul
+2318,Dasan-dong
+2319,Yaksu-dong
+2320,Cheonggu-dong
+2321,Sindang 5(o)-dong
+2322,Donghwa-dong
+2323,Hwanghak-dong
+2324,Jungnim-dong
+2325,Myeonmok 2(i)-dong
+2326,Myeonmok 4(sa)-dong
+2327,Myeonmok 5(o)-dong
+2328,Myeonmokbon-dong
+2329,Myeonmok 7(chil)-dong
+2330,Myeonmok 3.8(sampal)-dong
+2331,Sangbong 1(il)-dong
+2332,Sangbong 2(i)-dong
+2333,Junghwa 1(il)-dong
+2334,Junghwa 2(i)-dong
+2335,Muk 1(il)-dong
+2336,Muk 2(i)-dong
+2337,Mangubon-dong
+2338,Mangu 3(sam)-dong
+2339,Sinnae 1(il)-dong
+2340,Sinnae 2(i)-dong
+2341,Jochiwon-eup
+2342,Yeongi-myeon
+2343,YeonDong-myeon
+2344,Bugang-myeon
+2345,Geumnam-myeon in Sejong City
+2346,janggun-myeon
+2347,YeonSeo-myeon
+2348,Jeonui-myeon
+2349,Jeondong-myeon
+2350,Sojeong-myeon
+2351,Hansol-dong
+2352,Saerom-dong
+2353,Dodam-dong
+2354,Haemil-dong
+2355,Arum-dong
+2356,Jongchon-dong
+2357,Goun-dong
+2358,Sodam-dong
+2359,Bangok-dong
+2360,Boram-dong
+2361,Daepyeong-dong
+2362,Dajeong-dong
+2363,Sinjeong 1(il)-dong in Nam-gu in Ulsan
+2364,Sinjeong 2(i)-dong in Nam-gu in Ulsan
+2365,Sinjeong 3(sam)-dong in Nam-gu in Ulsan
+2366,Sinjeong 4(sa)-dong in Nam-gu in Ulsan
+2367,Sinjeong 5(o)-dong
+2368,Dal-dong
+2369,Samsan-dong in Nam-gu in Ulsan
+2370,Samho-dong
+2371,Mugeo-dong
+2372,Ok-dong in Nam-gu in Ulsan
+2373,Daehyeon-dong in Nam-gu in Ulsan
+2374,Suam-dong
+2375,Seonam-dong
+2376,Yaeumjangsaengpo-dong
+2377,Bangeo-dong
+2378,Ilsan-dong in Dong-gu in Ulsan
+2379,Hwajeong-dong
+2380,Daesong-dong
+2381,Jeonha 1(il)-dong
+2382,Jeonha 2(i)-dong
+2383,Nammok 1(il)-dong
+2384,Nammok 2(i)-dong
+2385,Nammok 3(sam)-dong
+2386,Nongso 1(il)-dong
+2387,Nongso 2(i)-dong
+2388,Nongso 3(sam)-dong
+2389,Gangdong-dong in Buk-gu in Ulsan
+2390,Hyomun-dong
+2391,Songjeong-dong in Buk-gu in Ulsan
+2392,Yangjeong-dong in Buk-gu in Ulsan
+2393,Yeompo-dong
+2394,Onsan-eup
+2395,Eonyang-eup
+2396,Onyang-eup
+2397,Beomseo-eup
+2398,Cheongnyang-eup
+2399,Samnam-eup
+2400,Seosaeng-myeon
+2401,Ungchon-myeon
+2402,Dudong-myeon
+2403,Duseo-myeon
+2404,Sangbuk-myeon in Ulju-gun
+2405,Samdong-myeon in Ulju-gun
+2406,Hakseong-dong in Jung-gu in Ulsan
+2407,Bangu 1(il)-dong
+2408,Bangu 2(i)-dong
+2409,Boksan 1(il)-dong
+2410,Boksan 2(i)-dong
+2411,Jungang-dong in Jung-gu in Ulsan
+2412,Ujeong-dong
+2413,Taehwa-dong in Jung-gu in Ulsan
+2414,Daun-dong
+2415,Byeongyeong 1(il)-dong
+2416,Byeongyeong 2(i)-dong
+2417,Yaksa-dong
+2418,Seongan-dong in Jung-gu in Ulsan
+2419,Ganghwa-eup
+2420,Seonwon-myeon
+2421,Bureun-myeon
+2422,Gilsang-myeon
+2423,Hwado-myeon
+2424,Yangdo-myeon
+2425,Naega-myeon
+2426,Hajeom-myeon
+2427,Yangsa-myeon
+2428,Songhae-myeon
+2429,Gyodong-myeon
+2430,Samsan-myeon in Ganghwa-gun
+2431,Seodo-myeon
+2432,Hyoseong 1(il)-dong
+2433,Hyoseong 2(i)-dong
+2434,Gyesan 1(il)-dong
+2435,Gyesan 2(i)-dong
+2436,Gyesan 3(sam)-dong
+2437,Gyesan 4(sa)-dong
+2438,Jakjeon 1(il)-dong
+2439,Jakjeon 2(i)-dong
+2440,Jakjeonseoun-dong
+2441,Gyeyang 1(il)-dong
+2442,Gyeyang 2(i)-dong
+2443,Gyeyang 3(sam)-dong
+2444,Guwol 1(il)-dong
+2445,Guwol 2(i)-dong
+2446,Guwol 3(sam)-dong
+2447,Guwol 4(sa)-dong
+2448,Ganseok 1(il)-dong
+2449,Ganseok 2(i)-dong
+2450,Ganseok 3(sam)-dong
+2451,Ganseok 4(sa)-dong
+2452,Mansu 1(il)-dong
+2453,Mansu 2(i)-dong
+2454,Mansu 3(sam)-dong
+2455,Mansu 4(sa)-dong
+2456,Mansu 5(o)-dong
+2457,Mansu 6(yuk)-dong
+2458,Jangsuseochang-dong
+2459,Seochang 2(i)-dong
+2460,Namchondorim-dong
+2461,Nonhyeon 1(il)-dong in Namdong-gu
+2462,Nonhyeon 2(i)-dong in Namdong-gu
+2463,Nonhyeongojan-dong
+2464,Manseok-dong
+2465,Hwasu 1(il)hwapyeong-dong
+2466,Hwasu 2(i)-dong
+2467,Songhyeon 1.2(ili)-dong
+2468,Songhyeon 3(sam)-dong
+2469,Songnim 1(il)-dong
+2470,Songnim 2(i)-dong
+2471,Songnim 3.5(samo)-dong
+2472,Songnim 4(sa)-dong
+2473,Songnim 6(yuk)-dong
+2474,Geumchang-dong
+2475,Sungui 2(i)-dong
+2476,Sungui 1.3(ilsam)-dong
+2477,Sungui 4(sa)-dong
+2478,Yonghyeon 1.4(ilsa)-dong
+2479,Yonghyeon 2(i)-dong
+2480,Yonghyeon 3(sam)-dong
+2481,Yonghyeon 5(o)-dong
+2482,Hagik 1(il)-dong
+2483,Hagik 2(i)-dong
+2484,Dohwa 1(il)-dong
+2485,Dohwa 2.3(isam)-dong
+2486,Juan 1(il)-dong
+2487,Juan 2(i)-dong
+2488,Juan 3(sam)-dong
+2489,Juan 4(sa)-dong
+2490,Juan 5(o)-dong
+2491,Juan 6(yuk)-dong
+2492,Juan 7(chil)-dong
+2493,Juan 8(pal)-dong
+2494,Gwangyo-dong
+2495,Munhak-dong
+2496,Bupyeong 1(il)-dong
+2497,Bupyeong 2(i)-dong
+2498,Bupyeong 3(sam)-dong
+2499,Bupyeong 4(sa)-dong
+2500,Bupyeong 5(o)-dong
+2501,Bupyeong 6(yuk)-dong
+2502,Sangok 1(il)-dong
+2503,Sangok 2(i)-dong
+2504,Sangok 3(sam)-dong
+2505,Sangok 4(sa)-dong
+2506,Cheongcheon 1(il)-dong
+2507,Cheongcheon 2(i)-dong
+2508,Galsan 1(il)-dong
+2509,Galsan 2(i)-dong
+2510,Samsan 1(il)-dong
+2511,Samsan 2(i)-dong
+2512,Bugae 1(il)-dong
+2513,Bugae 2(i)-dong
+2514,Bugae 3(sam)-dong
+2515,Ilsin-dong
+2516,Sipjeong 1(il)-dong
+2517,Sipjeong 2(i)-dong
+2518,Geomamgyeongseo-dong
+2519,Yeonhui-dong in Seo-gu in Incheon
+2520,Cheongna 1(il)-dong
+2521,Cheongna 2(i)-dong
+2522,Cheongna 3(sam)-dong
+2523,Gajeong 1(il)-dong
+2524,Gajeong 2(i)-dong
+2525,Gajeong 3(sam)-dong
+2526,Seongnam 1(il)-dong
+2527,Seongnam 2(i)-dong
+2528,Seongnam 3(sam)-dong
+2529,Sinhyeonwonchang-dong
+2530,Gajwa 1(il)-dong
+2531,Gajwa 2(i)-dong
+2532,Gajwa 3(sam)-dong
+2533,Gajwa 4(sa)-dong
+2534,Geomdan-dong in Seo-gu in Incheon
+2535,Bullodaegok-dong
+2536,Wondang-dong
+2537,Dangha-dong
+2538,Oryuwanggil-dong
+2539,Majeon-dong
+2540,Ara-dong in Seo-gu in Incheon
+2541,Ongnyeon 1(il)-dong
+2542,Ongnyeon 2(i)-dong
+2543,Seonhak-dong
+2544,Yeonsu 1(il)-dong
+2545,Yeonsu 2(i)-dong
+2546,Yeonsu 3(sam)-dong
+2547,Cheonghak-dong
+2548,Dongchun 1(il)-dong
+2549,Dongchun 2(i)-dong
+2550,Dongchun 3(sam)-dong
+2551,Songdo 1(il)-dong
+2552,Songdo 2(i)dong
+2553,Songdo 3(sam)dong
+2554,Songdo 4(sa)dong
+2555,Songdo 5(o)dong
+2556,Bukdo-myeon
+2557,Baengnyeong-myeon
+2558,Daecheong-myeon
+2559,Deokjeok-myeon
+2560,Yeongheung-myeon
+2561,Jawol-myeon
+2562,Yeonpyeong-myeon
+2563,Yeonan-dong
+2564,Sinpo-dong
+2565,Sinheung-dong in Jung-gu in Incheon
+2566,Dowon-dong in Jung-gu in Incheon
+2567,Yulmok-dong
+2568,Dongincheon-dong
+2569,Gaehang-dong
+2570,Yeongjong-dong
+2571,Yeongjong 1(il)-dong
+2572,unseo-dong
+2573,Yongyu-dong
+2574,Gangjin-eup
+2575,Gundong-myeon
+2576,Chillyang-myeon
+2577,Daegu-myeon
+2578,Doam-myeon in Gangjin-gun
+2579,Sinjeon-myeon
+2580,Seongjeon-myeon
+2581,Jakcheon-myeon
+2582,Byeongyeong-myeon
+2583,Omcheon-myeon
+2584,Maryang-myeon
+2585,Goheung-eup
+2586,Doyang-eup
+2587,Pungyang-myeon in Goheung-gun
+2588,Dodeok-myeon
+2589,Geumsan-myeon in Goheung-gun
+2590,Dohwa-myeon
+2591,Podu-myeon
+2592,Bongnae-myeon
+2593,Jeomam-myeon
+2594,Gwayeok-myeon
+2595,Namyang-myeon in Goheung-gun
+2596,Donggang-myeon in Goheung-gun
+2597,Daeseo-myeon
+2598,Duwon-myeon
+2599,Yeongnam-myeon
+2600,Dongil-myeon
+2601,Gokseong-eup
+2602,Ogok-myeon
+2603,Samgi-myeon in Gokseong-gun
+2604,Seokgok-myeon
+2605,Moksadong-myeon
+2606,Jukgok-myeon
+2607,Godal-myeon
+2608,Okgwa-myeon
+2609,Ip-myeon
+2610,Gyeom-myeon
+2611,Osan-myeon in Gokseong-gun
+2612,Gwangyang-eup
+2613,Bonggang-myeon
+2614,Ongnyong-myeon
+2615,Okgok-myeon
+2616,Jinsang-myeon
+2617,Jinwol-myeon
+2618,Daap-myeon
+2619,Golyak-dong
+2620,Jungma-dong
+2621,Gwangyeong-dong
+2622,Geumho-dong in Gwangyang-si
+2623,Taein-dong
+2624,Gurye-eup
+2625,Muncheok-myeon
+2626,Ganjeon-myeon
+2627,Toji-myeon
+2628,Masan-myeon in Gurye-gun
+2629,Gwangui-myeon
+2630,Yongbang-myeon
+2631,Sandong-myeon in Gurye-gun
+2632,Nampyeong-eup
+2633,Seji-myeon
+2634,Wanggok-myeon
+2635,Bannam-myeon
+2636,Gongsan-myeon
+2637,Donggang-myeon in Naju-si
+2638,Dasi-myeon
+2639,Munpyeong-myeon
+2640,Noan-myeon
+2641,Geumcheon-myeon in Naju-si
+2642,Sanpo-myeon
+2643,Dado-myeon
+2644,Bonghwang-myeon
+2645,Songwol-dong
+2646,Yeonggang-dong
+2647,Geumnam-dong
+2648,Seongbuk-dong in Naju-si
+2649,Yeongsan-dong
+2650,Ichang-dong
+2651,Bitgaram-dong
+2652,Damyang-eup
+2653,Bongsan-myeon in Damyang-gun
+2654,Goseo-myeon
+2655,Gasamunhak-myeon
+2656,Changpyeong-myeon
+2657,Daedeok-myeon in Damyang-gun
+2658,Mujeong-myeon
+2659,Geumseong-myeon in Damyang-gun
+2660,Yong-myeon
+2661,Wolsan-myeon
+2662,Subuk-myeon
+2663,Daejeon-myeon
+2664,Yongdang 1(il)-dong
+2665,Yongdang 2(i)-dong
+2666,Yeon-dong in Mokpo-si
+2667,Sanjeong-dong
+2668,Yeonsan-dong
+2669,Wonsan-dong
+2670,Daeseong-dong
+2671,Mokwon-dong
+2672,Dongmyeong-dong in Mokpo-si
+2673,Samhak-dong in Mokpo-si
+2674,Manho-dong
+2675,Yudal-dong
+2676,Jukgyo-dong
+2677,Bukhang-dong
+2678,Yonghae-dong
+2679,Iro-dong
+2680,Sang-dong in Mokpo-si
+2681,Hadang-dong
+2682,Sinheung-dong in Mokpo-si
+2683,Samhyang-dong
+2684,Ogam-dong
+2685,Buheung-dong in Mokpo-si
+2686,Buju-dong
+2687,Muan-eup
+2688,Illo-eup
+2689,Samhyang-eup
+2690,Mongtan-myeon
+2691,Cheonggye-myeon
+2692,Hyeongyeong-myeon
+2693,Mangun-myeon
+2694,Haeje-myeon
+2695,Unnam-myeon
+2696,Boseong-eup
+2697,Beolgyo-eup
+2698,Nodong-myeon
+2699,Miryeok-myeon
+2700,Gyeombaek-myeon
+2701,Yureo-myeon
+2702,Bongnae-myeon
+2703,Mundeok-myeon
+2704,Joseong-myeon
+2705,Deungnyang-myeon
+2706,Hoecheon-myeon
+2707,Ungchi-myeon
+2708,Seungju-eup
+2709,Haeryong-myeon
+2710,Seo-myeon in Suncheon-si
+2711,Hwangjeon-myeon
+2712,Woldeung-myeon
+2713,Juam-myeon
+2714,Songgwang-myeon
+2715,Oeseo-myeon in Suncheon-si
+2716,Nagan-myeon
+2717,Byeollyang-myeon
+2718,Sangsa-myeon
+2719,Hyang-dong
+2720,Maegok-dong in Suncheon-si
+2721,Samsan-dong in Suncheon-si
+2722,Jogok-dong
+2723,Deogyeon-dong
+2724,Pungdeok-dong
+2725,Namje-dong
+2726,Jeojeon-dong
+2727,Jangcheon-dong
+2728,Jungang-dong in Suncheon-si
+2729,Dosa-dong
+2730,Wangjo 1(il)dong
+2731,Wangjo 2(i)dong
+2732,Jido-eup
+2733,Aphae-eup
+2734,Jeungdo-myeon
+2735,Imja-myeon
+2736,Jaeun-myeon
+2737,Bigeum-myeon
+2738,Docho-myeon
+2739,Heuksan-myeon
+2740,Haui-myeon
+2741,Sinui-myeon
+2742,Jangsan-myeon
+2743,Anjwa-myeon
+2744,Palgeum-myeon
+2745,Amtae-myeon
+2746,Dolsan-eup
+2747,Sora-myeon
+2748,Yulchon-myeon
+2749,Hwayang-myeon in Yeosu-si
+2750,Nam-myeon in Yeosu-si
+2751,Hwajeong-myeon in Yeosu-si
+2752,Samsan-myeon in Yeosu-si
+2753,Dongmun-dong in Yeosu-si
+2754,Hallyeo-dong
+2755,Jungang-dong in Yeosu-si
+2756,Chungmu-dong in Yeosu-si
+2757,Gwangnim-dong
+2758,Seogang-dong in Yeosu-si
+2759,Daegyo-dong
+2760,Guk-dong
+2761,Wolho-dong
+2762,Yeoseo-dong
+2763,Munsu-dong
+2764,Mipyeong-dong
+2765,Dundeok-dong
+2766,Mandeok-dong
+2767,Ssangbong-dong
+2768,Sijeon-dong
+2769,Yeocheon-dong
+2770,Jusam-dong
+2771,Samil-dong
+2772,Myodo-dong
+2773,Yeonggwang-eup
+2774,Baeksu-eup
+2775,Hongnong-eup
+2776,Daema-myeon
+2777,Myoryang-myeon
+2778,Bulgap-myeon
+2779,Gunseo-myeon in Yeonggwang-gun
+2780,Gunnam-myeon in Yeonggwang-gun
+2781,Yeomsan-myeon
+2782,Beopseong-myeon
+2783,Nagwol-myeon
+2784,Yeongam-eup
+2785,Samho-eup
+2786,Deokjin-myeon
+2787,Geumjeong-myeon
+2788,Sinbuk-myeon in Yeongam-gun
+2789,Sijong-myeon
+2790,Dopo-myeon
+2791,Gunseo-myeon in Yeongam-gun
+2792,Seoho-myeon
+2793,Haksan-myeon in Yeongam-gun
+2794,Miam-myeon
+2795,Wando-eup
+2796,Geumil-eup
+2797,Nohwa-eup
+2798,Gunoe-myeon
+2799,Sinji-myeon
+2800,Gogeum-myeon
+2801,Yaksan-myeon
+2802,Cheongsan-myeon in Wando-gun
+2803,Soan-myeon
+2804,Geumdang-myeon
+2805,Bogil-myeon
+2806,Saengil-myeon
+2807,Jangseong-eup
+2808,Jinwon-myeon
+2809,Nam-myeon in Jangseong-gun
+2810,Donghwa-myeon
+2811,Samseo-myeon
+2812,Samgye-myeon in Jangseong-gun
+2813,Hwangnyong-myeon
+2814,Seosam-myeon
+2815,Bugil-myeon in Jangseong-gun
+2816,Bugi-myeon in Jangseong-gun
+2817,Bukha-myeon
+2818,Jangheung-eup
+2819,Gwansan-eup
+2820,Daedeok-eup
+2821,Yongsan-myeon in Jangheung-gun
+2822,Anyang-myeon
+2823,Jangdong-myeon
+2824,Jangpyeong-myeon in Jangheung-gun
+2825,Yuchi-myeon
+2826,Busan-myeon
+2827,Hoejin-myeon
+2828,Jindo-eup
+2829,Gunnae-myeon in Jindo-gun
+2830,Gogun-myeon
+2831,Uisin-myeon
+2832,Imhoe-myeon
+2833,Jisan-myeon
+2834,Jodo-myeon
+2835,Hampyeong-eup
+2836,Sonbul-myeon
+2837,Singwang-myeon in Hampyeong-gun
+2838,Hakgyo-myeon
+2839,Eomda-myeon
+2840,Daedong-myeon in Hampyeong-gun
+2841,Nasan-myeon
+2842,Haebo-myeon
+2843,Worya-myeon
+2844,Haenam-eup
+2845,Samsan-myeon in Haenam-gun
+2846,Hwasan-myeon in Haenam-gun
+2847,Hyeonsan-myeon
+2848,Songji-myeon
+2849,Bukpyeong-myeon in Haenam-gun
+2850,Bugil-myeon in Haenam-gun
+2851,Okcheon-myeon in Haenam-gun
+2852,Gyegok-myeon
+2853,Masan-myeon in Haenam-gun
+2854,Hwangsan-myeon in Haenam-gun
+2855,Sani-myeon
+2856,Munnae-myeon
+2857,Hwawon-myeon
+2858,Hwasun-eup
+2859,Hancheon-myeon
+2860,Chunyang-myeon in Hwasun-gun
+2861,Cheongpung-myeon in Hwasun-gun
+2862,Iyang-myeon
+2863,Neungju-myeon
+2864,Dogok-myeon
+2865,Doam-myeon in Hwasun-gun
+2866,Iseo-myeon in Hwasun-gun
+2867,Baega-myeon
+2868,Dongbok-myeon
+2869,Sapyeong-myeon
+2870,Dong-myeon in Hwasun-gun
+2871,Gochang-eup
+2872,Gosu-myeon
+2873,Asan-myeon
+2874,Mujang-myeon
+2875,Gongeum-myeon
+2876,Sangha-myeon
+2877,Haeri-myeon
+2878,Seongsong-myeon
+2879,Daesan-myeon in Gochang-gun
+2880,Simwon-myeon
+2881,Heungdeok-myeon
+2882,Seongnae-myeon
+2883,Sillim-myeon in Gochang-gun
+2884,Buan-myeon
+2885,Okgu-eup
+2886,Oksan-myeon in Gunsan-si
+2887,Hoehyeon-myeon
+2888,Impi-myeon
+2889,Seosu-myeon
+2890,Daeya-myeon
+2891,Gaejeong-myeon
+2892,Seongsan-myeon in Gunsan-si
+2893,Napo-myeon
+2894,Okdo-myeon
+2895,Okseo-myeon
+2896,Haesin-dong
+2897,Wolmyeong-dong
+2898,Sinpung-dong in Gunsan-si
+2899,Samhak-dong in Gunsan-si
+2900,Jungang-dong in Gunsan-si
+2901,Heungnam-dong
+2902,Jochon-dong in Gunsan-si
+2903,Gyeongam-dong
+2904,Guam-dong in Gunsan-si
+2905,Gaejeong-dong
+2906,Susong-dong
+2907,Naun 1(il)-dong
+2908,Naun 2(i)-dong
+2909,Naun 3(sam)-dong
+2910,Soryong-dong
+2911,Miseong-dong in Gunsan-si
+2912,Mangyeong-eup
+2913,Juksan-myeon in Gimje-si
+2914,Baeksan-myeon in Gimje-si
+2915,Yongji-myeon
+2916,Baekgu-myeon
+2917,Buryang-myeon
+2918,Gongdeok-myeon
+2919,Cheongha-myeon in Gimje-si
+2920,Seongdeok-myeon
+2921,Jinbong-myeon
+2922,Geumgu-myeon
+2923,Bongnam-myeon
+2924,Hwangsan-myeon in Gimje-si
+2925,Geumsan-myeon in Gimje-si
+2926,Gwanghwal-myeon
+2927,Yochon-dong
+2928,Sinpung-dong in Gimje-si
+2929,Geomsan-dong
+2930,Gyowol-dong
+2931,Unbong-eup
+2932,Jucheon-myeon in Namwon-si
+2933,Suji-myeon
+2934,Songdong-myeon
+2935,Jusaeng-myeon
+2936,Geumji-myeon
+2937,Daegang-myeon in Namwon-si
+2938,Daesan-myeon in Namwon-si
+2939,Samae-myeon
+2940,Deokgwa-myeon
+2941,Bojeol-myeon
+2942,Sandong-myeon in Namwon-si
+2943,Ibaek-myeon
+2944,Ayeong-myeon
+2945,Sannae-myeon in Namwon-si
+2946,Inwol-myeon
+2947,Dongchung-dong
+2948,Jukhang-dong
+2949,Noam-dong
+2950,Geum-dong
+2951,Wangjeong-dong
+2952,Hyanggyo-dong
+2953,Dotong-dong
+2954,Jinbuk-dong
+2955,Inhu 1(il)-dong
+2956,Inhu 2(i)-dong
+2957,Inhu 3(sam)-dong
+2958,Deokjin-dong
+2959,Geumam 1(il)-dong
+2960,Geumam 2(i)-dong
+2961,Palbok-dong
+2962,Ua 1(il)-dong
+2963,Ua 2(i)-dong
+2964,Hoseong-dong
+2965,Songcheon 1(il)-dong
+2966,Songcheon 2(i)-dong
+2967,Jochon-dong in Deokjin-gu
+2968,Yeoui-dong in Deokjin-gu
+2969,Hyeoksin-dong in Deokjin-gu
+2970,Muju-eup
+2971,Mupung-myeon
+2972,Seolcheon-myeon in Muju-gun
+2973,Jeoksang-myeon
+2974,Anseong-myeon
+2975,Bunam-myeon in Muju-gun
+2976,Buan-eup
+2977,Jusan-myeon in Buan-gun
+2978,Dongjin-myeon
+2979,Haengan-myeon
+2980,Gyehwa-myeon
+2981,Boan-myeon
+2982,Byeonsan-myeon
+2983,Jinseo-myeon
+2984,Baeksan-myeon in Buan-gun
+2985,Sangseo-myeon in Buan-gun
+2986,Haseo-myeon
+2987,Julpo-myeon
+2988,Wido-myeon
+2989,Sunchang-eup
+2990,Ingye-myeon
+2991,Donggye-myeon
+2992,Pungsan-myeon
+2993,Geumgwa-myeon
+2994,Paldeok-myeon
+2995,Ssangchi-myeon
+2996,Bokheung-myeon
+2997,Jeokseong-myeon in Sunchang-gun
+2998,Yudeung-myeon
+2999,Gurim-myeon
+3000,Jungang-dong in Wansan-gu
+3001,Pungnam-dong
+3002,Nosong-dong
+3003,Wansan-dong in Wansan-gu
+3004,Dongseohak-dong
+3005,Seoseohak-dong
+3006,Junghwasan 1(il)-dong
+3007,Junghwasan 2(i)-dong
+3008,Seosin-dong
+3009,Pyeonghwa 1(il)-dong
+3010,Pyeonghwa 2(i)-dong
+3011,Samcheon 1(il)-dong
+3012,Samcheon 2(i)-dong
+3013,Samcheon 3(sam)-dong
+3014,Hyoja 1(il)-dong in Wansan-gu
+3015,Hyoja 2(i)-dong in Wansan-gu
+3016,Hyoja 3(sam)-dong in Wansan-gu
+3017,Hyoja 4(sa)-dong
+3018,Hyoja 5(o)-dong
+3019,Samnye-eup
+3020,Bongdong-eup
+3021,Yongjin-eup
+3022,Sanggwan-myeon
+3023,Iseo-myeon in Wanju-gun
+3024,Soyang-myeon
+3025,Gui-myeon
+3026,Gosan-myeon
+3027,Bibong-myeon in Wanju-gun
+3028,Unju-myeon
+3029,Hwasan-myeon in Wanju-gun
+3030,Dongsang-myeon
+3031,Gyeongcheon-myeon
+3032,Hamyeol-eup
+3033,Osan-myeon in Iksan-si
+3034,Hwangdeung-myeon
+3035,Hamna-myeon
+3036,Ungpo-myeon
+3037,Seongdang-myeon
+3038,Yongan-myeon
+3039,Nangsan-myeon
+3040,Mangseong-myeon
+3041,Yeosan-myeon
+3042,Geumma-myeon in Iksan-si
+3043,Wanggung-myeon
+3044,Chunpo-myeon
+3045,Samgi-myeon in Iksan-si
+3046,Yongdong-myeon
+3047,Jungang-dong in Iksan-si
+3048,Pyeonghwa-dong in Iksan-si
+3049,Inhwa-dong
+3050,Dongsan-dong
+3051,Ma-dong
+3052,Namjung-dong
+3053,Mohyeon-dong
+3054,Songhak-dong
+3055,Yeongdeung 1(il)-dong
+3056,Yeongdeung 2(i)-dong
+3057,Eoyang-dong
+3058,Sin-dong
+3059,Palbong-dong
+3060,Samseong-dong in Iksan-si
+3061,Imsil-eup
+3062,Cheongung-myeon
+3063,Unam-myeon
+3064,Sinpyeong-myeon in Imsil-gun
+3065,Seongsu-myeon in Imsil-gun
+3066,Osu-myeon
+3067,Sindeok-myeon
+3068,Samgye-myeon in Imsil-gun
+3069,Gwanchon-myeon
+3070,Gangjin-myeon
+3071,Deokchi-myeon
+3072,Jisa-myeon
+3073,Jangsu-eup
+3074,Sanseo-myeon
+3075,Beonam-myeon
+3076,Janggye-myeon
+3077,Cheoncheon-myeon
+3078,Gyenam-myeon
+3079,Gyebuk-myeon
+3080,Sintaein-eup
+3081,Buk-myeon in Jeongeup-si
+3082,Ibam-myeon in Jeongeup-si
+3083,Soseong-myeon
+3084,Gobu-myeon
+3085,Yeongwon-myeon
+3086,Deokcheon-myeon
+3087,Ipyeong-myeon
+3088,Jeongu-myeon
+3089,Taein-myeon
+3090,Gamgok-myeon in Jeongeup-si
+3091,Ongdong-myeon
+3092,Chilbo-myeon
+3093,Sannae-myeon in Jeongeup-si
+3094,Sanoe-myeon in Jeongeup-si
+3095,Suseong-dong
+3096,Jangmyeong-dong
+3097,Naejangsang-dong
+3098,Sigi-dong
+3099,Chosan-dong
+3100,Yeonji-dong in Jeongeup-si
+3101,Nongso-dong
+3102,Sanggyo-dong
+3103,Jinan-eup
+3104,Yongdam-myeon
+3105,Ancheon-myeon
+3106,Donghyang-myeon
+3107,Sangjeon-myeon
+3108,Baegun-myeon in Jinan-gun
+3109,Seongsu-myeon in Jinan-gun
+3110,Maryeong-myeon
+3111,Bugwi-myeon
+3112,Jeongcheon-myeon
+3113,Jucheon-myeon in Jinan-gun
+3114,Daejeong-eup
+3115,Namwon-eup
+3116,Seongsan-eup
+3117,Andeok-myeon in Seogwipo-si
+3118,Pyoseon-myeon
+3119,Songsan-dong
+3120,Jeongbang-dong
+3121,Jungang-dong in Seogwipo-si
+3122,Cheonji-dong
+3123,Hyodon-dong
+3124,Yeongcheon-dong
+3125,Donghong-dong
+3126,Seohong-dong
+3127,Daeryun-dong
+3128,Daecheon-dong
+3129,Jungmun-dong
+3130,Yerae-dong
+3131,Hallim-eup
+3132,Aewol-eup
+3133,Gujwa-eup
+3134,Jocheon-eup
+3135,Hangyeong-myeon
+3136,Chuja-myeon
+3137,Udo-myeon
+3138,Ildo 1(il)-dong
+3139,Ildo 2(i)-dong
+3140,Ido 1(il)-dong
+3141,Ido 2(i)-dong
+3142,Samdo 1(il)-dong
+3143,Samdo 2(i)-dong
+3144,Yongdam 1(il)-dong
+3145,Yongdam 2(i)-dong
+3146,Geonip-dong
+3147,Hwabuk-dong
+3148,Samyang-dong in Jeju-si
+3149,Bonggae-dong
+3150,Ara-dong in Jeju-si
+3151,Ora-dong
+3152,Yeon-dong in Jeju-si
+3153,Nohyeong-dong
+3154,Oedo-dong
+3155,Iho-dong
+3156,Dodu-dong
+3157,Duma-myeon
+3158,Eomsa-myeon
+3159,Sindoan_myeon
+3160,Geumam-dong
+3161,Yugu-eup
+3162,Iin-myeon
+3163,Tancheon-myeon
+3164,Gyeryong-myeon
+3165,Banpo-myeon
+3166,Uidang-myeon
+3167,Jeongan-myeon
+3168,Useong-myeon
+3169,Sagok-myeon in Gongju-si
+3170,Sinpung-myeon
+3171,Junghak-dong
+3172,Ungjin-dong
+3173,Geumhak-dong
+3174,Ongnyong-dong
+3175,Singwan-dong
+3176,wolsong-dong
+3177,Geumsan-eup
+3178,Geumseong-myeon in Geumsan-gun
+3179,Jewon-myeon
+3180,Buri-myeon
+3181,Gunbuk-myeon in Geumsan-gun
+3182,Namil-myeon in Geumsan-gun
+3183,Nami-myeon in Geumsan-gun
+3184,Jinsan-myeon
+3185,Boksu-myeon
+3186,Chubu-myeon
+3187,Ganggyeong-eup
+3188,Yeonmu-eup
+3189,Seongdong-myeon
+3190,Gwangseok-myeon
+3191,Noseong-myeon
+3192,Sangwol-myeon
+3193,Bujeok-myeon
+3194,Yeonsan-myeon
+3195,Beolgok-myeon
+3196,Yangchon-myeon
+3197,Gayagok-myeon
+3198,Eunjin-myeon
+3199,Chaeun-myeon
+3200,Chwiam-dong
+3201,Buchang-dong
+3202,Hapdeok-eup
+3203,Songak-eup
+3204,Godae-myeon
+3205,Seongmun-myeon
+3206,Daehoji-myeon
+3207,Jeongmi-myeon
+3208,Myeoncheon-myeon
+3209,Sunseong-myeon
+3210,Ugang-myeon
+3211,Sinpyeong-myeon in Dangjin-si
+3212,Songsan-myeon in Dangjin-si
+3213,Dangjin 1(il)-dong
+3214,Dangjin 2(i)-dong
+3215,Dangjin 3(sam)-dong
+3216,Mokcheon-eup
+3217,Pungse-myeon
+3218,Gwangdeok-myeon
+3219,Buk-myeon in Dongnam-gu
+3220,Seongnam-myeon
+3221,Susin-myeon
+3222,Byeongcheon-myeon
+3223,Dong-myeon in Dongnam-gu
+3224,Jungang-dong in Dongnam-gu
+3225,Munseong-dong
+3226,Wonseong 1(il)-dong
+3227,Wonseong 2(i)-dong
+3228,Bongmyeong-dong
+3229,Ilbong-dong
+3230,Sinbang-dong
+3231,Cheongnyong-dong in Dongnam-gu
+3232,Sinan-dong in Dongnam-gu
+3233,Ungcheon-eup
+3234,Jupo-myeon
+3235,Ocheon-myeon
+3236,Cheonbuk-myeon in Boryeong-si
+3237,Cheongso-myeon
+3238,Cheongna-myeon
+3239,Nampo-myeon
+3240,Jusan-myeon in Boryeong-si
+3241,Misan-myeon in Boryeong-si
+3242,Seongju-myeon
+3243,Jugyo-myeon
+3244,Daecheon 1(il)-dong
+3245,Daecheon 2(i)-dong
+3246,Daecheon 3(sam)-dong
+3247,Daecheon4(sa)-dong
+3248,Daecheon 5(o)-dong
+3249,Buyeo-eup
+3250,Gyuam-myeon
+3251,Eunsan-myeon
+3252,Oesan-myeon
+3253,Naesan-myeon
+3254,Guryong-myeon
+3255,Hongsan-myeon
+3256,Oksan-myeon in Buyeo-gun
+3257,Nam-myeon in Buyeo-gun
+3258,Chunghwa-myeon
+3259,Yanghwa-myeon
+3260,Imcheon-myeon
+3261,Jangam-myeon
+3262,Sedo-myeon
+3263,Seokseong-myeon
+3264,Chochon-myeon
+3265,Seonghwan-eup
+3266,Seonggeo-eup
+3267,Jiksan-eup
+3268,Ipjang-myeon
+3269,Seongjeong 1(il)-dong
+3270,Seongjeong 2(i)-dong
+3271,Ssangyong 1(il)-dong
+3272,Ssangyong 2(i)-dong
+3273,Ssangyong 3(sam)-dong
+3274,Baekseok-dong
+3275,Buldang 1(il)-dong
+3276,Buldang 2(i)-dong
+3277,Buseong 1(il)-dong
+3278,Buseong 2(i)-dong
+3279,Daesan-eup
+3280,Inji-myeon
+3281,Buseok-myeon in Seosan-si
+3282,Palbong-myeon
+3283,Jigok-myeon in Seosan-si
+3284,Seongyeon-myeon
+3285,Eumam-myeon
+3286,Unsan-myeon
+3287,Haemi-myeon
+3288,Gobuk-myeon
+3289,Buchun-dong
+3290,Dongmun 1(il)-dong
+3291,Dongmun 2(i)-dong
+3292,Suseok-dong
+3293,Seongnam-dong
+3294,Janghang-eup
+3295,Seocheon-eup
+3296,Maseo-myeon
+3297,Hwayang-myeon in Seocheon-gun
+3298,Gisan-myeon in Seocheon-gun
+3299,Hansan-myeon in Seocheon-gun
+3300,Masan-myeon in Seocheon-gun
+3301,Sicho-myeon
+3302,Munsan-myeon
+3303,Pangyo-myeon
+3304,Jongcheon-myeon
+3305,Biin-myeon
+3306,Seo-myeon in Seocheon-gun
+3307,Yeomchi-eup
+3308,Baebang-eup
+3309,Songak-myeon
+3310,Tangjeong-myeon
+3311,Eumbong-myeon
+3312,Dunpo-myeon
+3313,Yeongin-myeon
+3314,Inju-myeon
+3315,Seonjang-myeon
+3316,Dogo-myeon
+3317,Sinchang-myeon
+3318,Onyang 1(il)-dong
+3319,Onyang 2(i)-dong
+3320,Onyang 3(sam)-dong
+3321,Onyang 4(sa)-dong
+3322,Onyang 5(o)-dong
+3323,Onyang 6(yuk)-dong
+3324,Yesan-eup
+3325,Sapgyo-eup
+3326,Daesul-myeon
+3327,Sinyang-myeon
+3328,Gwangsi-myeon
+3329,Daeheung-myeon
+3330,Eungbong-myeon
+3331,Deoksan-myeon in Yesan-gun
+3332,Bongsan-myeon in Yesan-gun
+3333,Godeok-myeon in Yesan-gun
+3334,Sinam-myeon
+3335,Oga-myeon
+3336,Cheongyang-eup
+3337,Ungok-myeon
+3338,Daechi-myeon
+3339,Jeongsan-myeon
+3340,Mok-myeon
+3341,Cheongnam-myeon
+3342,Jangpyeong-myeon in Cheongyang-gun
+3343,Namyang-myeon in Cheongyang-gun
+3344,Hwaseong-myeon
+3345,Bibong-myeon in Cheongyang-gun
+3346,Taean-eup
+3347,Anmyeon-eup
+3348,Gonam-myeon
+3349,Nam-myeon in Taean-gun
+3350,Geunheung-myeon
+3351,Sowon-myeon
+3352,Wonbuk-myeon
+3353,Iwon-myeon in Taean-gun
+3354,Hongseong-eup
+3355,Gwangcheon-eup
+3356,Hongbuk-eup
+3357,Geumma-myeon in Hongseong-gun
+3358,Hongdong-myeon
+3359,Janggok-myeon
+3360,Eunha-myeon
+3361,Gyeolseong-myeon
+3362,Seobu-myeon
+3363,Galsan-myeon
+3364,Guhang-myeon
+3365,Goesan-eup
+3366,Gammul-myeon
+3367,Jangyeon-myeon
+3368,Yeonpung-myeon
+3369,Chilseong-myeon
+3370,Mungwang-myeon
+3371,Cheongcheon-myeon
+3372,Cheongan-myeon
+3373,Sari-myeon
+3374,Sosu-myeon
+3375,Buljeong-myeon
+3376,Danyang-eup
+3377,Maepo-eup
+3378,Daegang-myeon in Danyang-gun
+3379,Gagok-myeon in Danyang-gun
+3380,Yeongchun-myeon
+3381,Eosangcheon-myeon
+3382,Jeokseong-myeon in Danyang-gun
+3383,Danseong-myeon in Danyang-gun
+3384,Boeun-eup
+3385,Songnisan-myeon
+3386,Jangan-myeon in Boeun-gun
+3387,Maro-myeon
+3388,Tanbu-myeon
+3389,Samseung-myeon
+3390,Suhan-myeon
+3391,Hoenam-myeon
+3392,Hoein-myeon
+3393,Naebuk-myeon
+3394,Sanoe-myeon in Boeun-gun
+3395,Nangseong-myeon
+3396,Miwon-myeon
+3397,Gadeok-myeon
+3398,Namil-myeon in Sangdang-gu
+3399,Munui-myeon
+3400,Jungang-dong in Sangdang-gu
+3401,Seongan-dong in Sangdang-gu
+3402,Tapdaeseong-dong
+3403,Yeongun-dong
+3404,Geumcheon-dong
+3405,Yongdammyeongamsanseong-dong
+3406,Yongam 1(il)-dong
+3407,Yongam 2(I)-dong
+3408,Nami-myeon in Seowon-gu
+3409,Hyeondo-myeon
+3410,Sajik 1(il)-dong in Seowon-gu
+3411,Sajik 2(i)-dong in Seowon-gu
+3412,Sachang-dong
+3413,Mochung-dong
+3414,Sannam-dong
+3415,Bunpyeong-dong
+3416,Sugok 1(il)-dong
+3417,Sugok 2(i)-dong
+3418,Seonghwagaesinjungnim-dong
+3419,Yeongdong-eup
+3420,Yongsan-myeon in Yeongdong-gun
+3421,Hwanggan-myeon
+3422,Chupungnyeong-myeon
+3423,Maegok-myeon
+3424,Sangchon-myeon
+3425,Yanggang-myeon
+3426,Yonghwa-myeon
+3427,Haksan-myeon in Yeongdong-gun
+3428,Yangsan-myeon
+3429,Simcheon-myeon
+3430,Okcheon-eup
+3431,Dongi-myeon
+3432,Annam-myeon
+3433,Annae-myeon
+3434,Cheongseong-myeon
+3435,Cheongsan-myeon in Okcheon-gun
+3436,Iwon-myeon in Okcheon-gun
+3437,Gunseo-myeon in Okcheon-gun
+3438,Gunbuk-myeon in Okcheon-gun
+3439,Eumseong-eup
+3440,Geumwang-eup
+3441,Soi-myeon
+3442,Wonnam-myeon in Eumseong-gun
+3443,Maengdong-myeon
+3444,Daeso-myeon
+3445,Samseong-myeon
+3446,Saenggeuk-myeon
+3447,Gamgok-myeon in Eumseong-gun
+3448,Bongyang-eup
+3449,Geumseong-myeon in Jecheon-si
+3450,Cheongpung-myeon in Jecheon-si
+3451,Susan-myeon
+3452,Deoksan-myeon in Jecheon-si
+3453,Hansu-myeon
+3454,Baegun-myeon in Jecheon-si
+3455,Songhak-myeon
+3456,Gyo-dong in Jecheon-si
+3457,Uilimji-dong
+3458,jungang-dong in Jecheon-si
+3459,Namhyeon-dong in Jecheon-si
+3460,Yeongseo-dong
+3461,Yongdu-dong in Jecheon-si
+3462,Sinbaek-dong
+3463,Cheongjeon-dong
+3464,Hwasan-dong in Jecheon-si
+3465,Jeungpyeong-eup
+3466,Doan-myeon
+3467,Jincheon-eup
+3468,Deoksan-eup
+3469,Chopyeong-myeon
+3470,Munbaek-myeon
+3471,Baekgok-myeon
+3472,Iwol-myeon
+3473,Gwanghyewon-myeon
+3474,Naesu-eup
+3475,Ochang-eup
+3476,Bugi-myeon in Cheongwon-gu
+3477,Uam-dong in Cheongwon-gu
+3478,Naedeok 1(il)-dong
+3479,Naedeok 2(i)-dong
+3480,Yullyangsacheon-dong
+3481,Ogeunjang-dong
+3482,Judeok-eup
+3483,Salmi-myeon
+3484,Suanbo-myeon
+3485,Daesowon-myeon
+3486,Sinni-myeon
+3487,Noeun-myeon
+3488,Angseong-myeon
+3489,Jungangtap-myeon
+3490,Geumga-myeon
+3491,Dongnyang-myeon
+3492,Sancheok-myeon
+3493,Eomjeong-myeon
+3494,Sotae-myeon
+3495,Seongnaechungin-dong
+3496,Gyohyeonalim-dong
+3497,Gyohyeon 2(i)-dong
+3498,Yongsan-dong
+3499,Jihyeon-dong
+3500,Munhwa-dong in Chungju-si
+3501,Hoamjik-dong
+3502,Dalcheon-dong
+3503,Bongbang-dong
+3504,Chilgeumgeumneung-dong
+3505,Yeonsu-dong
+3506,Mokhaengyongtan-dong
+3507,Osong-eup
+3508,Gangnae-myeon
+3509,Oksan-myeon in Heungdeok-gu
+3510,Uncheonsinbong-dong
+3511,Bokdae 1(il)-dong
+3512,Bokdae 2(i)-dong
+3513,Gagyeong-dong
+3514,Bongmyeong 1(il)-dong
+3515,Bongmyeong 2(i)songjeong-dong
+3516,Gangseo 1(il)-dong
+3517,Gangseo 2(i)-dong
