@@ -8,7 +8,7 @@ from collections import defaultdict
 warnings.filterwarnings("ignore")
 
 EXCEL_PATH = "../data/DataCorpus_classfied_중분류_1차 연구.xlsx"
-ENG_NAME_PATH = "../data/only_eng.csv"
+ENG_NAME_PATH = "../data/only_eng_sido_sigungu.csv"
 
 
 def random_state(seed):
@@ -24,7 +24,7 @@ def run_paraphrase(phrases, parrot):
         print("-"*100)
         print("Input_phrase: ", phrase)
         print("-"*100)
-        para_phrases = parrot.augment(input_phrase=phrase, use_gpu=False)
+        para_phrases = parrot.augment(input_phrase=phrase, use_gpu=True)
         for para_phrase in para_phrases:
             try:
                 print(para_phrase[0])

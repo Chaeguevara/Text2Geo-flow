@@ -1,0 +1,279 @@
+,영문 표기
+0,Seoul
+1,Busan
+2,Daegu
+3,Incheon
+4,Gwangju
+5,Daejeon
+6,Ulsan
+7,Sejong City
+8,Gyeonggi-do
+9,Gangwon-do
+10,Chungcheongbuk-do
+11,Chungcheongnam-do
+12,Jeollabuk-do
+13,Jeollanam-do
+14,Gyeongsangbuk-do
+15,Gyeongsangnam-do
+16,Jeju
+0,Chuncheon-si
+1,Wonju-si
+2,Gangneung-si
+3,Donghae-si
+4,Taebaek-si
+5,Sokcho-si
+6,Samcheok-si
+7,Hongcheon-gun
+8,Hoengseong-gun
+9,Yeongwol-gun
+10,Pyeongchang-gun
+11,Jeongseon-gun
+12,Cheorwon-gun
+13,Hwacheon-gun
+14,Yanggu-gun
+15,Inje-gun
+16,Goseong-gun in Gangwon-do
+17,Yangyang-gun
+18,Suwon-si
+19,Jangan-gu
+20,Gwonseon-gu
+21,Paldal-gu
+22,Yeongtong-gu
+23,Seongnam-si
+24,Sujeong-gu
+25,Jungwon-gu
+26,Bundang-gu
+27,Uijeongbu-si
+28,Anyang-si
+29,Manan-gu
+30,Dongan-gu
+31,Bucheon-si
+32,Gwangmyeong-si
+33,Pyeongtaek-si
+34,Dongducheon-si
+35,Ansan-si
+36,Sangnok-gu
+37,Danwon-gu
+38,Goyang-si
+39,Deogyang-gu
+40,Ilsandong-gu
+41,Ilsanseo-gu
+42,Gwacheon-si
+43,Guri-si
+44,Namyangju-si
+45,Osan-si
+46,Siheung-si
+47,Gunpo-si
+48,Uiwang-si
+49,Hanam-si
+50,Yongin-si
+51,Cheoin-gu
+52,Giheung-gu
+53,Suji-gu
+54,Paju-si
+55,Icheon-si
+56,Anseong-si
+57,Gimpo-si
+58,Hwaseong-si
+59,Gwangju-si
+60,Yangju-si
+61,Pocheon-si
+62,Yeoju-si
+63,Yeoncheon-gun
+64,Gapyeong-gun
+65,Yangpyeong-gun
+66,Changwon-si
+67,Uichang-gu
+68,seongsan-gu
+69,Masanhappo-gu
+70,Masanhoewon-gu
+71,Jinhae-gu
+72,Jinju-si
+73,Tongyeong-si
+74,Sacheon-si
+75,Gimhae-si
+76,Miryang-si
+77,Geoje-si
+78,Yangsan-si
+79,Uiryeong-gun
+80,Haman-gun
+81,Changnyeong-gun
+82,Goseong-gun in Gyeongsangnam-do
+83,Namhae-gun
+84,Hadong-gun
+85,Sancheong-gun
+86,Hamyang-gun
+87,Geochang-gun
+88,Hapcheon-gun
+89,Pohang-si
+90,Nam-gu in Gyeongsangbuk-do
+91,Buk-gu in Gyeongsangbuk-do
+92,Gyeongju-si
+93,Gimcheon-si
+94,Andong-si
+95,Gumi-si
+96,Yeongju-si
+97,Yeongcheon-si
+98,Sangju-si
+99,Mungyeong-si
+100,Gyeongsan-si
+101,Gunwi-gun
+102,Uiseong-gun
+103,Cheongsong-gun
+104,Yeongyang-gun
+105,Yeongdeok-gun
+106,Cheongdo-gun
+107,Goryeong-gun
+108,Seongju-gun
+109,Chilgok-gun
+110,Yecheon-gun
+111,Bonghwa-gun
+112,Uljin-gun
+113,Ulleung-gun
+114,Dong-gu in Gwangju
+115,Seo-gu in Gwangju
+116,Nam-gu in Gwangju
+117,Buk-gu in Gwangju
+118,Gwangsan-gu
+119,Jung-gu in Daegu
+120,Dong-gu in Daegu
+121,Seo-gu in Daegu
+122,Nam-gu in Daegu
+123,Buk-gu in Daegu
+124,Suseong-gu
+125,Dalseo-gu
+126,Dalseong-gun
+127,Dong-gu in Daejeon
+128,Jung-gu in Daejeon
+129,Seo-gu in Daejeon
+130,Yuseong-gu
+131,Daedeok-gu
+132,Jung-gu in Busan
+133,Seo-gu in Busan
+134,Dong-gu in Busan
+135,Yeongdo-gu
+136,Busanjin-gu
+137,Dongnae-gu
+138,Nam-gu in Busan
+139,Buk-gu in Busan
+140,Haeundae-gu
+141,Saha-gu
+142,Geumjeong-gu
+143,Gangseo-gu in Busan
+144,Yeonje-gu
+145,Suyeong-gu
+146,Sasang-gu
+147,Gijang-gun
+148,Jongno-gu
+149,Jung-gu in Seoul
+150,Yongsan-gu
+151,Seongdong-gu
+152,Gwangjin-gu
+153,Dongdaemun-gu
+154,Jungnang-gu
+155,Seongbuk-gu
+156,Gangbuk-gu
+157,Dobong-gu
+158,Nowon-gu
+159,Eunpyeong-gu
+160,Seodaemun-gu
+161,Mapo-gu
+162,Yangcheon-gu
+163,Gangseo-gu in Seoul
+164,Guro-gu
+165,Geumcheon-gu
+166,Yeongdeungpo-gu
+167,Dongjak-gu
+168,Gwanak-gu
+169,Seocho-gu
+170,Gangnam-gu
+171,Songpa-gu
+172,Gangdong-gu
+173,Sejong City
+174,Jung-gu in Ulsan
+175,Nam-gu in Ulsan
+176,Dong-gu in Ulsan
+177,Buk-gu in Ulsan
+178,Ulju-gun
+179,Jung-gu in Incheon
+180,Dong-gu in Incheon
+181,Michuhol-gu
+182,Yeonsu-gu
+183,Namdong-gu
+184,Bupyeong-gu
+185,Gyeyang-gu
+186,Seo-gu in Incheon
+187,Ganghwa-gun
+188,Ongjin-gun
+189,Mokpo-si
+190,Yeosu-si
+191,Suncheon-si
+192,Naju-si
+193,Gwangyang-si
+194,Damyang-gun
+195,Gokseong-gun
+196,Gurye-gun
+197,Goheung-gun
+198,Boseong-gun
+199,Hwasun-gun
+200,Jangheung-gun
+201,Gangjin-gun
+202,Haenam-gun
+203,Yeongam-gun
+204,Muan-gun
+205,Hampyeong-gun
+206,Yeonggwang-gun
+207,Jangseong-gun
+208,Wando-gun
+209,Jindo-gun
+210,Sinan-gun
+211,Jeonju-si
+212,Wansan-gu
+213,Deokjin-gu
+214,Gunsan-si
+215,Iksan-si
+216,Jeongeup-si
+217,Namwon-si
+218,Gimje-si
+219,Wanju-gun
+220,Jinan-gun
+221,Muju-gun
+222,Jangsu-gun
+223,Imsil-gun
+224,Sunchang-gun
+225,Gochang-gun
+226,Buan-gun
+227,Jeju-si
+228,Seogwipo-si
+229,Cheonan-si
+230,Dongnam-gu
+231,Sebuk-gu
+232,Gongju-si
+233,Boryeong-si
+234,Asan-si
+235,Seosan-si
+236,Nonsan-si
+237,Gyeryong-si
+238,Dangjin-si
+239,Geumsan-gun
+240,Buyeo-gun
+241,Seocheon-gun
+242,Cheongyang-gun
+243,Hongseong-gun
+244,Yesan-gun
+245,Taean-gun
+246,Cheongju-si
+247,Sangdang-gu
+248,Seowon-gu
+249,Heungdeok-gu
+250,Cheongwon-gu
+251,Chungju-si
+252,Jecheon-si
+253,Boeun-gun
+254,Okcheon-gun
+255,Yeongdong-gun
+256,Jeungpyeong-gun
+257,Jincheon-gun
+258,Goesan-gun
+259,Eumseong-gun
+260,Danyang-gun
