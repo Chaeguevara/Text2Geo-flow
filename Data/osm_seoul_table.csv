@@ -1,0 +1,411 @@
+,root1_en,root1_id,root2_en,root2_id,root3_en,root3_id
+0,Seoul,2297418,Gangnam-gu,2410520,Segok-dong,3880739
+1,Seoul,2297418,Gangnam-gu,2410520,Irwon 1(il)-dong,3880732
+2,Seoul,2297418,Gangnam-gu,2410520,Irwon 1(i)-dong,8884978
+3,Seoul,2297418,Gangnam-gu,2410520,Irwon bon-dong,3880734
+4,Seoul,2297418,Gangnam-gu,2410520,Gaepo 1(il)-dong,3880712
+5,Seoul,2297418,Gangnam-gu,2410520,Gaepo 2(i)-dong,8884979
+6,Seoul,2297418,Gangnam-gu,2410520,Gaepo 4(sa)-dong,3880714
+7,Seoul,2297418,Gangnam-gu,2410520,Cheongdam-dong,3880711
+8,Seoul,2297418,Gangnam-gu,2410520,Yeoksam-dong,3880742
+9,Seoul,2297418,Gangnam-gu,2410520,Suseo-dong,3880740
+10,Seoul,2297418,Gangnam-gu,2410520,Samseong-dong,3880726
+11,Seoul,2297418,Gangnam-gu,2410520,Dogok-dong,3880709
+12,Seoul,2297418,Gangnam-gu,2410520,Daechi-dong,3880708
+13,Seoul,2297418,Gangnam-gu,2410520,Nonhyeon-dong,3880725
+14,Seoul,2297418,Gangnam-gu,2410520,Sinsa-dong,5598056
+15,Seoul,2297418,Gangnam-gu,2410520,Apgujeong-dong,5598057
+16,Seoul,2297418,Seocho-gu,2414779,Yangjae-dong,3880699
+17,Seoul,2297418,Seocho-gu,2414779,Bangbae-dong,3880696
+18,Seoul,2297418,Seocho-gu,2414779,Seocho-dong,3880697
+19,Seoul,2297418,Seocho-gu,2414779,Banpo-dong,3880689
+20,Seoul,2297418,Seocho-gu,2414779,Jamwon-dong,3880677
+21,Seoul,2297418,Seocho-gu,2414779,Naegok-dong,3880646
+22,Seoul,2297418,Dongjak-gu,2414774,Sadang 1(il)-dong,3879507
+23,Seoul,2297418,Dongjak-gu,2414774,Sadang 2(i)-dong,3879508
+24,Seoul,2297418,Dongjak-gu,2414774,Sadang 3(sam)-dong,3879509
+25,Seoul,2297418,Dongjak-gu,2414774,Sadang 4(sa)-dong,3879510
+26,Seoul,2297418,Dongjak-gu,2414774,Sadang 5(o)-dong,3879511
+27,Seoul,2297418,Dongjak-gu,2414774,Heukseok-dong,3879512
+28,Seoul,2297418,Dongjak-gu,2414774,Sangdo 1(il)-dong,3879531
+29,Seoul,2297418,Dongjak-gu,2414774,Sangdo 2(i)-dong,3879532
+30,Seoul,2297418,Dongjak-gu,2414774,Sangdo 3(sam)-dong,3879533
+31,Seoul,2297418,Dongjak-gu,2414774,Sangdo 4(sa)-dong,3879534
+32,Seoul,2297418,Dongjak-gu,2414774,Sindaebang 1(il)-dong,3879537
+33,Seoul,2297418,Dongjak-gu,2414774,Sindaebang 2(i)-dong,3879538
+34,Seoul,2297418,Dongjak-gu,2414774,Noryangjin 2(i)-dong,3879477
+35,Seoul,2297418,Dongjak-gu,2414774,Noryangjin 1(il)-dong,3879474
+36,Seoul,2297418,Dongjak-gu,2414774,Daebang-dong,3879506
+37,Seoul,2297418,Geumcheon-gu,2414776,Siheung 1(il)-dong,3879578
+38,Seoul,2297418,Geumcheon-gu,2414776,Siheung 2(i)-dong,3879579
+39,Seoul,2297418,Geumcheon-gu,2414776,Siheung 3(sam)-dong,3879580
+40,Seoul,2297418,Geumcheon-gu,2414776,Siheung 4(sa)-dong,3879581
+41,Seoul,2297418,Geumcheon-gu,2414776,Siheung 5(o)-dong,3879582
+42,Seoul,2297418,Geumcheon-gu,2414776,Doksan 1(il)-dong,3879574
+43,Seoul,2297418,Geumcheon-gu,2414776,Doksan 2(i)-dong,3879575
+44,Seoul,2297418,Geumcheon-gu,2414776,Doksan 3(sam)-dong,3879576
+45,Seoul,2297418,Geumcheon-gu,2414776,Doksan 4(sa)-dong,3879577
+46,Seoul,2297418,Geumcheon-gu,2414776,Gasan-dong,3879573
+47,Seoul,2297418,Gwanak-gu,2414778,Nakseongdae-dong,3878896
+48,Seoul,2297418,Gwanak-gu,2414778,Nangok-dong,3878789
+49,Seoul,2297418,Gwanak-gu,2414778,Nanhyang-dong,3878843
+50,Seoul,2297418,Gwanak-gu,2414778,Daehak-dong,3878844
+51,Seoul,2297418,Gwanak-gu,2414778,Miseong-dong,3878790
+52,Seoul,2297418,Gwanak-gu,2414778,Boramae-dong,3878901
+53,Seoul,2297418,Gwanak-gu,2414778,Samseong-dong,3878845
+54,Seoul,2297418,Gwanak-gu,2414778,Seorim-dong,3878846
+55,Seoul,2297418,Gwanak-gu,2414778,Seowon-dong,2424062
+56,Seoul,2297418,Gwanak-gu,2414778,Seonghyeon-dong,3878883
+57,Seoul,2297418,Gwanak-gu,2414778,Sillim-dong,3878791
+58,Seoul,2297418,Gwanak-gu,2414778,Sinsa-dong,3775530
+59,Seoul,2297418,Gwanak-gu,2414778,Sinwon-dong,3878792
+60,Seoul,2297418,Gwanak-gu,2414778,Euncheon-dong,2424060
+61,Seoul,2297418,Gwanak-gu,2414778,Inheon-dong,3878898
+62,Seoul,2297418,Gwanak-gu,2414778,Jowon-dong,3775531
+63,Seoul,2297418,Gwanak-gu,2414778,Jungang-dong,3878890
+64,Seoul,2297418,Gwanak-gu,2414778,Cheongnyong-dong,2424059
+65,Seoul,2297418,Gwanak-gu,2414778,Cheongmin-dong,3878891
+66,Seoul,2297418,Gwanak-gu,2414778,Haengun-dong,3878892
+67,Seoul,2297418,Gwanak-gu,2414778,Namhyeon-dong,3878897
+68,Seoul,2297418,Yeongdeungpo-gu,2414781,Daerim 1(il)-dong,3879659
+69,Seoul,2297418,Yeongdeungpo-gu,2414781,Daerim 2(i)-dong,3879660
+70,Seoul,2297418,Yeongdeungpo-gu,2414781,Daerim 3(sam)-dong,3879661
+71,Seoul,2297418,Yeongdeungpo-gu,2414781,Singil 1(il)-dong,3879664
+72,Seoul,2297418,Yeongdeungpo-gu,2414781,Singil 3(sam)-dong,3879665
+73,Seoul,2297418,Yeongdeungpo-gu,2414781,Singil 4(sa)-dong,3879666
+74,Seoul,2297418,Yeongdeungpo-gu,2414781,Singil 5(o)-dong,3879667
+75,Seoul,2297418,Yeongdeungpo-gu,2414781,Singil 6(yuk)-dong,3879668
+76,Seoul,2297418,Yeongdeungpo-gu,2414781,Singil 7(chil)-dong,3879669
+77,Seoul,2297418,Yeongdeungpo-gu,2414781,Dorim-dong,3879662
+78,Seoul,2297418,Yeongdeungpo-gu,2414781,Yeongdeungpobon-dong,3882299
+79,Seoul,2297418,Yeongdeungpo-gu,2414781,Mullae-dong,3879663
+80,Seoul,2297418,Yeongdeungpo-gu,2414781,Yeongdeungpo-dong,3879673
+81,Seoul,2297418,Yeongdeungpo-gu,2414781,Yeoui-dong,3879672
+82,Seoul,2297418,Yeongdeungpo-gu,2414781,Yangpyeong 1(il)-dong,3879670
+83,Seoul,2297418,Yeongdeungpo-gu,2414781,Yangpyeong 2(i)-dong,3879671
+84,Seoul,2297418,Yeongdeungpo-gu,2414781,Dangsan 1(il)-dong,3879657
+85,Seoul,2297418,Yeongdeungpo-gu,2414781,Dangsan 2(i)-dong,3879658
+86,Seoul,2297418,Guro-gu,2414777,Sugung-dong,3880479
+87,Seoul,2297418,Guro-gu,2414777,Oryu 1(il)-dong,3880476
+88,Seoul,2297418,Guro-gu,2414777,Oryu 2(i)-dong,3880477
+89,Seoul,2297418,Guro-gu,2414777,Gaebong 1(il)-dong,3880464
+90,Seoul,2297418,Guro-gu,2414777,Gaebong 2(i)-dong,3880465
+91,Seoul,2297418,Guro-gu,2414777,Gaebong 3(sam)-dong,3880466
+92,Seoul,2297418,Guro-gu,2414777,Gocheok 1(il)-dong,3880468
+93,Seoul,2297418,Guro-gu,2414777,Gocheok 2(i)-dong,3880469
+94,Seoul,2297418,Guro-gu,2414777,Sindorim-dong,3880480
+95,Seoul,2297418,Guro-gu,2414777,Guro 1(il)-dong,3880470
+96,Seoul,2297418,Guro-gu,2414777,Guro 2(i)-dong,3880471
+97,Seoul,2297418,Guro-gu,2414777,Guro 3(sam)-dong,3880473
+98,Seoul,2297418,Guro-gu,2414777,Guro 4(sa)-dong,3880474
+99,Seoul,2297418,Guro-gu,2414777,Guro 5(o)-dong,3880475
+100,Seoul,2297418,Guro-gu,2414777,Garibong dong,3880463
+101,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 7(chil)-dong,3880500
+102,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 6(yuk)-dong,3880499
+103,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 5(o)-dong,3880498
+104,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 4(sa)-dong,3880497
+105,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 3(sam)-dong,3880496
+106,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 2(i)-dong,3880508
+107,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 1(il)-dong,3880494
+108,Seoul,2297418,Yangcheon-gu,2414780,Mok 1(il)-dong,3880488
+109,Seoul,2297418,Yangcheon-gu,2414780,Mok 2(i)-dong,3880489
+110,Seoul,2297418,Yangcheon-gu,2414780,Mok 3(sam)-dong,3880490
+111,Seoul,2297418,Yangcheon-gu,2414780,Mok 4(sa)-dong,3880491
+112,Seoul,2297418,Yangcheon-gu,2414780,Mok 5(o)-dong,3880492
+113,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 7(chil)-dong,3880507
+114,Seoul,2297418,Yangcheon-gu,2414780,Sinwol 6(yuk)-dong,3880506
+115,Seoul,2297418,Yangcheon-gu,2414780,Sinjeong 3(sam)-dong,3880504
+116,Seoul,2297418,Yangcheon-gu,2414780,Sinjeong 4(sa)-dong,3880505
+117,Seoul,2297418,Yangcheon-gu,2414780,Sinjeong 2(i)-dong,3880503
+118,Seoul,2297418,Yangcheon-gu,2414780,Sinjeong 1(il)-dong,3880502
+119,Seoul,2297418,Gangseo-gu,2414775,Hwagokbon-dong,3880557
+120,Seoul,2297418,Gangseo-gu,2414775,Hwagok 8(pal)-dong,3880556
+121,Seoul,2297418,Gangseo-gu,2414775,Hwagok 6(yuk)-dong,3880555
+122,Seoul,2297418,Gangseo-gu,2414775,Hwagok 4(sa)-dong,3880554
+123,Seoul,2297418,Gangseo-gu,2414775,Hwagok 3(sam)-dong,3880553
+124,Seoul,2297418,Gangseo-gu,2414775,Hwagok 2(i)-dong,3880552
+125,Seoul,2297418,Gangseo-gu,2414775,Hwagok 1(il)-dong,3880551
+126,Seoul,2297418,Gangseo-gu,2414775,Ujangsan-dong,3880550
+127,Seoul,2297418,Gangseo-gu,2414775,Yeomchang-dong,3880538
+128,Seoul,2297418,Gangseo-gu,2414775,Deungchon 3(sam)-dong,3880549
+129,Seoul,2297418,Gangseo-gu,2414775,Deungchon 2(i)-dong,3880542
+130,Seoul,2297418,Gangseo-gu,2414775,Deungchon 1(il)-dong,3880541
+131,Seoul,2297418,Gangseo-gu,2414775,Balsan 1(il)-dong,3880525
+132,Seoul,2297418,Gangseo-gu,2414775,Gayang 3(sam)-dong,3880537
+133,Seoul,2297418,Gangseo-gu,2414775,Gayang 2(i)-dong,3880536
+134,Seoul,2297418,Gangseo-gu,2414775,Gayang 1(il)-dong,3880535
+135,Seoul,2297418,Gangseo-gu,2414775,Banghwa 2(i)-dong,3880528
+136,Seoul,2297418,Gangseo-gu,2414775,Banghwa 3(sam)-dong,3880527
+137,Seoul,2297418,Gangseo-gu,2414775,Banghwa 1(il)-dong,3880526
+138,Seoul,2297418,Gangseo-gu,2414775,Gonghang-dong,3880524
+139,Seoul,2297418,Mapo-gu,2419949,Gongdeok-dong,3884273
+140,Seoul,2297418,Mapo-gu,2419949,Daeheung-dong,3884274
+141,Seoul,2297418,Mapo-gu,2419949,Dohwa-dong,3884275
+142,Seoul,2297418,Mapo-gu,2419949,Mangwon 1(il)-dong,3884288
+143,Seoul,2297418,Mapo-gu,2419949,Mangwon 2(i)-dong,3884289
+144,Seoul,2297418,Mapo-gu,2419949,Sangam-dong,3884277
+145,Seoul,2297418,Mapo-gu,2419949,Seogang-dong,3884278
+146,Seoul,2297418,Mapo-gu,2419949,Seogyo-dong,3884279
+147,Seoul,2297418,Mapo-gu,2419949,Seongsan 1(il)-dong,3884280
+148,Seoul,2297418,Mapo-gu,2419949,Seongsan 2(i)-dong,3884291
+149,Seoul,2297418,Mapo-gu,2419949,Sinsu-dong,3884281
+150,Seoul,2297418,Mapo-gu,2419949,Ahyeon-dong,3884282
+151,Seoul,2297418,Mapo-gu,2419949,Yeonnam-dong,3884283
+152,Seoul,2297418,Mapo-gu,2419949,Yeomni-dong,3884285
+153,Seoul,2297418,Mapo-gu,2419949,Yonggang-dong,3884286
+154,Seoul,2297418,Mapo-gu,2419949,Hapjeong-dong,3884287
+155,Seoul,2297418,Seodaemun-gu,2419951,Chunghyeon-dong,3887534
+156,Seoul,2297418,Seodaemun-gu,2419951,Cheonyeon-dong,8855694
+157,Seoul,2297418,Seodaemun-gu,2419951,Bugahyeon-dong,3887530
+158,Seoul,2297418,Seodaemun-gu,2419951,Sinchon-dong,3887531
+159,Seoul,2297418,Seodaemun-gu,2419951,Yeonhui-dong,3887532
+160,Seoul,2297418,Seodaemun-gu,2419951,Hongje 1(il)-dong,3887543
+161,Seoul,2297418,Seodaemun-gu,2419951,Hongje 2(i)-dong,3887544
+162,Seoul,2297418,Seodaemun-gu,2419951,Hongje 3(sam)-dong,3887545
+163,Seoul,2297418,Seodaemun-gu,2419951,Hongeun 1(il)-dong,3887541
+164,Seoul,2297418,Seodaemun-gu,2419951,Hongeun 2(i)-dong,3887542
+165,Seoul,2297418,Seodaemun-gu,2419951,Namgajwa 1(il)-dong,3887537
+166,Seoul,2297418,Seodaemun-gu,2419951,Namgajwa 2(i)-dong,3887538
+167,Seoul,2297418,Seodaemun-gu,2419951,Bukgajwa 1(il)-dong,3887539
+168,Seoul,2297418,Seodaemun-gu,2419951,Bukgajwa 2(i)-dong,3887540
+169,Seoul,2297418,Eunpyeong-gu,2419942,Galhyeon 1(il)-dong,3886371
+170,Seoul,2297418,Eunpyeong-gu,2419942,Galhyeon 2(i)-dong,3886372
+171,Seoul,2297418,Eunpyeong-gu,2419942,Gusan-dong,3886361
+172,Seoul,2297418,Eunpyeong-gu,2419942,Nokbeon-dong,3886362
+173,Seoul,2297418,Eunpyeong-gu,2419942,Daejo-dong,3886363
+174,Seoul,2297418,Eunpyeong-gu,2419942,Bulgwang 1(il)-dong,3886373
+175,Seoul,2297418,Eunpyeong-gu,2419942,Bulgwang 2(i)-dong,3886374
+176,Seoul,2297418,Eunpyeong-gu,2419942,Susaek-dong,3886365
+177,Seoul,2297418,Eunpyeong-gu,2419942,Sinsa 1(il)-dong,3886375
+178,Seoul,2297418,Eunpyeong-gu,2419942,Sinsa 2(i)-dong,9626664
+179,Seoul,2297418,Eunpyeong-gu,2419942,Yeokchon-dong,3886367
+180,Seoul,2297418,Eunpyeong-gu,2419942,Eungam 1(il)-dong,3886377
+181,Seoul,2297418,Eunpyeong-gu,2419942,Eungam 2(i)-dong,3886378
+182,Seoul,2297418,Eunpyeong-gu,2419942,Eungam 3(sam)-dong,3886379
+183,Seoul,2297418,Eunpyeong-gu,2419942,Jeungsan-dong,3886369
+184,Seoul,2297418,Eunpyeong-gu,2419942,Jingwan-dong,3886370
+185,Seoul,2297418,Jongno-gu,2419946,Pyeongchang-dong,3883991
+186,Seoul,2297418,Jongno-gu,2419946,Buam-dong,3883984
+187,Seoul,2297418,Jongno-gu,2419946,Samcheong-dong,3888557
+188,Seoul,2297418,Jongno-gu,2419946,Cheongunhyoja-dong,3883990
+189,Seoul,2297418,Jongno-gu,2419946,Muak-dong,3883983
+190,Seoul,2297418,Jongno-gu,2419946,Gyonam-dong,3883982
+191,Seoul,2297418,Jongno-gu,2419946,Sajik-dong,3883985
+192,Seoul,2297418,Jongno-gu,2419946,Gahoe-dong,3883981
+193,Seoul,2297418,Jongno-gu,2419946,Jongno 1·2·3·4(ilisamsa)-ga-dong,3883995
+194,Seoul,2297418,Jongno-gu,2419946,Jongno 5·6(oryuk)-ga-dong,3883996
+195,Seoul,2297418,Jongno-gu,2419946,Ihwa-dong,3883987
+196,Seoul,2297418,Jongno-gu,2419946,Hyehwa-dong,8243591
+197,Seoul,2297418,Jongno-gu,2419946,Changsin 1(il)-dong,9623459
+198,Seoul,2297418,Jongno-gu,2419946,Changsin 3(sam)-dong,3883998
+199,Seoul,2297418,Jongno-gu,2419946,Changsin 2(i)-dong,3883999
+200,Seoul,2297418,Jongno-gu,2419946,Sungin 1(il)-dong,3883993
+201,Seoul,2297418,Jongno-gu,2419946,Sungin 2(i)-dong,3883994
+202,Seoul,2297418,Jung-gu,2419947,Sindang 5(o)-dong,3884103
+203,Seoul,2297418,Jung-gu,2419947,Yaksu-dong,3884094
+204,Seoul,2297418,Jung-gu,2419947,Sogong-dong,3884092
+205,Seoul,2297418,Jung-gu,2419947,Sindang-dong,3884093
+206,Seoul,2297418,Jung-gu,2419947,Pil-dong,3884099
+207,Seoul,2297418,Jung-gu,2419947,Myeong-dong,3884091
+208,Seoul,2297418,Jung-gu,2419947,Jungnim-dong,3884097
+209,Seoul,2297418,Jung-gu,2419947,Jangchung-dong,3884096
+210,Seoul,2297418,Jung-gu,2419947,Hwanghak-dong,3884100
+211,Seoul,2297418,Jung-gu,2419947,Hoehyeon-dong,3884101
+212,Seoul,2297418,Jung-gu,2419947,Gwanghui-dong,3884088
+213,Seoul,2297418,Jung-gu,2419947,Euljiro-dong,3884095
+214,Seoul,2297418,Jung-gu,2419947,Donghwa-dong,3884090
+215,Seoul,2297418,Jung-gu,2419947,Dasan-dong,3884089
+216,Seoul,2297418,Jung-gu,2419947,Cheonggu-dong,3884098
+217,Seoul,2297418,Yongsan-gu,2419955,Yongmun-dong,3884157
+218,Seoul,2297418,Yongsan-gu,2419955,Wonhyoro 1(il)-dong,3884159
+219,Seoul,2297418,Yongsan-gu,2419955,Seobinggo-dong,3884156
+220,Seoul,2297418,Yongsan-gu,2419955,Namyeong-dong,3884154
+221,Seoul,2297418,Yongsan-gu,2419955,Itaewon-dong,3884161
+222,Seoul,2297418,Yongsan-gu,2419955,Ichon-dong,3884160
+223,Seoul,2297418,Yongsan-gu,2419955,Hyochang-dong,3884166
+224,Seoul,2297418,Yongsan-gu,2419955,Huam-dong,3884167
+225,Seoul,2297418,Yongsan-gu,2419955,Hannam-dong,3884164
+226,Seoul,2297418,Yongsan-gu,2419955,Hangangno-dong,3884163
+227,Seoul,2297418,Yongsan-gu,2419955,Cheongpa-dong,3884162
+228,Seoul,2297418,Yongsan-gu,2419955,Bogwang-dong,3884155
+229,Seoul,2297418,Seongdong-gu,2419953,WangsimniDoseon-dong,3882081
+230,Seoul,2297418,Seongdong-gu,2419953,Wangsimni 2(i)-dong,3882080
+231,Seoul,2297418,Seongdong-gu,2419953,Majang-dong,3882064
+232,Seoul,2297418,Seongdong-gu,2419953,Sageun-dong,3882065
+233,Seoul,2297418,Seongdong-gu,2419953,Haengdang 1(il)-dong,3882082
+234,Seoul,2297418,Seongdong-gu,2419953,Haengdang 2(i)-dong,3882083
+235,Seoul,2297418,Seongdong-gu,2419953,Eungbong-dong,3882071
+236,Seoul,2297418,Seongdong-gu,2419953,Geumho 1(il)-ga-dong,3882074
+237,Seoul,2297418,Seongdong-gu,2419953,Geumho 2·3(i·sam)-ga-dong,3882075
+238,Seoul,2297418,Seongdong-gu,2419953,Geumho 4(sa)-ga-dong,3882076
+239,Seoul,2297418,Seongdong-gu,2419953,Oksu-dong,3882068
+240,Seoul,2297418,Seongdong-gu,2419953,Seongsu 1(il)-ga 1(il)-dong,3882077
+241,Seoul,2297418,Seongdong-gu,2419953,Seongsu 2(i)-ga 1(il)-dong,3882078
+242,Seoul,2297418,Seongdong-gu,2419953,Seongsu 2(i)-ga 3(sam)-dong,3882079
+243,Seoul,2297418,Seongdong-gu,2419953,Seongsu 1(il)-ga 1(il)-dong,3882073
+244,Seoul,2297418,Seongdong-gu,2419953,Songjeong-dong,3882067
+245,Seoul,2297418,Seongdong-gu,2419953,Yongdap-dong,3882070
+246,Seoul,2297418,Dongdaemun-gu,2419941,Imun 1(il)-dong,3882170
+247,Seoul,2297418,Dongdaemun-gu,2419941,Imun 2(i)-dong,3882171
+248,Seoul,2297418,Dongdaemun-gu,2419941,Hwigyeong 1(il)-dong,3882176
+249,Seoul,2297418,Dongdaemun-gu,2419941,Hwigyeong 2(i)-dong,3882177
+250,Seoul,2297418,Dongdaemun-gu,2419941,Hoegi-dong,3882166
+251,Seoul,2297418,Dongdaemun-gu,2419941,Cheongnyangni-dong,3882165
+252,Seoul,2297418,Dongdaemun-gu,2419941,Jangan 1(il)-dong,3882172
+253,Seoul,2297418,Dongdaemun-gu,2419941,Jangan 2(i)-dong,3882173
+254,Seoul,2297418,Dongdaemun-gu,2419941,Dapsimni 1(il)-dong,3882168
+255,Seoul,2297418,Dongdaemun-gu,2419941,Dapsimni 2(i)-dong,3882169
+256,Seoul,2297418,Dongdaemun-gu,2419941,Jeonnong 1(il)-dong,3882174
+257,Seoul,2297418,Dongdaemun-gu,2419941,Jeonnong 2(i)-dong,3882175
+258,Seoul,2297418,Dongdaemun-gu,2419941,Jegi-dong,3882164
+259,Seoul,2297418,Dongdaemun-gu,2419941,Yongsin-dong,3882160
+260,Seoul,2297418,Seongbuk-gu,2419952,Seongbuk-dong,3883193
+261,Seoul,2297418,Seongbuk-gu,2419952,Samseon-dong,3883191
+262,Seoul,2297418,Seongbuk-gu,2419952,Dongseon-dong,3883189
+263,Seoul,2297418,Seongbuk-gu,2419952,Donam 1(il)-dong,3883201
+264,Seoul,2297418,Seongbuk-gu,2419952,Donam 2(i)-dong,3883202
+265,Seoul,2297418,Seongbuk-gu,2419952,Anam-dong,3883194
+266,Seoul,2297418,Seongbuk-gu,2419952,Bomun-dong,3883190
+267,Seoul,2297418,Seongbuk-gu,2419952,Jeongneung 1(il)-dong,3883208
+268,Seoul,2297418,Seongbuk-gu,2419952,Jeongneung 2(i)-dong,3883209
+269,Seoul,2297418,Seongbuk-gu,2419952,Jeongneung 3(sam)-dong,3883210
+270,Seoul,2297418,Seongbuk-gu,2419952,Jeongneung 4(sa)-dong,3883211
+271,Seoul,2297418,Seongbuk-gu,2419952,Gireum 1(il)-dong,3883187
+272,Seoul,2297418,Seongbuk-gu,2419952,Gireum 2(i)-dong,3883200
+273,Seoul,2297418,Seongbuk-gu,2419952,Jongam-dong,3883198
+274,Seoul,2297418,Seongbuk-gu,2419952,Wolgok 1(il)-dong,3883203
+275,Seoul,2297418,Seongbuk-gu,2419952,Wolgok 2(i)-dong,3883204
+276,Seoul,2297418,Seongbuk-gu,2419952,Jangwi 1(il)-dong,3883205
+277,Seoul,2297418,Seongbuk-gu,2419952,Jangwi 2(i)-dong,3883206
+278,Seoul,2297418,Seongbuk-gu,2419952,Jangwi 3(sam)-dong,3883207
+279,Seoul,2297418,Seongbuk-gu,2419952,Seokgwan-dong,3883192
+280,Seoul,2297418,Gangbuk-gu,2419943,Samyang-dong,3883112
+281,Seoul,2297418,Gangbuk-gu,2419943,Mia-dong,3883107
+282,Seoul,2297418,Gangbuk-gu,2419943,Songjung-dong,3883113
+283,Seoul,2297418,Gangbuk-gu,2419943,Songcheon-dong,3883114
+284,Seoul,2297418,Gangbuk-gu,2419943,Samgaksan-dong,3883111
+285,Seoul,2297418,Gangbuk-gu,2419943,Beon 1(il)-dong,3883108
+286,Seoul,2297418,Gangbuk-gu,2419943,Beon 2(i)-dong,3883109
+287,Seoul,2297418,Gangbuk-gu,2419943,Beon 3(sam)-dong,3883110
+288,Seoul,2297418,Gangbuk-gu,2419943,Suyu 1(il)-dong,8874359
+289,Seoul,2297418,Gangbuk-gu,2419943,Suyu 2(i)-dong,3883115
+290,Seoul,2297418,Gangbuk-gu,2419943,Suyu 3(sam)-dong,3883116
+291,Seoul,2297418,Gangbuk-gu,2419943,Ui-dong,3883106
+292,Seoul,2297418,Gangbuk-gu,2419943,Insu-dong,3883117
+293,Seoul,2297418,Dobong-gu,2419940,Dobong 1(il)-dong,3883058
+294,Seoul,2297418,Dobong-gu,2419940,Dobong 2(i)-dong,3883059
+295,Seoul,2297418,Dobong-gu,2419940,Banghak 1(il)-dong,3883060
+296,Seoul,2297418,Dobong-gu,2419940,Banghak 2(i)-dong,3883061
+297,Seoul,2297418,Dobong-gu,2419940,Banghak 3(sam)-dong,3883062
+298,Seoul,2297418,Dobong-gu,2419940,Ssangmun 1(il)-dong,3883063
+299,Seoul,2297418,Dobong-gu,2419940,Ssangmun 2(i)-dong,3883064
+300,Seoul,2297418,Dobong-gu,2419940,Ssangmun 3(sam)-dong,3883065
+301,Seoul,2297418,Dobong-gu,2419940,Ssangmun 4(sa)-dong,3883066
+302,Seoul,2297418,Dobong-gu,2419940,Chang 1(il)-dong,3883067
+303,Seoul,2297418,Dobong-gu,2419940,Chang 2(i)-dong,3883068
+304,Seoul,2297418,Dobong-gu,2419940,Chang 3(sam)-dong,3883069
+305,Seoul,2297418,Dobong-gu,2419940,Chang 4(sa)-dong,3883070
+306,Seoul,2297418,Dobong-gu,2419940,Chang 5(o)-dong,3883071
+307,Seoul,2297418,Nowon-gu,2419950,Wolgye 1(il)-dong,3882987
+308,Seoul,2297418,Nowon-gu,2419950,Wolgye 2(i)-dong,3882988
+309,Seoul,2297418,Nowon-gu,2419950,Wolgye 3(sam)-dong,3882989
+310,Seoul,2297418,Nowon-gu,2419950,Gongneung 1(il)-dong,3882977
+311,Seoul,2297418,Nowon-gu,2419950,Gongneung 2(i)-dong,3882978
+312,Seoul,2297418,Nowon-gu,2419950,Hagye 1(il)-dong,3882994
+313,Seoul,2297418,Nowon-gu,2419950,Hagye 2(i)-dong,3882995
+314,Seoul,2297418,Nowon-gu,2419950,Junggyebon-dong,3882993
+315,Seoul,2297418,Nowon-gu,2419950,Junggye 1(il)-dong,3882990
+316,Seoul,2297418,Nowon-gu,2419950,Junggye 2·3(i·sam)-dong,3882991
+317,Seoul,2297418,Nowon-gu,2419950,Junggye 4(sa)-dong,3882992
+318,Seoul,2297418,Nowon-gu,2419950,Sanggye 1(il)-dong,3882980
+319,Seoul,2297418,Nowon-gu,2419950,Sanggye 2(i)-dong,3882982
+320,Seoul,2297418,Nowon-gu,2419950,Sanggye 3·4(sam·sa)-dong,9626656
+321,Seoul,2297418,Nowon-gu,2419950,Sanggye 5(o)-dong,3882983
+322,Seoul,2297418,Nowon-gu,2419950,Sanggye 6·7(yuk·chil)-dong,3882984
+323,Seoul,2297418,Nowon-gu,2419950,Sanggye 8(pal)-dong,3882985
+324,Seoul,2297418,Nowon-gu,2419950,Sanggye 9(gu)-dong,3882986
+325,Seoul,2297418,Nowon-gu,2419950,Sanggye 10(sip)-dong,3882979
+326,Seoul,2297418,Jungnang-gu,2419948,Myeonmokbon-dong,3882929
+327,Seoul,2297418,Jungnang-gu,2419948,Myeonmok 2(i)-dong,3882930
+328,Seoul,2297418,Jungnang-gu,2419948,Myeonmok 3·8(sam·pal)-dong,3882931
+329,Seoul,2297418,Jungnang-gu,2419948,Myeonmok 4(sa)-dong,3882932
+330,Seoul,2297418,Jungnang-gu,2419948,Myeonmok 5(o)-dong,3882933
+331,Seoul,2297418,Jungnang-gu,2419948,Myeonmok 7(chil)-dong,3882934
+332,Seoul,2297418,Jungnang-gu,2419948,Sangbong 1(il)-dong,9626632
+333,Seoul,2297418,Jungnang-gu,2419948,Sangbong 2(i)-dong,3882938
+334,Seoul,2297418,Jungnang-gu,2419948,Junghwa 1(il)-dong,3882941
+335,Seoul,2297418,Jungnang-gu,2419948,Junghwa 2(i)-dong,3882942
+336,Seoul,2297418,Jungnang-gu,2419948,Muk 1(il)-dong,3882935
+337,Seoul,2297418,Jungnang-gu,2419948,Muk 2(i)-dong,3882936
+338,Seoul,2297418,Jungnang-gu,2419948,Mangubon-dong,3882927
+339,Seoul,2297418,Jungnang-gu,2419948,Mangu 3(sam)-dong,3882928
+340,Seoul,2297418,Jungnang-gu,2419948,Sinnae 1(il)-dong,3882939
+341,Seoul,2297418,Jungnang-gu,2419948,Sinnae 2(i)-dong,3882940
+342,Seoul,2297418,Gwangjin-gu,2419945,Junggok 1(il)-dong,3881573
+343,Seoul,2297418,Gwangjin-gu,2419945,Junggok 2(i)-dong,3881574
+344,Seoul,2297418,Gwangjin-gu,2419945,Junggok 3(sam)-dong,3881575
+345,Seoul,2297418,Gwangjin-gu,2419945,Junggok 4(sa)-dong,3881576
+346,Seoul,2297418,Gwangjin-gu,2419945,Jayang 1(il)-dong,3881569
+347,Seoul,2297418,Gwangjin-gu,2419945,Jayang 2(i)-dong,3881570
+348,Seoul,2297418,Gwangjin-gu,2419945,Jayang 3(sam)-dong,3881571
+349,Seoul,2297418,Gwangjin-gu,2419945,Jayang 4(sa)-dong,3881572
+350,Seoul,2297418,Gwangjin-gu,2419945,Hwayang-dong,3881565
+351,Seoul,2297418,Gwangjin-gu,2419945,Guui 1(il)-dong,3881566
+352,Seoul,2297418,Gwangjin-gu,2419945,Guui 2(i)-dong,3881567
+353,Seoul,2297418,Gwangjin-gu,2419945,Guui 3(sam)-dong,3881568
+354,Seoul,2297418,Gwangjin-gu,2419945,Gwangjang-dong,3881559
+355,Seoul,2297418,Gwangjin-gu,2419945,Gunja-dong,3881561
+356,Seoul,2297418,Gwangjin-gu,2419945,Neung-dong,3881562
+357,Seoul,2297418,Gangdong-gu,2419944,Cheonho 3(sam)-dong,13735190
+358,Seoul,2297418,Gangdong-gu,2419944,Cheonho 2(i)-dong,13735191
+359,Seoul,2297418,Gangdong-gu,2419944,Cheonho 1(il)-dong,13735192
+360,Seoul,2297418,Gangdong-gu,2419944,Amsa 3(sam)-dong,13735193
+361,Seoul,2297418,Gangdong-gu,2419944,Amsa 2(i)-dong,13735194
+362,Seoul,2297418,Gangdong-gu,2419944,Amsa 1(il)-dong,13735195
+363,Seoul,2297418,Gangdong-gu,2419944,Seongnae 3(sam)-dong,13735187
+364,Seoul,2297418,Gangdong-gu,2419944,Seongnae 2(i)-dong,13735188
+365,Seoul,2297418,Gangdong-gu,2419944,Seongnae 1(il)-dong,13735189
+366,Seoul,2297418,Gangdong-gu,2419944,Sangil 2(i)-dong,13735201
+367,Seoul,2297418,Gangdong-gu,2419944,Sangil 1(il)-dong,13735202
+368,Seoul,2297418,Gangdong-gu,2419944,Myeongil 2(i)-dong,13735197
+369,Seoul,2297418,Gangdong-gu,2419944,Myeongil 1(il)-dong,13735198
+370,Seoul,2297418,Gangdong-gu,2419944,Dunchon 2(i)-dong,13735185
+371,Seoul,2297418,Gangdong-gu,2419944,Dunchon 1(il)-dong,13735186
+372,Seoul,2297418,Gangdong-gu,2419944,Gil-dong,13735196
+373,Seoul,2297418,Gangdong-gu,2419944,Godeok 2(i)-dong,13735199
+374,Seoul,2297418,Gangdong-gu,2419944,Godeok 1(il)-dong,13735200
+375,Seoul,2297418,Gangdong-gu,2419944,Gangil-dong,8885026
+376,Seoul,2297418,Songpa-gu,2419954,Pungnap 1(il)-dong,3880801
+377,Seoul,2297418,Songpa-gu,2419954,Geoyeo 1(il)-dong,3880785
+378,Seoul,2297418,Songpa-gu,2419954,Geoyeo 2(i)-dong,3880786
+379,Seoul,2297418,Songpa-gu,2419954,Macheon 1(il)-dong,3880787
+380,Seoul,2297418,Songpa-gu,2419954,Macheon 2(i)-dong,3880788
+381,Seoul,2297418,Songpa-gu,2419954,Bangi 1(il)-dong,3880791
+382,Seoul,2297418,Songpa-gu,2419954,Bangi 2(i)-dong,3880792
+383,Seoul,2297418,Songpa-gu,2419954,Oryun-dong,3880778
+384,Seoul,2297418,Songpa-gu,2419954,Ogeum-dong,3880777
+385,Seoul,2297418,Songpa-gu,2419954,Songpa 1(il)-dong,3880793
+386,Seoul,2297418,Songpa-gu,2419954,Songpa 2(i)-dong,3880794
+387,Seoul,2297418,Songpa-gu,2419954,Seokchon-dong,3880775
+388,Seoul,2297418,Songpa-gu,2419954,Samjeon-dong,3880774
+389,Seoul,2297418,Songpa-gu,2419954,Garakbon-dong,3880784
+390,Seoul,2297418,Songpa-gu,2419954,Garak 1(il)-dong,3880782
+391,Seoul,2297418,Songpa-gu,2419954,Garak 2(i)-dong,3880783
+392,Seoul,2297418,Songpa-gu,2419954,Munjeong 1(il)-dong,3880789
+393,Seoul,2297418,Songpa-gu,2419954,Munjeong 2(i)-dong,3880790
+394,Seoul,2297418,Songpa-gu,2419954,Jamsilbon-dong,3880800
+395,Seoul,2297418,Songpa-gu,2419954,Jamsil 2(i)-dong,3880795
+396,Seoul,2297418,Songpa-gu,2419954,Jamsil 3(sam)-dong,3880796
+397,Seoul,2297418,Songpa-gu,2419954,Jamsil 4(sa)-dong,3880797
+398,Seoul,2297418,Songpa-gu,2419954,Jamsil 6(yuk)-dong,3880798
+399,Seoul,2297418,Songpa-gu,2419954,Jamsil 7(chil)-dong,3880799
+400,Seoul,2297418,Songpa-gu,2419954,Jangji-dong,3880780
+401,Seoul,2297418,Songpa-gu,2419954,Wirye-dong,11117000
+402,Seoul,2297418,Songpa-gu,2419954,Garak-dong,3880769
+403,Seoul,2297418,Songpa-gu,2419954,Geoyeo-dong,3880770
+404,Seoul,2297418,Songpa-gu,2419954,Macheon-dong,3880771
+405,Seoul,2297418,Songpa-gu,2419954,Munjeong-dong,3880772
+406,Seoul,2297418,Songpa-gu,2419954,Bangi-dong,3880773
+407,Seoul,2297418,Songpa-gu,2419954,Songpa-dong,3880776
+408,Seoul,2297418,Songpa-gu,2419954,Jamsil-dong,3880779
+409,Seoul,2297418,Songpa-gu,2419954,Pungnap-dong,3880781
