@@ -1,4 +1,3 @@
-from hashlib import new
 from parrot import Parrot
 import torch
 import warnings
@@ -20,23 +19,32 @@ def random_state(seed):
         torch.cuda.manual_seed_all(seed)
 
 
-def run_paraphrase(phrases,ids, parrot):
-    d = defaultdict(list)
-    phrases = list(phrases["Question"])
-    print(f"phrases:{phrases}")
-    print(f"ids:{ids}")
+def run_paraphrase(phrases, parrot):
+    new_df = phrases.copy()
     i = 0
-    for phrase,op in zip(phrases,ids):
-        print(f"{i} th out of {len(phrases)}")
-        print(phrase)
-        d[op].append(phrase)
-        para_phrases = parrot.augment(input_phrase=phrase, use_gpu=True)
+    for row_dict in train_df.to_dict(orient="records"):
+        i += 1
+        new_df = new_df.append(row_dict, ignore_index=True)
+        print(f"{i} th out of {len(train_df.to_dict(orient='records'))}")
+        print(row_dict["Question"])
+        para_phrases = parrot.augment(input_phrase=row_dict["Question"],
+                                      use_gpu=True,
+                                      do_diverse=True,
+                                      max_length=60,
+                                      adequacy_threshold=0.95
+                                      )
         if para_phrases is None:
             continue
         for para_phrase in para_phrases:
-            d[op].append(para_phrase[0])
-    df = pd.DataFrame.from_dict(d,orient='index')
-    df.to_excel("../data/paraphrased.xlsx")
+            new_row = row_dict.copy()
+            print(para_phrase[0])
+            new_row['Question'] = para_phrase[0]
+            new_df = new_df.append(new_row, ignore_index=True)
+    new_df["Question"] = new_df['Question'].str.lower()
+    new_df = new_df.drop_duplicates(subset=["Question"])
+
+
+    new_df.to_excel("../data/processed/paraphrased_train.xlsx")
     #df.to_parquet("../data/paraphrased.gzip",
     #              compression='gzip')
     return df
@@ -47,11 +55,11 @@ def get_excel():
     return df
 
 
-def substitue_place(df):
+def substitue_place(df, frac_of_extents=0.01):
     eng = pd.read_csv(ENG_NAME_PATH)
     eng = eng["영문 표기"]
     eng = eng.apply(lambda x: str(x)+" ")
-    eng_sample = eng.sample(frac=0.25, replace=True, random_state=1)
+    eng_sample = eng.sample(frac=frac_of_extents, replace=True, random_state=1)
     new_df = df[df["extents"].apply(lambda x:len(x.split(','))==1)]
     m = eng_sample.shape[0]
     n = new_df.shape[0]
@@ -66,9 +74,7 @@ def substitue_place(df):
                                     )
     new_df["Question"] = changed_question
     new_df.to_excel("../data/extent_substitute.xlsx")
-    print(new_df)
     types_count = new_df['op_id'].value_counts()
-    print(types_count)
     return new_df
 
 def add_type_column(df):
@@ -90,22 +96,22 @@ def add_type_column(df):
 
 if __name__ == '__main__':
     df = get_excel()
-    df = add_type_column(df)
-    word_sub_df = substitue_place(df)
-    test_df = word_sub_df.groupby('op_id',
-                                  group_keys=False).apply(
-                                      lambda x: x.sample(frac=1)
-                                  )
-    raise Exception("Test up to here")
-    test_df = test_df.groupby('op_id',
-                                  group_keys=False).apply(
-                                      lambda x: x.sample(1)
-                                  )
-    test_df.to_excel("./substitute_extent.xlsx")
-    print(test_df)
-    random_state(1234)
+    # Stratified sampling
+    train_df = df.groupby('op_id', group_keys=False).apply(
+        lambda x: x.sample(frac=0.8)
+    )
+    test_df = df[~df.index.isin(train_df.index)]
+    # 여기에서 Train / Test로 나눠야??
+    test_df["for train"] = False
+    train_df.to_excel("../data/processed/stratified_train.xlsx")
+    test_df.to_excel("../data/processed/stratified_test.xlsx")
+    random_state(23341)
     parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5")
-    run_paraphrase(test_df,
-                   test_df['op_id'].to_list(),
-                   parrot
-                   )
+    train_df = run_paraphrase(train_df,
+                              parrot
+                              )
+    train_df["for train"] = True
+    tr_te_df = pd.concat([train_df, test_df],
+                         axis=0)
+    tr_te_df.to_excel("../data/processed/train_test_only_paraphrased.xlsx")
+
