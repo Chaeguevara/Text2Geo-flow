@@ -19,10 +19,10 @@ def random_state(seed):
         torch.cuda.manual_seed_all(seed)
 
 
-def run_paraphrase(phrases, parrot):
-    new_df = phrases.copy()
+def run_paraphrase(train_df, parrot):
+    new_df = train_df.copy()
     i = 0
-    for row_dict in train_df.to_dict(orient="records"):
+    for row_dict in new_df.to_dict(orient="records"):
         i += 1
         new_df = new_df.append(row_dict, ignore_index=True)
         print(f"{i} th out of {len(train_df.to_dict(orient='records'))}")
@@ -47,7 +47,7 @@ def run_paraphrase(phrases, parrot):
     new_df.to_excel("../data/processed/paraphrased_train.xlsx")
     #df.to_parquet("../data/paraphrased.gzip",
     #              compression='gzip')
-    return df
+    return new_df
 
 
 def get_excel():
@@ -98,15 +98,18 @@ if __name__ == '__main__':
     df = get_excel()
     # Stratified sampling
     train_df = df.groupby('op_id', group_keys=False).apply(
-        lambda x: x.sample(frac=0.6,
+        lambda x: x.sample(frac=0.5,
                            random_state=124
                            )
     )
     test_df = df[~df.index.isin(train_df.index)]
+    print(train_df.head())
+    print(f"train_df idx = {train_df.index}")
+    print(f"test_df idx = {test_df.index}")
+    # raise Exception("Up to here")
     # 여기에서 Train / Test로 나눠야??
     test_df["for train"] = False
     print(test_df.shape)
-    train_df.to_excel("../data/processed/stratified_train.xlsx")
     test_df.to_excel("../data/processed/stratified_test.xlsx")
     print(train_df.shape)
     random_state(23341)
@@ -115,6 +118,7 @@ if __name__ == '__main__':
                               parrot
                               )
     train_df["for train"] = True
+    train_df.to_excel("../data/processed/stratified_train.xlsx")
     print(train_df.shape)
     tr_te_df = pd.concat([train_df, test_df],
                          axis=0,
