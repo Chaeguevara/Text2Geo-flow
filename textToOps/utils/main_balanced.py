@@ -117,7 +117,8 @@ if __name__ == '__main__':
     train_df["for train"] = True
     print(train_df.shape)
     tr_te_df = pd.concat([train_df, test_df],
-                         axis=0)
+                         axis=0,
+                         ignore_index=True)
     print(tr_te_df.shape)
     tr_te_df.to_excel("../data/processed/train_test_only_paraphrased.xlsx")
 
