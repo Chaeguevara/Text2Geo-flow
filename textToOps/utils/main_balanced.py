@@ -98,7 +98,9 @@ if __name__ == '__main__':
     df = get_excel()
     # Stratified sampling
     train_df = df.groupby('op_id', group_keys=False).apply(
-        lambda x: x.sample(frac=0.8)
+        lambda x: x.sample(frac=0.8,
+                           random_state=124
+                           )
     )
     test_df = df[~df.index.isin(train_df.index)]
     # 여기에서 Train / Test로 나눠야??
