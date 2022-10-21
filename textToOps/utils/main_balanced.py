@@ -105,15 +105,19 @@ if __name__ == '__main__':
     test_df = df[~df.index.isin(train_df.index)]
     # 여기에서 Train / Test로 나눠야??
     test_df["for train"] = False
+    print(test_df.shape)
     train_df.to_excel("../data/processed/stratified_train.xlsx")
     test_df.to_excel("../data/processed/stratified_test.xlsx")
+    print(train_df.shape)
     random_state(23341)
     parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5")
     train_df = run_paraphrase(train_df,
                               parrot
                               )
     train_df["for train"] = True
+    print(train_df.shape)
     tr_te_df = pd.concat([train_df, test_df],
                          axis=0)
+    print(tr_te_df.shape)
     tr_te_df.to_excel("../data/processed/train_test_only_paraphrased.xlsx")
 
