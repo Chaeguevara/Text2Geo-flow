@@ -98,7 +98,7 @@ if __name__ == '__main__':
     df = get_excel()
     # Stratified sampling
     train_df = df.groupby('op_id', group_keys=False).apply(
-        lambda x: x.sample(frac=0.7,
+        lambda x: x.sample(frac=0.6,
                            random_state=124
                            )
     )
