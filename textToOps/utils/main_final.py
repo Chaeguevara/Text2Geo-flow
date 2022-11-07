@@ -99,7 +99,7 @@ if __name__ == '__main__':
     # Stratified sampling
     train_df = df.groupby('op_id', group_keys=False).apply(
         lambda x: x.sample(frac=0.7,
-                           random_state=124
+                           random_state=1243314
                            )
     )
     test_df = df[~df.index.isin(train_df.index)]
@@ -124,5 +124,6 @@ if __name__ == '__main__':
                          axis=0,
                          ignore_index=True)
     print(tr_te_df.shape)
+    tr_te_df = tr_te_df.drop(columns=["Unnamed: 0"])
     tr_te_df.to_excel("../data/processed/train_test_only_paraphrased.xlsx")
 
