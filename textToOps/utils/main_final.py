@@ -29,9 +29,11 @@ def run_paraphrase(train_df, parrot):
         print(row_dict["Question"])
         para_phrases = parrot.augment(input_phrase=row_dict["Question"],
                                       use_gpu=True,
-                                      do_diverse=True,
+                                      do_diverse=False,
+                                      max_return_phrases = 20,
                                       max_length=60,
-                                      adequacy_threshold=0.95
+                                      adequacy_threshold=0.93,
+                                      fluency_threshold = 0.85
                                       )
         if para_phrases is None:
             continue
@@ -99,7 +101,7 @@ if __name__ == '__main__':
     # Stratified sampling
     train_df = df.groupby('op_id', group_keys=False).apply(
         lambda x: x.sample(frac=0.7,
-                           random_state=1243314
+                           random_state=3243314
                            )
     )
     test_df = df[~df.index.isin(train_df.index)]
