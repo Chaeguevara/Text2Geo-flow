@@ -30,6 +30,7 @@ def run_paraphrase(train_df, parrot):
         para_phrases = parrot.augment(input_phrase=row_dict["Question"],
                                       use_gpu=True,
                                       do_diverse=True,
+                                      max_return_phrases = 3,
                                       max_length=60,
                                       )
         if para_phrases is None:
