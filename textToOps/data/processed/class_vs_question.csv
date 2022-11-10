@@ -1,0 +1,227 @@
+0	45	From where are the wind farms visible in Amsterdam
+1	50	How many buildings are within 3 minutes of driving time from fire stations in Oleander
+2	0	How many luxury hotels are in Happy Valley ski resort
+3	14	How many streetlights for each district in San Diego
+4	50	What are the areas within a four-minute drive of each fire station at 2 a.m. on Tuesday in Utrecht
+5	1	What are the countries where literacy rates are rising or falling in Africa between 1990 and 2015
+6	13	What are the four fire stations with shortest network-based paths to 1202 Twin Peaks Blvd in San Francisco
+7	50	What are the four fire stations within 3 minutes of travel time from a fire in San Francisco
+8	49	What are the housing districts outside 15 minutes driving time from COVID testing sites in Connecticut
+9	14	What are the land use inside the flood zones in Oleander
+10	35	What are the median household income within 1.5 miles of library branches in Palm city
+11	3	What are the political leaning for each county in the United States
+12	13	What are the two fire stations closest to each school in Utrecht
+13	18	What are the vegetation areas larger than 6000 square meters in the Cape Peninsula
+14	2	What are the vote totals of an election for each precinct in Dallas
+15	8	What area are within 50 km from family physician services in Saskatchewan in Canada
+16	36	What area do have elevation higher than 30 meters in Netherlands
+17	8	What areas are at least 3000 meters from the rivers in Spain
+18	8	What areas are inside 1000 foot of schools in El Cajon
+19	34	What areas are minimum 3000 meters and maximum 5000 meters from the roads in UK
+20	8	What areas are more than 5000 meters from the roads in Spain
+21	6	What areas are not flood plain in Houston
+22	6	What areas are green belt areas in Houston
+23	6	What areas are not classified as flood plain in Houston
+24	6	Tell me not flood plain area in Houston
+25	6	What areas are not conatined as green belt areas in Houston
+26	6	What areas are not green belt areas in Houston
+27	0	What areas are not park in Houston
+28	0	What areas are not wetlands in Houston
+29	8	What areas are outside 150 meters from hospitals in Houston
+30	8	What areas are outside 150 meters from schools in Houston
+31	8	What areas are outside 155 meters from nature reserve districts in Houston
+32	8	What areas are outside 250 meters of human settlement in the Cape Peninsula
+33	8	What areas are outside 300 meters from streams in Houston
+34	8	What areas are outside 3000 meters of the rivers in Spain
+35	8	What areas are outside 5 km of water bodies in Assam in India
+36	8	What areas are outside 5000 meters of the roads in Spain
+37	8	What areas are outside 60 meters from residence in Houston
+38	8	What areas are outside 60 meters from water body in Houston
+39	8	What areas are within 10 miles of current transmission lines with a voltage greater than 400 in Colorado
+40	58	What areas are within 10 minutes, 30 minutes, and 60 minutes of driving time from private hospitals in Sichuan in China
+41	8	What areas are within 100 meters of cameras in Salford
+42	8	What areas are within 100 meters of the hospitals in Oleander
+43	8	What areas are within 1000 meters of roads in Assam in India
+44	8	What areas are within 1000 meters of the arcades in Oleander
+45	8	What areas are within 1000 meters of the major transport routes in Amsterdam
+46	8	What areas are within 1000 meters of the schools in Oleander
+47	42	What areas are within 15 minutes walking distance of a metro rail station in Kochi in India
+48	42	What areas are within 20 minutes driving time from flower stores in Oleander
+49	8	What areas are within 2000 meters of the playgrounds in Oleander
+50	53	What areas are reachable within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
+51	53	What areas are accessible within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
+52	53	What areas are within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
+53	53	What areas are outside 3 minutes of driving time from the nearest fire station (from my current location) in Oleander
+54	53	What areas are within 3 minutes of driving time from the nearest fire station (from my current location) in Oleander
+55	8	What areas are within 300 meters of runways in Schiphol airport
+56	8	What areas are within 500 meters from religious places in Karbala in Iraq
+57	8	What areas are within 500 meters from universities in Karbala in Iraq
+58	57	What areas are within 6 minute, 8 minute, 10 minute and 12 minute of driving time from fire stations in Utrecht
+59	42	What areas are within 60 minutes of airports in Crook, Deschutes, and Jefferson county
+60	8	What areas are within 800 meter from major highways in Houston
+61	8	What areas are within a quarter mile of a restaurant in Gresham
+62	8	What areas are within a quarter mile of a store in Gresham
+63	8	What areas are within a quarter mile of light rail stop in Gresham
+64	19	What reachable areas are within a quarter mile of planned commercial district in Gresham
+65	19	What areas are within a quarter mile of planned commercial district in Gresham
+66	8	What areas are within one mile of main roads in Loudoun County in US
+67	19	What areas are accessible within reach two miles of urban landuse in Loudoun County in US
+68	19	What areas are accessible within two miles of urban landuse in Loudoun County in US
+69	19	What areas are within two miles of urban landuse in Loudoun County in US
+70	44	What areas do have altitude between 700 and 2000 meters in Spain
+71	33	What areas do have population density less than 300 per square kilometer in UK
+72	44	What areas do have slope larger than 10 percent in Spain
+73	46	What areas do have temperature in Celsius less than 0 degrees in Spain
+74	46	What areas do have temperature in Celsius larger than 0 degrees in Spain
+75	46	What areas have an annual rainfall of less than 1000 millimeters in the Cape Peninsula
+76	46	What areas have an monthly rainfall of more than 1000 millimeters in the Cape Peninsula
+77	46	What areas have an annual amount of snowfall more than 1000 millimeters in the Cape Peninsula
+78	46	What areas have an annual snowfall more than 1000 millimeters in the Cape Peninsula
+79	46	What areas have an annual rainfall of more than 1000 millimeters in the Cape Peninsula
+80	44	What areas have an aspect larger than 45 degree and smaller than 135 degrees in the Cape Peninsula
+81	44	What areas have slope larger than 15 percent and smaller than 60 percent in the Cape Peninsula
+82	54	What buildings are within 2 minutes but not within 1 minute of driving time from a fire station in Fort Worth
+83	21	What houses are for sale and within 0.5km from the main roads in Utrecht
+84	39	Which houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
+85	39	What houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
+86	39	What houses are for sale and within 1km from the nearest subway station (from my current location) in Utrecht
+87	39	What houses are less than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
+88	39	What houses are for sale and within 1km from the nearest school (from my current location) in Utrecht
+89	39	What houses are for sale and within 1km from the nearest supermarket (from my current location) in Utrecht
+90	21	What houses are for sale and within 1km from the parks in Utrecht
+91	14	What houses are for sale outside flood zone in Utrecht
+92	14	What houses are for sale in flood zone in Utrecht
+93	14	What houses are less than 30 square meters in urban areas in Utrecht
+94	14	What houses are larger than 30 square meters in urban areas in Utrecht
+95	14	What houses are greather than 30 square meters in urban areas in Utrecht
+96	14	What houses are for sale in urban areas in Utrecht
+97	2	What is the area of currently mixed use zones in Gresham
+98	4	What is the aspect of ski pistes in the Happy Valley resort
+99	29	What is the average construction year of buildings for each PC4 area in Amsterdam
+100	40	What is the average income of households for each PC4 area in Amsterdam
+101	28	What is the average rating of street pavement for each borough in New York City
+102	10	What is the breast cancer mortality rate ratio between black women and white women for each county in the US
+103	15	Show me the central feature of bank branches in Oleander
+104	15	Tell me the central feature of bank branches in Oleander
+105	15	Tell me weighted average coordinates of bank branches in Oleander
+106	15	What is weighted average coordinates of bank branches in Oleander
+107	15	What is the central feature of bank branches in Oleander
+108	30	What is the central feature of bank branches weighted by the number of employees in Oleander city
+109	15	What is the central feature of fire station in Fort Worth
+110	2	What is the cervix cancer mortality rate of white females for each city in the Western USA from 1970 to 1994
+111	12	What is the crime rate for each police district in Texas in 2019
+112	11	What is the density surface of crape myrtles in Oleander
+113	5	What is the density surface of rainfall measurements in the Netherlands
+114	5	What is the density surface of temperature measurements in Oleander city
+115	26	What is the difference between breast cancer mortality rates of black women and white women for each county in the US
+116	25	What is the driving time from the windfarm company headquarters to the windfarm areas in Colorado
+117	5	What is the Euclidean distance to green areas in Amsterdam
+118	5	What is the Euclidean distance to hospitals in Oleander
+119	5	What is the Euclidean distance to recreational sites in Utrecht
+120	5	What is the Euclidean distance to schools in Utrecht
+121	5	What is the Euclidean distance to subway stations in Amsterdam
+122	5	What is the Euclidean distance to the rivers in Crook, Deschutes, and Jefferson county
+123	5	What is the Euclidean distance to tram stations in Amsterdam
+124	11	What is the hot spot of house vacancy rate in USA in 2019
+125	11	What is the hot spots and cold spots for average loan interest rates in the US
+126	43	What is the households density for each census block in Fort Worth
+127	11	What is the interpolated surface of ozone concentration in California
+128	11	What is the interpolation surface of NO2 concentration in Vancouver
+129	5	What is the kernel density of crime in Surrey in UK
+130	5	What is the kernel density of traffic accidents in Pasadena, California
+131	0	What is the land use in Netherlands
+132	0	What is the land use in the Happy Valley resort
+133	2	What is the literacy rate for each country in Africa
+134	2	What is the lung cancer mortality rate of white males for each city in the Western USA from 1970 to 1994
+135	32	What is the mean center of accidents weighted by priority for each alarm territories in Fort Worth
+136	32	What is the mean center of crimes in Amsterdam in 2019
+137	5	What is the mean center of crimes weighted by the severity in Fort Worth
+138	5	What is the mean center of customers weighted by the number of transactions in Oleander city
+139	16	Calculate the weighted coordinate average of library patrons for each district in Oleander
+140	16	What is the weighted coordinate average of library patrons for each district in Oleander
+141	16	What is the mean center of library patrons for each district in Oleander
+142	16	What is the mean center of the fire calls for each alarm territory in Fort Worth in 2017
+143	16	What is the mean center of the fire calls weighted by the priority in Fort Worth
+144	7	What is the mean direction of freeways in Oleander
+145	28	Tell me the median household income for each census block in Tarrant County in Texas
+146	28	What is the median number of family member for each census block in Tarrant County in Texas
+147	28	What is the median population for each census block in Tarrant County in Texas
+148	28	What is the median household income for each census block in Tarrant County in Texas
+149	28	Show me the median people age for each census tract in Tarrant County in Texas
+150	28	What is the median people age for each census tract in Tarrant County in Texas
+151	2	What is the number of arson cases in Fort Worth on February 2004
+152	50	What is the number of buildings within 3 minutes of driving time from fire stations in Oleander
+153	27	What is the number of crime cases for each police district in Texas in 2018
+154	14	What is the number of dwelling units inside the flood zones in Oleander
+155	27	What is the number of elderly people for each neighborhood in Amsterdam
+156	27	What is the number of election votes for each precinct in Dallas
+157	27	What is the number of high school students for each senior high school district in Oleander
+158	27	What is the number of Hispanics for each census block in Tarrant County in Texas
+159	27	What is the number of households for each precinct in Dallas County
+160	17	What is the number of inhabitants for each 100 by 100 meter grid in Banten province in Indonesia
+161	27	What is the number of inhabitants for each village in Banten province in Indonesia
+162	28	What is the number of injured pedestrians for each census tract in Georgia from 2000 to 2007 
+163	0	What is the number of luxury hotels in Happy Valley ski resort
+164	31	What is the number of maritime piracy incidents for each hexagonal grid in the world
+165	37	What is the number of tractors for each road in Texas
+166	9	What is the percentage of vacant houses to the house totals in Tarrant County, Texas
+167	43	What is the percentage of water areas for each PC4 area in Amsterdam
+168	32	What is the point density of cycling destinations in the Metro Vancouver region in Canada
+169	32	What is the point density of fire calls in Oleander
+170	33	What is the point density of trees in parks in Oleander
+171	41	What is the population density for each census block in Dallas
+172	51	What is the population density for each neighborhood in Riverside San Bernardino in CA
+173	55	What is the population density for each neighborhoods with no health care facility in Riverside-San Bernardino
+174	33	What is the population density in California
+175	0	What is the population for each city in Aichi prefecture in Japan
+176	2	What is the proportion of people over 65 for each PC4 area in Amsterdam
+177	22	What is the ratio of population over 55 years old in a zip code area to the total population over 55 years old in USA in 2019
+178	20	What is the slope in Utrecht
+179	24	What is the spatial autocorrelation of the amount of checkins for each location in the San Francisco Bay area
+180	2	What is the tornado path in Oleander in April 2011
+181	33	What is the total area of agriculture in Netherlands
+182	41	What is the total area of flood zones in Oleander
+183	38	What is the total length of bike routes for each district in San Diego
+184	56	What is the total miles of streets within four minutes of fire stations in Poway
+185	2	What is the total population for each census block in Tarrant County, Texas
+186	50	What is the total population within a four-minute travel time from fire stations in Poway
+187	52	What is the total property values within a four-minute travel time from fire stations in Poway
+188	21	What liquor stores are within 1000 foot of libraries in El Cajon
+189	21	What liquor stores are within 1000 foot of parks in El Cajon
+190	21	What liquor stores are within 1000 foot of schools in El Cajon
+191	21	What liquor stores are within 1000 foot of schools, libraries, and parks in El Cajon
+192	0	Where are forestry lands in Happy Valley ski resort
+193	18	Where are not conservation areas in UK
+194	18	Where are not protected region in Assam in India
+195	14	Where are the accidents within ski pistes in the Happy Valley
+196	2	Where are the auto accidents in Tarrant County in Texas
+197	18	Where are the commercial areas in Amsterdam
+198	18	Where are the fire stations in Utrecht
+199	18	Where are the five star hotels in the Happy Valley ski resort
+200	18	Where are the Hispanic food stores in Tarrant County in Texas
+201	47	Where are the holiday accommodations within 1000 meters of a windsurfing spot in Italy
+202	59	Where are the houses within 2640 feet, 5280 feet, and 7920 feet from fire station in Oleander
+203	18	Where are the industrial areas in Utrecht
+204	18	Where are the luxury hotels with more than 20 bedrooms in Happy Valley ski resort
+205	18	Where are the rocky areas in Spain
+206	18	Where are the ski pistes in Happy Valley ski resort
+207	48	Which hotels are within 0.3km of the longest ski piste in Happy Valley ski resort
+208	2	Which houses are for sale in Utrecht
+209	42	Which houses are within 2 minutes driving time from fire stations  (from my current location) in Oleander
+210	53	Which houses are within 3 minutes driving time from the nearest fire station (from my current location) in Oleander
+211	0	Which houses have construction year between 1990 and 2000 in Utrecht
+212	14	Which land use contains meteorological stations in Netherlands
+213	23	Which mental health facilities are closest to each address in Washington DC
+214	18	Which park is biggest in Utrecht
+215	50	Which schools are not accessible within 3 minutes by a car from a fire station in Fort Worth
+216	50	Which schools are not accessible within 3 minutes of driving time from a fire station in Fort Worth
+217	50	Which schools are not reachable within 3 minutes of driving time from a fire station in Fort Worth
+218	50	Which schools are not within 3 minutes of driving time from a fire station in Fort Worth
+219	0	Which shops are open at 6 pm in Happy Valley ski resort
+220	21	Which vacant lots are within 1 mile of a freeway in Hillsboro
+221	0	Which visitor facilities are in the Happy Valley
+222	13	Which suggested wind farm are nearest to the high way in Scotland
+223	13	Which proposed wind farm are nearest to the high way in Scotland
+224	13	Which wind farm proposals are nearest to the high way in Scotland
+225	13	Which wind farm proposals are nearest to the bike lane in Scotland
+226	13	Which wind farm proposals are nearest to the roads in Scotland
