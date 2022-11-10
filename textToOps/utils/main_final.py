@@ -98,17 +98,23 @@ if __name__ == '__main__':
     df = get_excel()
     # Stratified sampling
     train_df = df.groupby('op_id', group_keys=False).apply(
-        lambda x: x.sample(frac=1,
+        lambda x: x.sample(frac=0.7,
                            random_state=3243314
                            )
     )
     test_df = df[~df.index.isin(train_df.index)]
+    train_df["for train"] = True
+    test_df["for train"] = False
+    train_test_df = pd.concat([train_df, test_df],
+                              axis=0,
+                              ignore_index=True
+                              )
+    train_test_df.to_excel("../data/processed/train_test_without_paraphrase.xlsx")
     print(train_df.head())
     print(f"train_df idx = {train_df.index}")
     print(f"test_df idx = {test_df.index}")
     # raise Exception("Up to here")
     # 여기에서 Train / Test로 나눠야??
-    test_df["for train"] = False
     print(test_df.shape)
     test_df.to_excel("../data/processed/stratified_test.xlsx")
     print(train_df.shape)
@@ -117,7 +123,6 @@ if __name__ == '__main__':
     train_df = run_paraphrase(train_df,
                               parrot
                               )
-    train_df["for train"] = True
     train_df.to_excel("../data/processed/stratified_train.xlsx")
     print(train_df.shape)
     tr_te_df = pd.concat([train_df, test_df],
