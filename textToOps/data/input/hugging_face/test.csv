@@ -8,6 +8,7 @@ op_id,Question
 8,What areas are outside 5 km of water bodies in Assam in India
 8,What areas are within 1000 meters of the arcades in Oleander
 8,What areas are within 1000 meters of the major transport routes in Amsterdam
+42,What areas are within 20 minutes driving time from flower stores in Oleander
 8,What areas are within 2000 meters of the playgrounds in Oleander
 53,What areas are within 3 minutes of driving time from the nearest fire station (from my current location) in Oleander
 8,What areas are within 500 meters from universities in Karbala in Iraq
@@ -15,6 +16,7 @@ op_id,Question
 8,What areas are within one mile of main roads in Loudoun County in US
 19,What areas are accessible within two miles of urban landuse in Loudoun County in US
 19,What areas are within two miles of urban landuse in Loudoun County in US
+44,What areas do have slope larger than 10 percent in Spain
 46,What areas have an annual amount of snowfall more than 1000 millimeters in the Cape Peninsula
 46,What areas have an annual snowfall more than 1000 millimeters in the Cape Peninsula
 39,What houses are for sale and within 1km from the nearest school (from my current location) in Utrecht
@@ -35,6 +37,7 @@ op_id,Question
 0,What is the land use in the Happy Valley resort
 2,What is the literacy rate for each country in Africa
 2,What is the lung cancer mortality rate of white males for each city in the Western USA from 1970 to 1994
+32,What is the mean center of crimes in Amsterdam in 2019
 16,What is the mean center of the fire calls for each alarm territory in Fort Worth in 2017
 16,What is the mean center of the fire calls weighted by the priority in Fort Worth
 28,What is the median household income for each census block in Tarrant County in Texas
@@ -44,6 +47,7 @@ op_id,Question
 27,What is the number of Hispanics for each census block in Tarrant County in Texas
 27,What is the number of households for each precinct in Dallas County
 0,What is the number of luxury hotels in Happy Valley ski resort
+33,What is the point density of trees in parks in Oleander
 2,"What is the total population for each census block in Tarrant County, Texas"
 50,What is the total population within a four-minute travel time from fire stations in Poway
 21,What liquor stores are within 1000 foot of schools in El Cajon

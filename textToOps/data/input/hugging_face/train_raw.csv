@@ -94,10 +94,22 @@ op_id,Question
 28,What is the median people age for each census tract in Tarrant County in Texas
 28,Tell me the median household income for each census block in Tarrant County in Texas
 28,What is the median population for each census block in Tarrant County in Texas
+32,What is the point density of cycling destinations in the Metro Vancouver region in Canada
+32,What is the point density of fire calls in Oleander
+32,What is the mean center of accidents weighted by priority for each alarm territories in Fort Worth
+33,What is the population density in California
+33,What is the total area of agriculture in Netherlands
+33,What areas do have population density less than 300 per square kilometer in UK
 39,What houses are for sale and within 1km from the nearest subway station (from my current location) in Utrecht
 39,What houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
 39,Which houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
 39,What houses are less than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
+42,"What areas are within 60 minutes of airports in Crook, Deschutes, and Jefferson county"
+42,Which houses are within 2 minutes driving time from fire stations  (from my current location) in Oleander
+42,What areas are within 15 minutes walking distance of a metro rail station in Kochi in India
+44,What areas have an aspect larger than 45 degree and smaller than 135 degrees in the Cape Peninsula
+44,What areas have slope larger than 15 percent and smaller than 60 percent in the Cape Peninsula
+44,What areas do have altitude between 700 and 2000 meters in Spain
 46,What areas have an annual rainfall of more than 1000 millimeters in the Cape Peninsula
 46,What areas have an annual rainfall of less than 1000 millimeters in the Cape Peninsula
 46,What areas do have temperature in Celsius larger than 0 degrees in Spain
