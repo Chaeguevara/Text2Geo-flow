@@ -1,189 +1,173 @@
 ,op_id,Question
-0,6,What areas are not classified as flood plain in Houston
-1,2,What is the number of arson cases in Fort Worth on February 2004
-2,50,Which schools are not accessible within 3 minutes by a car from a fire station in Fort Worth
-3,5,What is the mean center of customers weighted by the number of transactions in Oleander city
-4,19,What areas are accessible within reach two miles of urban landuse in Loudoun County in US
-5,8,What areas are within 100 meters of the hospitals in Oleander
-6,15,What is weighted average coordinates of bank branches in Oleander
-7,21,What liquor stores are within 1000 foot of libraries in El Cajon
-8,13,What are the four fire stations with shortest network-based paths to 1202 Twin Peaks Blvd in San Francisco
-9,14,Which land use contains meteorological stations in Netherlands
-10,13,Which proposed wind farm are nearest to the high way in Scotland
-11,0,Which visitor facilities are in the Happy Valley
-12,44,What areas do have slope larger than 10 percent in Spain
-13,8,What areas are at least 3000 meters from the rivers in Spain
-14,5,What is the density surface of rainfall measurements in the Netherlands
-15,8,What areas are within 1000 meters of the major transport routes in Amsterdam
-16,5,What is the Euclidean distance to green areas in Amsterdam
-17,8,What areas are within 10 miles of current transmission lines with a voltage greater than 400 in Colorado
-18,8,What areas are within 500 meters from religious places in Karbala in Iraq
-19,16,Calculate the weighted coordinate average of library patrons for each district in Oleander
-20,33,What is the point density of trees in parks in Oleander
-21,0,What is the number of luxury hotels in Happy Valley ski resort
-22,39,Which houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
-23,28,What is the median population for each census block in Tarrant County in Texas
-24,42,What areas are within 20 minutes driving time from flower stores in Oleander
-25,18,Where are the rocky areas in Spain
-26,0,What is the land use in Netherlands
-27,27,What is the number of election votes for each precinct in Dallas
-28,50,Which schools are not within 3 minutes of driving time from a fire station in Fort Worth
-29,6,What areas are not flood plain in Houston
-30,27,What is the number of crime cases for each police district in Texas in 2018
-31,19,What reachable areas are within a quarter mile of planned commercial district in Gresham
-32,8,What area are within 50 km from family physician services in Saskatchewan in Canada
-33,28,What is the number of injured pedestrians for each census tract in Georgia from 2000 to 2007 
-34,18,Which park is biggest in Utrecht
-35,32,What is the mean center of crimes in Amsterdam in 2019
-36,5,What is the mean center of crimes weighted by the severity in Fort Worth
-37,46,What areas do have temperature in Celsius less than 0 degrees in Spain
-38,2,What are the vote totals of an election for each precinct in Dallas
-39,11,What is the hot spots and cold spots for average loan interest rates in the US
-40,2,What is the cervix cancer mortality rate of white females for each city in the Western USA from 1970 to 1994
-41,28,What is the average rating of street pavement for each borough in New York City
-42,2,What is the literacy rate for each country in Africa
-43,18,Where are the ski pistes in Happy Valley ski resort
-44,8,What areas are outside 300 meters from streams in Houston
-45,32,What is the point density of fire calls in Oleander
-46,8,What areas are more than 5000 meters from the roads in Spain
-47,5,What is the kernel density of crime in Surrey in UK
-48,50,How many buildings are within 3 minutes of driving time from fire stations in Oleander
-49,8,What areas are within 1000 meters of the arcades in Oleander
-50,39,What houses are less than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
-51,14,What is the number of dwelling units inside the flood zones in Oleander
-52,5,What is the Euclidean distance to tram stations in Amsterdam
-53,53,What areas are reachable within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
-54,8,What areas are within 800 meter from major highways in Houston
-55,8,What areas are within 1000 meters of the schools in Oleander
-56,5,"What is the kernel density of traffic accidents in Pasadena, California"
-57,15,Show me the central feature of bank branches in Oleander
-58,50,What is the number of buildings within 3 minutes of driving time from fire stations in Oleander
-59,39,What houses are for sale and within 1km from the nearest subway station (from my current location) in Utrecht
-60,8,What areas are within a quarter mile of a store in Gresham
-61,19,What areas are accessible within two miles of urban landuse in Loudoun County in US
-62,18,Where are the five star hotels in the Happy Valley ski resort
-63,21,What liquor stores are within 1000 foot of parks in El Cajon
-64,8,What areas are inside 1000 foot of schools in El Cajon
-65,14,What houses are for sale outside flood zone in Utrecht
-66,13,Which suggested wind farm are nearest to the high way in Scotland
-67,11,What is the interpolated surface of ozone concentration in California
-68,8,What areas are outside 5 km of water bodies in Assam in India
-69,46,What areas have an annual snowfall more than 1000 millimeters in the Cape Peninsula
-70,28,What is the median number of family member for each census block in Tarrant County in Texas
-71,14,What houses are larger than 30 square meters in urban areas in Utrecht
-72,2,Which houses are for sale in Utrecht
-73,8,What areas are within a quarter mile of a restaurant in Gresham
-74,53,What areas are outside 3 minutes of driving time from the nearest fire station (from my current location) in Oleander
-75,21,What houses are for sale and within 0.5km from the main roads in Utrecht
-76,16,What is the mean center of the fire calls for each alarm territory in Fort Worth in 2017
-77,42,Which houses are within 2 minutes driving time from fire stations  (from my current location) in Oleander
-78,27,What is the number of households for each precinct in Dallas County
-79,33,What is the total area of agriculture in Netherlands
-80,6,Tell me not flood plain area in Houston
-81,46,What areas have an annual rainfall of less than 1000 millimeters in the Cape Peninsula
-82,0,What areas are not wetlands in Houston
-83,0,Which houses have construction year between 1990 and 2000 in Utrecht
-84,15,Tell me weighted average coordinates of bank branches in Oleander
-85,11,What is the density surface of crape myrtles in Oleander
-86,13,Which wind farm proposals are nearest to the bike lane in Scotland
-87,50,What are the four fire stations within 3 minutes of travel time from a fire in San Francisco
-88,8,What areas are within 100 meters of cameras in Salford
-89,18,Where are not protected region in Assam in India
-90,46,What areas have an monthly rainfall of more than 1000 millimeters in the Cape Peninsula
-91,53,What areas are within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
-92,18,What are the vegetation areas larger than 6000 square meters in the Cape Peninsula
-93,2,"What is the total population for each census block in Tarrant County, Texas"
-94,14,What houses are for sale in flood zone in Utrecht
-95,27,What is the number of high school students for each senior high school district in Oleander
-96,44,What areas have slope larger than 15 percent and smaller than 60 percent in the Cape Peninsula
-97,0,How many luxury hotels are in Happy Valley ski resort
-98,21,"What liquor stores are within 1000 foot of schools, libraries, and parks in El Cajon"
-99,16,What is the mean center of library patrons for each district in Oleander
-100,14,How many streetlights for each district in San Diego
-101,50,What are the areas within a four-minute drive of each fire station at 2 a.m. on Tuesday in Utrecht
-102,14,What are the land use inside the flood zones in Oleander
-103,13,What are the two fire stations closest to each school in Utrecht
-104,6,What areas are green belt areas in Houston
-105,6,What areas are not conatined as green belt areas in Houston
-106,6,What areas are not green belt areas in Houston
-107,0,What areas are not park in Houston
-108,8,What areas are outside 150 meters from hospitals in Houston
-109,8,What areas are outside 150 meters from schools in Houston
-110,8,What areas are outside 155 meters from nature reserve districts in Houston
+0,8,What areas are outside 60 meters from residence in Houston
+1,18,Where are the fire stations in Utrecht
+2,5,What is the Euclidean distance to recreational sites in Utrecht
+3,2,What is the proportion of people over 65 for each PC4 area in Amsterdam
+4,53,What areas are outside 3 minutes of driving time from the nearest fire station (from my current location) in Oleander
+5,0,What is the land use in the Happy Valley resort
+6,2,What is the literacy rate for each country in Africa
+7,6,What areas are not conatined as green belt areas in Houston
+8,39,Which houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
+9,0,Which houses have construction year between 1990 and 2000 in Utrecht
+10,5,What is the Euclidean distance to tram stations in Amsterdam
+11,28,What is the median household income for each census block in Tarrant County in Texas
+12,50,What is the total population within a four-minute travel time from fire stations in Poway
+13,14,What houses are less than 30 square meters in urban areas in Utrecht
+14,39,What houses are for sale and within 1km from the nearest supermarket (from my current location) in Utrecht
+15,8,What areas are within 1000 meters of the schools in Oleander
+16,8,What areas are within 10 miles of current transmission lines with a voltage greater than 400 in Colorado
+17,5,What is the mean center of customers weighted by the number of transactions in Oleander city
+18,21,What liquor stores are within 1000 foot of schools in El Cajon
+19,53,What areas are reachable within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
+20,8,What areas are within a quarter mile of light rail stop in Gresham
+21,27,What is the number of inhabitants for each village in Banten province in Indonesia
+22,18,Where are the Hispanic food stores in Tarrant County in Texas
+23,5,What is the Euclidean distance to schools in Utrecht
+24,14,What houses are greather than 30 square meters in urban areas in Utrecht
+25,8,What areas are outside 300 meters from streams in Houston
+26,15,Show me the central feature of bank branches in Oleander
+27,18,What are the vegetation areas larger than 6000 square meters in the Cape Peninsula
+28,18,Where are the five star hotels in the Happy Valley ski resort
+29,13,What are the four fire stations with shortest network-based paths to 1202 Twin Peaks Blvd in San Francisco
+30,0,Which visitor facilities are in the Happy Valley
+31,8,What areas are within 100 meters of the hospitals in Oleander
+32,27,What is the number of Hispanics for each census block in Tarrant County in Texas
+33,15,What is the central feature of bank branches in Oleander
+34,21,What houses are for sale and within 0.5km from the main roads in Utrecht
+35,8,What areas are within 100 meters of cameras in Salford
+36,15,What is the central feature of fire station in Fort Worth
+37,16,Calculate the weighted coordinate average of library patrons for each district in Oleander
+38,27,What is the number of households for each precinct in Dallas County
+39,5,What is the Euclidean distance to subway stations in Amsterdam
+40,50,Which schools are not within 3 minutes of driving time from a fire station in Fort Worth
+41,2,What is the area of currently mixed use zones in Gresham
+42,8,What areas are within a quarter mile of a restaurant in Gresham
+43,0,What is the land use in Netherlands
+44,19,What areas are accessible within reach two miles of urban landuse in Loudoun County in US
+45,2,Which houses are for sale in Utrecht
+46,16,What is the mean center of library patrons for each district in Oleander
+47,6,Tell me not flood plain area in Houston
+48,21,Which vacant lots are within 1 mile of a freeway in Hillsboro
+49,6,What areas are not flood plain in Houston
+50,2,"What is the total population for each census block in Tarrant County, Texas"
+51,28,What is the median people age for each census tract in Tarrant County in Texas
+52,50,How many buildings are within 3 minutes of driving time from fire stations in Oleander
+53,6,What areas are not green belt areas in Houston
+54,27,What is the number of crime cases for each police district in Texas in 2018
+55,13,Which wind farm proposals are nearest to the roads in Scotland
+56,5,What is the density surface of rainfall measurements in the Netherlands
+57,16,What is the mean center of the fire calls weighted by the priority in Fort Worth
+58,46,What areas do have temperature in Celsius less than 0 degrees in Spain
+59,8,What areas are outside 155 meters from nature reserve districts in Houston
+60,8,What areas are within one mile of main roads in Loudoun County in US
+61,5,What is the density surface of temperature measurements in Oleander city
+62,14,What are the land use inside the flood zones in Oleander
+63,39,What houses are for sale and within 1km from the nearest school (from my current location) in Utrecht
+64,28,Show me the median people age for each census tract in Tarrant County in Texas
+65,8,What areas are within 800 meter from major highways in Houston
+66,18,Which park is biggest in Utrecht
+67,8,What areas are inside 1000 foot of schools in El Cajon
+68,11,What is the interpolation surface of NO2 concentration in Vancouver
+69,8,What areas are outside 150 meters from schools in Houston
+70,8,What areas are within 1000 meters of roads in Assam in India
+71,8,What areas are within 500 meters from universities in Karbala in Iraq
+72,50,What are the areas within a four-minute drive of each fire station at 2 a.m. on Tuesday in Utrecht
+73,21,"What liquor stores are within 1000 foot of schools, libraries, and parks in El Cajon"
+74,13,Which wind farm proposals are nearest to the high way in Scotland
+75,2,What are the vote totals of an election for each precinct in Dallas
+76,8,What areas are more than 5000 meters from the roads in Spain
+77,53,Which houses are within 3 minutes driving time from the nearest fire station (from my current location) in Oleander
+78,18,Where are not conservation areas in UK
+79,14,What is the number of dwelling units inside the flood zones in Oleander
+80,39,What houses are less than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
+81,19,What areas are within two miles of urban landuse in Loudoun County in US
+82,28,What is the average rating of street pavement for each borough in New York City
+83,5,"What is the kernel density of traffic accidents in Pasadena, California"
+84,46,What areas have an annual rainfall of more than 1000 millimeters in the Cape Peninsula
+85,0,What areas are not park in Houston
+86,0,What is the population for each city in Aichi prefecture in Japan
+87,14,How many streetlights for each district in San Diego
+88,8,What areas are at least 3000 meters from the rivers in Spain
+89,11,What is the density surface of crape myrtles in Oleander
+90,50,Which schools are not accessible within 3 minutes of driving time from a fire station in Fort Worth
+91,8,What area are within 50 km from family physician services in Saskatchewan in Canada
+92,14,What houses are for sale in flood zone in Utrecht
+93,46,What areas have an annual snowfall more than 1000 millimeters in the Cape Peninsula
+94,53,What areas are within 3 minutes of driving time from the nearest fire station (from my current location) in Oleander
+95,46,What areas have an annual amount of snowfall more than 1000 millimeters in the Cape Peninsula
+96,15,What is weighted average coordinates of bank branches in Oleander
+97,2,What is the lung cancer mortality rate of white males for each city in the Western USA from 1970 to 1994
+98,13,Which wind farm proposals are nearest to the bike lane in Scotland
+99,19,What reachable areas are within a quarter mile of planned commercial district in Gresham
+100,28,What is the median population for each census block in Tarrant County in Texas
+101,0,How many luxury hotels are in Happy Valley ski resort
+102,18,Where are the luxury hotels with more than 20 bedrooms in Happy Valley ski resort
+103,14,Which land use contains meteorological stations in Netherlands
+104,11,What is the hot spots and cold spots for average loan interest rates in the US
+105,50,What are the four fire stations within 3 minutes of travel time from a fire in San Francisco
+106,13,What are the two fire stations closest to each school in Utrecht
+107,6,What areas are green belt areas in Houston
+108,6,What areas are not classified as flood plain in Houston
+109,0,What areas are not wetlands in Houston
+110,8,What areas are outside 150 meters from hospitals in Houston
 111,8,What areas are outside 250 meters of human settlement in the Cape Peninsula
 112,8,What areas are outside 3000 meters of the rivers in Spain
-113,8,What areas are outside 5000 meters of the roads in Spain
-114,8,What areas are outside 60 meters from residence in Houston
+113,8,What areas are outside 5 km of water bodies in Assam in India
+114,8,What areas are outside 5000 meters of the roads in Spain
 115,8,What areas are outside 60 meters from water body in Houston
-116,8,What areas are within 1000 meters of roads in Assam in India
-117,42,What areas are within 15 minutes walking distance of a metro rail station in Kochi in India
+116,8,What areas are within 1000 meters of the arcades in Oleander
+117,8,What areas are within 1000 meters of the major transport routes in Amsterdam
 118,8,What areas are within 2000 meters of the playgrounds in Oleander
 119,53,What areas are accessible within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
-120,53,What areas are within 3 minutes of driving time from the nearest fire station (from my current location) in Oleander
+120,53,What areas are within 3 minutes of by car from the nearest fire station (from my current location) in Oleander
 121,8,What areas are within 300 meters of runways in Schiphol airport
-122,8,What areas are within 500 meters from universities in Karbala in Iraq
-123,42,"What areas are within 60 minutes of airports in Crook, Deschutes, and Jefferson county"
-124,8,What areas are within a quarter mile of light rail stop in Gresham
-125,19,What areas are within a quarter mile of planned commercial district in Gresham
-126,8,What areas are within one mile of main roads in Loudoun County in US
-127,19,What areas are within two miles of urban landuse in Loudoun County in US
-128,44,What areas do have altitude between 700 and 2000 meters in Spain
-129,33,What areas do have population density less than 300 per square kilometer in UK
-130,46,What areas do have temperature in Celsius larger than 0 degrees in Spain
-131,46,What areas have an annual amount of snowfall more than 1000 millimeters in the Cape Peninsula
-132,46,What areas have an annual rainfall of more than 1000 millimeters in the Cape Peninsula
-133,44,What areas have an aspect larger than 45 degree and smaller than 135 degrees in the Cape Peninsula
-134,39,What houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
-135,39,What houses are for sale and within 1km from the nearest school (from my current location) in Utrecht
-136,39,What houses are for sale and within 1km from the nearest supermarket (from my current location) in Utrecht
-137,21,What houses are for sale and within 1km from the parks in Utrecht
-138,14,What houses are less than 30 square meters in urban areas in Utrecht
-139,14,What houses are greather than 30 square meters in urban areas in Utrecht
-140,14,What houses are for sale in urban areas in Utrecht
-141,2,What is the area of currently mixed use zones in Gresham
-142,15,Tell me the central feature of bank branches in Oleander
-143,15,What is the central feature of bank branches in Oleander
-144,15,What is the central feature of fire station in Fort Worth
-145,5,What is the density surface of temperature measurements in Oleander city
-146,5,What is the Euclidean distance to hospitals in Oleander
-147,5,What is the Euclidean distance to recreational sites in Utrecht
-148,5,What is the Euclidean distance to schools in Utrecht
-149,5,What is the Euclidean distance to subway stations in Amsterdam
-150,5,"What is the Euclidean distance to the rivers in Crook, Deschutes, and Jefferson county"
-151,11,What is the hot spot of house vacancy rate in USA in 2019
-152,11,What is the interpolation surface of NO2 concentration in Vancouver
-153,0,What is the land use in the Happy Valley resort
-154,2,What is the lung cancer mortality rate of white males for each city in the Western USA from 1970 to 1994
-155,32,What is the mean center of accidents weighted by priority for each alarm territories in Fort Worth
-156,16,What is the weighted coordinate average of library patrons for each district in Oleander
-157,16,What is the mean center of the fire calls weighted by the priority in Fort Worth
-158,28,Tell me the median household income for each census block in Tarrant County in Texas
-159,28,What is the median household income for each census block in Tarrant County in Texas
-160,28,Show me the median people age for each census tract in Tarrant County in Texas
-161,28,What is the median people age for each census tract in Tarrant County in Texas
-162,27,What is the number of elderly people for each neighborhood in Amsterdam
-163,27,What is the number of Hispanics for each census block in Tarrant County in Texas
-164,27,What is the number of inhabitants for each village in Banten province in Indonesia
-165,32,What is the point density of cycling destinations in the Metro Vancouver region in Canada
-166,33,What is the population density in California
-167,0,What is the population for each city in Aichi prefecture in Japan
-168,2,What is the proportion of people over 65 for each PC4 area in Amsterdam
-169,2,What is the tornado path in Oleander in April 2011
-170,50,What is the total population within a four-minute travel time from fire stations in Poway
-171,21,What liquor stores are within 1000 foot of schools in El Cajon
-172,0,Where are forestry lands in Happy Valley ski resort
-173,18,Where are not conservation areas in UK
-174,14,Where are the accidents within ski pistes in the Happy Valley
-175,2,Where are the auto accidents in Tarrant County in Texas
-176,18,Where are the commercial areas in Amsterdam
-177,18,Where are the fire stations in Utrecht
-178,18,Where are the Hispanic food stores in Tarrant County in Texas
-179,18,Where are the industrial areas in Utrecht
-180,18,Where are the luxury hotels with more than 20 bedrooms in Happy Valley ski resort
-181,53,Which houses are within 3 minutes driving time from the nearest fire station (from my current location) in Oleander
-182,50,Which schools are not accessible within 3 minutes of driving time from a fire station in Fort Worth
-183,50,Which schools are not reachable within 3 minutes of driving time from a fire station in Fort Worth
-184,0,Which shops are open at 6 pm in Happy Valley ski resort
-185,21,Which vacant lots are within 1 mile of a freeway in Hillsboro
-186,13,Which wind farm proposals are nearest to the high way in Scotland
-187,13,Which wind farm proposals are nearest to the roads in Scotland
+122,8,What areas are within 500 meters from religious places in Karbala in Iraq
+123,8,What areas are within a quarter mile of a store in Gresham
+124,19,What areas are within a quarter mile of planned commercial district in Gresham
+125,19,What areas are accessible within two miles of urban landuse in Loudoun County in US
+126,46,What areas do have temperature in Celsius larger than 0 degrees in Spain
+127,46,What areas have an annual rainfall of less than 1000 millimeters in the Cape Peninsula
+128,46,What areas have an monthly rainfall of more than 1000 millimeters in the Cape Peninsula
+129,39,What houses are larger than 30 square meters and within 1km from the nearest school (from my current location) in Utrecht
+130,39,What houses are for sale and within 1km from the nearest subway station (from my current location) in Utrecht
+131,21,What houses are for sale and within 1km from the parks in Utrecht
+132,14,What houses are for sale outside flood zone in Utrecht
+133,14,What houses are larger than 30 square meters in urban areas in Utrecht
+134,14,What houses are for sale in urban areas in Utrecht
+135,15,Tell me the central feature of bank branches in Oleander
+136,15,Tell me weighted average coordinates of bank branches in Oleander
+137,2,What is the cervix cancer mortality rate of white females for each city in the Western USA from 1970 to 1994
+138,5,What is the Euclidean distance to green areas in Amsterdam
+139,5,What is the Euclidean distance to hospitals in Oleander
+140,5,"What is the Euclidean distance to the rivers in Crook, Deschutes, and Jefferson county"
+141,11,What is the hot spot of house vacancy rate in USA in 2019
+142,11,What is the interpolated surface of ozone concentration in California
+143,5,What is the kernel density of crime in Surrey in UK
+144,5,What is the mean center of crimes weighted by the severity in Fort Worth
+145,16,What is the weighted coordinate average of library patrons for each district in Oleander
+146,16,What is the mean center of the fire calls for each alarm territory in Fort Worth in 2017
+147,28,Tell me the median household income for each census block in Tarrant County in Texas
+148,28,What is the median number of family member for each census block in Tarrant County in Texas
+149,2,What is the number of arson cases in Fort Worth on February 2004
+150,50,What is the number of buildings within 3 minutes of driving time from fire stations in Oleander
+151,27,What is the number of elderly people for each neighborhood in Amsterdam
+152,27,What is the number of election votes for each precinct in Dallas
+153,27,What is the number of high school students for each senior high school district in Oleander
+154,28,What is the number of injured pedestrians for each census tract in Georgia from 2000 to 2007 
+155,0,What is the number of luxury hotels in Happy Valley ski resort
+156,2,What is the tornado path in Oleander in April 2011
+157,21,What liquor stores are within 1000 foot of libraries in El Cajon
+158,21,What liquor stores are within 1000 foot of parks in El Cajon
+159,0,Where are forestry lands in Happy Valley ski resort
+160,18,Where are not protected region in Assam in India
+161,14,Where are the accidents within ski pistes in the Happy Valley
+162,2,Where are the auto accidents in Tarrant County in Texas
+163,18,Where are the commercial areas in Amsterdam
+164,18,Where are the industrial areas in Utrecht
+165,18,Where are the rocky areas in Spain
+166,18,Where are the ski pistes in Happy Valley ski resort
+167,50,Which schools are not accessible within 3 minutes by a car from a fire station in Fort Worth
+168,50,Which schools are not reachable within 3 minutes of driving time from a fire station in Fort Worth
+169,0,Which shops are open at 6 pm in Happy Valley ski resort
+170,13,Which suggested wind farm are nearest to the high way in Scotland
+171,13,Which proposed wind farm are nearest to the high way in Scotland
